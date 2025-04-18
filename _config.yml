@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Minjie
+first_name: Princeton
 middle_name: 
-last_name: Chen
+last_name: Power Electronics
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -206,7 +206,7 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _posts/
-  - _projects/?_project.md
+  - _pages/cv.md
   - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
