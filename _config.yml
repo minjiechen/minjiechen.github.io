@@ -55,7 +55,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -203,7 +203,6 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/blog.md
-  - _pages/profiles.md
   - _pages/repositories.md
   - _pages/dropdown.md
   - _posts/
@@ -282,8 +281,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chen]
+  first_name: [Minjie]
 
   style: apa
   locale: en
