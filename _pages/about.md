@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Prof. Minjie Chen</a>, Princeton University, USA
+subtitle: <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a>, Princeton University, USA
 
 profile:
   align: right
@@ -16,14 +16,14 @@ selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: true            # includes social icons at the bottom of the page
 ---
 
-We develop future power conversion systems at Princeton University. We create new knowledge in power electronics to enable important and emerging applications.
+We develop power conversion systems for humanity and the future world. We create fundamental knowledge in power electronics to enable important and emerging applications.
 
-Our research spans across the full stack of power electronics ranging from theories to applications, from architecture to control. Our current research focuses include:
+Our research spans across the full stack of power electronics ranging from theories to applications, from architecture to control, and from human methods to artificial intelligence. Our current research focuses include:
 
-- Smarter power electronics at the grid edge
-- Smaller power electronics for robotics and EVs
-- Ultra-efficient power electronics for information and artificial intelligence systems
-- Design methods and software tools for power electronics and system architectures
+- Power electronics theories
+- Power electronics applications
+- Power electronics design methods
+- Power electronics artificial intelligence
 
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
