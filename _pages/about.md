@@ -17,8 +17,9 @@ selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: true            # includes social icons at the bottom of the page
 ---
 
-We develop power electronics systems for humanity and for the future. We create new knowledge and push the boundaries across the full stack of power electronics, including:
+We develop power electronics systems for humanity and for the future. 
 
+We create new knowledge and push the boundaries across the full stack of power electronics, including:
 - Power electronics <a href="#">theories</a>
 - Power electronics <a href="#">materials</a>
 - Power electronics <a href="#">applications</a>
