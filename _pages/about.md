@@ -6,7 +6,7 @@ subtitle: <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Ch
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: group.jpg
   image_circular: false # crops the image to make it circular
 
 images:
@@ -16,9 +16,7 @@ selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: true            # includes social icons at the bottom of the page
 ---
 
-We develop power electronics systems for humanity and for the future world. We create new fundamental knowledge and push the boundaries of power electronics to enable important and emerging applications.
-
-Our research spans across the full stack of power electronics ranging from theories to applications, from architecture to control, and from design methods to artificial intelligence. Our current focus include:
+We develop power electronics systems for humanity and for the future. We create new knowledge and push the boundaries across the full stack of power electronics, including:
 
 - Power electronics <a href="#">theories</a>
 - Power electronics <a href="#">materials</a>
@@ -26,7 +24,7 @@ Our research spans across the full stack of power electronics ranging from theor
 - Power electronics <a href="#">design methods</a>
 - Power electronics <a href="#">artificial intelligence</a>
 
-## Gallery
+## gallery
 
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
