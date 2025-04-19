@@ -12,14 +12,13 @@ profile:
 images:
     venobox: true
 news: true              # includes a list of news items
-latest_posts: false     # disable latest posts
+latest_posts: 
+    enabled: false          # disable latest posts
 selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: true            # includes social icons at the bottom of the page
 ---
 
-We develop power electronics systems for humanity and for the future. 
-
-We create new knowledge and push the boundaries across the full stack of power electronics, including:
+At Princeton, we develop power electronics systems for humanity and for the future. We create new knowledge and push the boundaries in all aspects, including:
 - Power electronics <a href="#">theories</a>
 - Power electronics <a href="#">materials</a>
 - Power electronics <a href="#">applications</a>
