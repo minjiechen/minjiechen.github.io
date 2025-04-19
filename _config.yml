@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Minjie Chen # the website title (if blank, full name will be used instead)
 first_name: Princeton
-middle_name: 
-last_name: Power Electronics Lab
+middle_name: Power Electronics
+last_name: Lab
 contact_note: 
 description: 
 footer_text: >
@@ -49,7 +49,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -81,7 +81,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name:  # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
