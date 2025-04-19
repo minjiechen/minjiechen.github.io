@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a>, Princeton University, USA
-subtitle: Electrical and Computer Engineering
-subtitle: Andlinger Center for Energy and the Environment
+subtitle: <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a> <br />Electrical and Computer Engineering <br />Andlinger Center for Energy and the Environment <br /> Princeton University, USA
 
 profile:
   align: right
@@ -28,8 +26,10 @@ Our research spans across the full stack of power electronics ranging from theor
 - Power electronics <a href="#">design methods</a>
 - Power electronics <a href="#">artificial intelligence</a>
 
-# Gallery
+## Gallery
 
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
