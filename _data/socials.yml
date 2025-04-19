@@ -2,15 +2,22 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+scholar_userid: ECMrftkAAAAJ&hl # your Google Scholar ID
+github_username: minjiechen # your GitHub user name
+linkedin_username: minjie-chen-bba2506 # your LinkedIn user name
+youtube_id: princetonpowerelectronics168 # your youtube channel id (youtube.com/@<youtube_id>)
+orcid_id: 0000-0003-0705-563X # your ORCID ID
+ieee_id: 37086129263 # your ieeexplore.ieee.org/author/id
+email: minjie@princeton.edu # your email address
+
+
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: minjie@princeton.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -20,17 +27,14 @@ email: minjie@princeton.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: minjie-chen-bba2506 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
-scholar_userid: ECMrftkAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
