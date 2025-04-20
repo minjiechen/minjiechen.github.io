@@ -7,7 +7,7 @@ subtitle: <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Ch
 
 profile:
   align: right
-  image: group.jpg
+  image: minjie.jpg
   image_circular: false # crops the image to make it circular
 
 images:
