@@ -11,7 +11,7 @@ profile:
   more_info: >
       <p>minjie@princeton.edu</p>
 	  <p>+1 609-258-7656</p>
-      <p>ACEE 217, Princeton University</p>
+      <p>86 Olden St., Princeton NJ</p>
 
 images:
     venobox: true
