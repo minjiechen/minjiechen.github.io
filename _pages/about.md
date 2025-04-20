@@ -4,8 +4,6 @@ title: about
 permalink: /
 subtitle: 
 
----
-
 profile:
   align: right
   image: chen.jpg
@@ -14,6 +12,7 @@ profile:
       <p>minjie@princeton.edu</p>
 	  <p>+1 609-258-7656</p>
       <p>ACEE 217, Princeton University</p>
+
 images:
     venobox: true
 news: true              # includes a list of news items
