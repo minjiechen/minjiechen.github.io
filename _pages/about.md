@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a> <br />Electrical and Computer Engineering <br />Andlinger Center for Energy and the Environment <br /> Princeton University, USA
-
+subtitle: 
 
 profile:
   align: right
@@ -14,9 +13,11 @@ images:
     venobox: true
 news: true              # includes a list of news items
 selected_papers: true   # includes a list of papers marked as "selected={true}"
-social: true            # includes social icons at the bottom of the page
+social: false            # includes social icons at the bottom of the page
 
 ---
+
+<a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a> <br />Electrical and Computer Engineering <br />Andlinger Center for Energy and the Environment <br /> Princeton University, USA
 
 At Princeton, we develop power electronics systems for important and emerging applications. We create new knowledge and push the boundaries in all aspects, including:
 - Power electronics <a href="#">theories</a>
