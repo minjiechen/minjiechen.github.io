@@ -12,9 +12,9 @@ profile:
     <p>minjie@princeton.edu</p>
     
 images:
-    venobox: true
+  venobox: true
 
-news: true
+news: true              # enable the news section
 selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: true            # includes social icons at the bottom of the page
 
