@@ -4,11 +4,16 @@ title: about
 permalink: /
 subtitle: 
 
+---
+
 profile:
   align: right
-  image: minjie.jpg
+  image: chen.jpg
   image_circular: false # crops the image to make it circular
-
+  more_info: >
+      <p>minjie@princeton.edu</p>
+	  <p>+1 609-258-7656</p>
+      <p>ACEE 217, Princeton University</p>
 images:
     venobox: true
 news: true              # includes a list of news items
@@ -17,7 +22,7 @@ social: false            # includes social icons at the bottom of the page
 
 ---
 
-<a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a> <br />Electrical and Computer Engineering <br />Andlinger Center for Energy and the Environment <br /> Princeton University, USA
+<a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a> <br />Electrical and Computer Engineering <br />Andlinger Center for Energy and the Environment <br /> Princeton University, Princeton NJ, USA
 
 At Princeton, we develop power electronics systems for important and emerging applications. We create new knowledge and push the boundaries in all aspects, including:
 - Power electronics <a href="#">theories</a>
