@@ -89,24 +89,24 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_danielzhou/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+            },},{id: "projects-davit-grigorian",
+          title: 'Davit Grigorian',
+          description: "graduate student",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/member_davitgrigorian/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/member_davitgrigoryan/";
+            },},{id: "projects-elias-veilleux",
+          title: 'Elias Veilleux',
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_eliasveilleux/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+            },},{id: "projects-haoran-li",
+          title: 'Haoran Li',
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_haoranli/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+            },},{id: "projects-hsin-cheng",
+          title: 'Hsin Cheng',
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_hsincheng/";
             },},{id: "projects-daniel-h-zhou",
@@ -119,9 +119,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_jaeilbaek/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+            },},{id: "projects-mian-liao",
+          title: 'Mian Liao',
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_mianliao/";
             },},{id: "projects-daniel-h-zhou",
@@ -144,8 +144,8 @@ ninja.data = [{
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_stevenzeng/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
+            },},{id: "projects-tanuj-sen",
+          title: 'Tanuj Sen',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_tanujsen/";
