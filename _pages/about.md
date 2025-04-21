@@ -51,5 +51,21 @@ At Princeton, we develop power electronics systems for important and emerging ap
 <a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/amt.png" /></a>
 <a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/arpae.png" /></a>
 <a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/c3ai.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/csml.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/doe.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/enphase.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/google.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/intel.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/itg.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/nsf.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/nvidia.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/onr.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/pep.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/psemi.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/siebel.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/src.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/ti.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/tsmc.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/wurth.png" /></a>
 
 
