@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daniel H. Zhou
-description: a project that redirects to another website
+description: graduate student
 img: assets/img/members/daniel_zhou.jpg
 redirect: https://ece.princeton.edu/people/daniel-zhou
 importance: 2

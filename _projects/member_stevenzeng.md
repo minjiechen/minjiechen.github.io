@@ -2,7 +2,7 @@
 layout: page
 title: Steven Zeng
 description: postdoc researcher
-img: assets/img/members/daniel_zhou.jpg
+img: assets/img/members/steven_zeng.jpg
 redirect: https://ece.princeton.edu/people/wenliang-zeng
 importance: 1
 category: current
