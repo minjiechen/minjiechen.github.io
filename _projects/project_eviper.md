@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Robotics
-description: a project with no image
+title: eViper
+description: Hsin Cheng, Elias Veilleux
 img:
 importance: 4
 category: ongoing

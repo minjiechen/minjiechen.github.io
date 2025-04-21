@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MIMO
-description: another without an image
+title: Energy Router
+description: Yenan Chen, Ping Wang, Ming Liu
 img:
 importance: 3
 category: past

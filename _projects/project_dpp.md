@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Differential Power Processing
-description: a project with a background image
+description: Ping Wang, Mian Liao
 img: assets/img/1.jpg
 importance: 3
 category: past

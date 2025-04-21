@@ -3,7 +3,7 @@ layout: page
 title: Yufei Li
 description: graduate student
 img: assets/img/members/yufei_li.jpg
-importance: 2
+importance: 1
 category: alumni
 redirect: https://scholar.google.com/citations?hl=en&user=wuYiLJYAAAAJ
 giscus_comments: true

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LEGO VRM
-description: with background image
+description: Jaeil Baek, Youssef Elasser, Haoran Li
 img: assets/img/12.jpg
 importance: 1
 category: ongoing

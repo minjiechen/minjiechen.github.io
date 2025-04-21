@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metabot
-description: with background image
+description: Konstantinous Manos
 img: assets/img/4.jpg
 importance: 1
 category: ongoing

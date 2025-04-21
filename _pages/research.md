@@ -5,7 +5,7 @@ permalink: /research/
 description: past and ongoing projects in the group
 nav: true
 nav_order: 3
-display_categories: [past, ongoing]
+display_categories: [ongoing, past]
 horizontal: false
 ---
 

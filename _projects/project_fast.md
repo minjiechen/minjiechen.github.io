@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Ultra Fast Power Electronics
+description: Daniel Zhou, Ming Liu
 img:
 importance: 4
 category: ongoing
