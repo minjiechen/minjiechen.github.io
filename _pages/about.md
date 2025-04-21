@@ -10,6 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <img src="assets/img/ppelogo.png" alt="PPE logo">
+	Email: minjie@princeton.edu
+	Phone: +1 (609)-258-7656
 
 news: true              # enable the news section
 selected_papers: true   # includes a list of papers marked as "selected={true}"
