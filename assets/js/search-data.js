@@ -99,6 +99,11 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_eliasveilleux/";
+            },},{id: "projects-geyong-gu-kang",
+          title: 'Geyong-Gu Kang',
+          description: "postdoc researcher",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_gyeonggukang/";
             },},{id: "projects-haoran-li",
           title: 'Haoran Li',
           description: "graduate student",
@@ -134,9 +139,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_pingwang/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+            },},{id: "projects-shukai-wang",
+          title: 'Shukai Wang',
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_shukaiwang/";
             },},{id: "projects-steven-zeng",
@@ -149,14 +154,14 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_tanujsen/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
+            },},{id: "projects-yenan-chen",
+          title: 'Yenan Chen',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yenanchen/";
             },},{id: "projects-youssef-elasser",
           title: 'Youssef Elasser',
-          description: "a project with a background image and giscus comments",
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_youssefelasser/";
             },},{id: "projects-differential-power-processing",
