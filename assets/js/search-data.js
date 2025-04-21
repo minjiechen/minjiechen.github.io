@@ -89,8 +89,8 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_danielzhou/";
-            },},{id: "projects-davit-grigorian",
-          title: 'Davit Grigorian',
+            },},{id: "projects-davit-grigoryan",
+          title: 'Davit Grigoryan',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_davitgrigoryan/";
@@ -114,13 +114,13 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_hsincheng/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
+            },},{id: "projects-hyukjae-kwon",
+          title: 'Hyukjae Kwon',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_hyukjaekwon/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
+            },},{id: "projects-jaeil-baek",
+          title: 'Jaeil Baek',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_jaeilbaek/";
@@ -129,9 +129,9 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_mianliao/";
-            },},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+            },},{id: "projects-ming-liu",
+          title: 'Ming Liu',
+          description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_mingliu/";
             },},{id: "projects-ping-wang",
