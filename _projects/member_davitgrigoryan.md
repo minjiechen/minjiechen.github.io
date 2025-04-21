@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Daniel H. Zhou
-description: a project that redirects to another website
-img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
-importance: 3
+title: Davit Grigorian
+description: graduate student
+img: assets/img/members/davit_grigoryan.jpg
+redirect: https://ece.princeton.edu/people/Davit-Grigoryan
+importance: 6
 category: current
 ---
 

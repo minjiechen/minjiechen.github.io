@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Daniel H. Zhou
+title: Tanuj Sen
 description: a project that redirects to another website
-img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
-importance: 3
+img: assets/img/members/tanuj_sen.jpg
+redirect: https://ece.princeton.edu/people/tanuj-sen
+importance: 5
 category: current
 ---
 

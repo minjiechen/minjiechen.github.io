@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Daniel H. Zhou
-description: a project that redirects to another website
-img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
-importance: 3
+title: Haoran Li
+description: graduate student
+img: assets/img/members/haoran_li.jpg
+redirect: https://ece.princeton.edu/people/haoran-li
+importance: 2
 category: current
 ---
 
