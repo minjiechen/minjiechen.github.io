@@ -86,7 +86,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-daniel-h-zhou",
           title: 'Daniel H. Zhou',
-          description: "a project that redirects to another website",
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_danielzhou/";
             },},{id: "projects-davit-grigoryan",
