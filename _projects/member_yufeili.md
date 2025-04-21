@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Youssef Elasser
+title: Yufei Li
 description: graduate student
-img: assets/img/members/youssef_elasser.jpg
+img: assets/img/members/yufei_li.jpg
 importance: 2
 category: alumni
-redirect: https://scholar.google.com/citations?hl=en&user=VdbaC-oAAAAJ
+redirect: https://scholar.google.com/citations?hl=en&user=wuYiLJYAAAAJ
 giscus_comments: true
 ---
 
