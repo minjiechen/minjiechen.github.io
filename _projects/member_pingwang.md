@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ping Wang
-description: with background image
+description: graduate student
 img: assets/img/members/ping_wang.jpg
 importance: 2
 redirect: https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en

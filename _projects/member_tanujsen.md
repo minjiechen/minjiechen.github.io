@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tanuj Sen
-description: a project that redirects to another website
+description: graduate student
 img: assets/img/members/tanuj_sen.jpg
 redirect: https://ece.princeton.edu/people/tanuj-sen
 importance: 2

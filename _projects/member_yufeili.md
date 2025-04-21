@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Hyukjae Kwon
+title: Youssef Elasser
 description: graduate student
-img: assets/img/members/hyukjae_kwon.jpg
-redirect: https://ece.princeton.edu/people/hyukjae-kwon
+img: assets/img/members/youssef_elasser.jpg
 importance: 2
-category: current
+category: alumni
+redirect: https://scholar.google.com/citations?hl=en&user=VdbaC-oAAAAJ
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

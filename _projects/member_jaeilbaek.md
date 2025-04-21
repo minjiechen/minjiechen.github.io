@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jaeil Baek
-description: a project that redirects to another website
+description: postdoc researcher
 img: assets/img/members/jaeil_baek.jpg
 redirect: https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en
 importance: 1
