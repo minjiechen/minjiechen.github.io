@@ -5,7 +5,7 @@ permalink: /research/
 description: past and ongoing projects in the group
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [past, ongoing]
 horizontal: false
 ---
 
@@ -38,10 +38,6 @@ horizontal: false
   {% endfor %}
 
 {% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
