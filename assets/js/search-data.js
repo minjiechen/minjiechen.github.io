@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -51,7 +51,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "members-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Members",handler: () => {
+              window.location.href = "/members/1_member/";
+            },},{id: "members-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Members",handler: () => {
+              window.location.href = "/members/2_member/";
+            },},{id: "members-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Members",handler: () => {
+              window.location.href = "/members/3_member/";
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
