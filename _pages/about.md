@@ -9,7 +9,7 @@ profile:
   image: chen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <img src="assets/img/sponsors/ece.png" alt="ECE logo">
+    <img src="assets/img/sponsors/princeton.png" alt="ECE logo">
 
 news: true              # enable the news section
 selected_papers: true   # includes a list of papers marked as "selected={true}"
@@ -47,8 +47,9 @@ At Princeton, we develop power electronics systems for important and emerging ap
 
 ## sponsors
 
-<a class="venobox" data-gall="sponsors" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a class="venobox" data-gall="sponsors" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a class="venobox" data-gall="sponsors" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
-<a class="venobox" data-gall="sponsors" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/acee.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/amt.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/arpae.png" /></a>
+<a class="venobox" data-gall="sponsors" href="#"><img src="assets/img/sponsors/c3ai.png" /></a>
+
 
