@@ -116,12 +116,12 @@ ninja.data = [{
               window.location.href = "/projects/member_hsincheng/";
             },},{id: "projects-hyukjae-kwon",
           title: 'Hyukjae Kwon',
-          description: "a project that redirects to another website",
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_hyukjaekwon/";
             },},{id: "projects-jaeil-baek",
           title: 'Jaeil Baek',
-          description: "a project that redirects to another website",
+          description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_jaeilbaek/";
             },},{id: "projects-mian-liao",
@@ -136,7 +136,7 @@ ninja.data = [{
               window.location.href = "/projects/member_mingliu/";
             },},{id: "projects-ping-wang",
           title: 'Ping Wang',
-          description: "with background image",
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_pingwang/";
             },},{id: "projects-shukai-wang",
@@ -151,12 +151,12 @@ ninja.data = [{
               window.location.href = "/projects/member_stevenzeng/";
             },},{id: "projects-tanuj-sen",
           title: 'Tanuj Sen',
-          description: "a project that redirects to another website",
+          description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_tanujsen/";
             },},{id: "projects-yenan-chen",
           title: 'Yenan Chen',
-          description: "a project that redirects to another website",
+          description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yenanchen/";
             },},{id: "projects-youssef-elasser",
@@ -164,6 +164,11 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_youssefelasser/";
+            },},{id: "projects-youssef-elasser",
+          title: 'Youssef Elasser',
+          description: "graduate student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_yufeili/";
             },},{id: "projects-differential-power-processing",
           title: 'Differential Power Processing',
           description: "a project with a background image",
