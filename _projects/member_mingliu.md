@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Daniel H. Zhou
-description: a project that redirects to another website
-img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
+title: Ming Liu
+description: postdoc researcher
+img: assets/img/members/ming_liu.jpg
+redirect: https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en
 importance: 1
-category: current
+category: alumni
 ---
 
 Every project has a beautiful feature showcase page.

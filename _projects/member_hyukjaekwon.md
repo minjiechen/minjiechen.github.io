@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Daniel H. Zhou
+title: Hyukjae Kwon
 description: a project that redirects to another website
-img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
+img: assets/img/members/hyukjae_kwon.jpg
+redirect: https://ece.princeton.edu/people/hyukjae-kwon
 importance: 2
 category: current
 ---

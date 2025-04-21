@@ -4,6 +4,7 @@ title: Ping Wang
 description: with background image
 img: assets/img/members/ping_wang.jpg
 importance: 2
+redirect: https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en
 category: alumni
 related_publications: true
 ---

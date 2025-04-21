@@ -5,6 +5,7 @@ description: graduate student
 img: assets/img/members/youssef_elasser.jpg
 importance: 2
 category: alumni
+redirect: https://scholar.google.com/citations?hl=en&user=VdbaC-oAAAAJ
 giscus_comments: true
 ---
 

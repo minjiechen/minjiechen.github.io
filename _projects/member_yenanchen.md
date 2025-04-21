@@ -3,9 +3,9 @@ layout: page
 title: Yenan Chen
 description: a project that redirects to another website
 img: assets/img/members/yenan_chen.jpg
-redirect: https://ece.princeton.edu/people/yenan-chen
+redirect: https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=en
 importance: 1
-category: current
+category: alumni
 ---
 
 Every project has a beautiful feature showcase page.
