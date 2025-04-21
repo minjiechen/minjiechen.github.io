@@ -6,10 +6,10 @@ subtitle:
 
 profile:
   align: right
-  image: chen.jpg
+  image: minjie/chen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <img src="assets/img/ppelogo.png" alt="PPE logo">
+    <img src="assets/img/logos/ppelogo.png" alt="PPE logo">
 
 news: true              # enable the news section
 selected_papers: true   # includes a list of papers marked as "selected={true}"
