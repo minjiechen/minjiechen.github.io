@@ -9,7 +9,7 @@ profile:
   image: chen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <img src="assets/img/sponsors/princeton.png" alt="ECE logo">
+    <img src="assets/img/sponsors/ppe.png" alt="PPE logo">
 
 news: true              # enable the news section
 selected_papers: true   # includes a list of papers marked as "selected={true}"
