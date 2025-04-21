@@ -3,7 +3,7 @@ layout: page
 title: Ping Wang
 description: with background image
 img: assets/img/members/ping_wang.jpg
-importance: 1
+importance: 2
 category: alumni
 related_publications: true
 ---

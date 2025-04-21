@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Tanuj Sen
-description: a project that redirects to another website
-img: assets/img/members/tanuj_sen.jpg
-redirect: https://ece.princeton.edu/people/tanuj-sen
-importance: 2
+title: Geyong-Gu Kang
+description: postdoc researcher
+img: assets/img/members/geyonggu_kang.jpg
+redirect: https://ece.princeton.edu/people/gyeong-gu-kang
+importance: 1
 category: current
 ---
 

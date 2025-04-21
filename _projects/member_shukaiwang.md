@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Daniel H. Zhou
-description: a project that redirects to another website
-img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
-importance: 3
+title: Shukai Wang
+description: graduate student
+img: assets/img/members/shukai_wang.jpg
+redirect: https://ece.princeton.edu/people/shukai-wang
+importance: 2
 category: current
 ---
 

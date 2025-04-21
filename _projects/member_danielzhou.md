@@ -4,7 +4,7 @@ title: Daniel H. Zhou
 description: a project that redirects to another website
 img: assets/img/members/daniel_zhou.jpg
 redirect: https://ece.princeton.edu/people/daniel-zhou
-importance: 1
+importance: 2
 category: current
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Youssef Elasser
-description: a project with a background image and giscus comments
+description: graduate student
 img: assets/img/members/youssef_elasser.jpg
 importance: 2
 category: alumni

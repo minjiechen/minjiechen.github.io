@@ -3,8 +3,8 @@ layout: page
 title: Steven Zeng
 description: postdoc researcher
 img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
-importance: 3
+redirect: https://ece.princeton.edu/people/wenliang-zeng
+importance: 1
 category: current
 ---
 

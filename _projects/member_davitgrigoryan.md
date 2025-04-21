@@ -4,7 +4,7 @@ title: Davit Grigorian
 description: graduate student
 img: assets/img/members/davit_grigoryan.jpg
 redirect: https://ece.princeton.edu/people/Davit-Grigoryan
-importance: 6
+importance: 2
 category: current
 ---
 

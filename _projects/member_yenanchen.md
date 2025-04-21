@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Daniel H. Zhou
+title: Yenan Chen
 description: a project that redirects to another website
-img: assets/img/members/daniel_zhou.jpg
-redirect: https://ece.princeton.edu/people/daniel-zhou
-importance: 3
+img: assets/img/members/yenan_chen.jpg
+redirect: https://ece.princeton.edu/people/yenan-chen
+importance: 1
 category: current
 ---
 
