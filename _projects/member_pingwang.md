@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Ping Wang
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/members/ping_wang.jpg
 importance: 1
-category: past
+category: alumni
 related_publications: true
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: ongoing
+title: Youssef Elasser
+description: a project with a background image and giscus comments
+img: assets/img/members/youssef_elasser.jpg
+importance: 2
+category: alumni
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

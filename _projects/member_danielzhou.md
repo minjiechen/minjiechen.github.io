@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Daniel H. Zhou
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/members/daniel_zhou.jpg
+redirect: https://ece.princeton.edu/people/daniel-zhou
 importance: 3
-category: alumni
+category: current
 ---
 
 Every project has a beautiful feature showcase page.
