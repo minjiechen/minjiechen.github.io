@@ -171,44 +171,44 @@ ninja.data = [{
               window.location.href = "/projects/member_yufeili/";
             },},{id: "projects-differential-power-processing",
           title: 'Differential Power Processing',
-          description: "a project with a background image",
+          description: "Ping Wang, Mian Liao",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_dpp/";
-            },},{id: "projects-robotics",
-          title: 'Robotics',
-          description: "a project with no image",
+            },},{id: "projects-eviper",
+          title: 'eViper',
+          description: "Hsin Cheng, Elias Veilleux",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_eviper/";
+            },},{id: "projects-ultra-fast-power-electronics",
+          title: 'Ultra Fast Power Electronics',
+          description: "Daniel Zhou, Ming Liu",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_fast/";
             },},{id: "projects-lego-vrm",
           title: 'LEGO VRM',
-          description: "with background image",
+          description: "Jaeil Baek, Youssef Elasser, Haoran Li",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_lego/";
             },},{id: "projects-magnet",
           title: 'MagNet',
-          description: "a project with a background image and giscus comments",
+          description: "Diego Serrano, Haoran Li, Shukai Wang, Hyukjae Kwon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_magnet/";
             },},{id: "projects-metabot",
           title: 'Metabot',
-          description: "with background image",
+          description: "Konstantinous Manos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_metabot/";
-            },},{id: "projects-mimo",
-          title: 'MIMO',
-          description: "another without an image",
+            },},{id: "projects-energy-router",
+          title: 'Energy Router',
+          description: "Yenan Chen, Ping Wang, Ming Liu",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_mimo/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-taichi-grid",
+          title: 'Taichi Grid',
+          description: "Tanuj Sen, Mian Liao",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_taichigrid/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_theories/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
