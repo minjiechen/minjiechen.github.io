@@ -159,6 +159,11 @@ ninja.data = [{
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yenanchen/";
+            },},{id: "projects-yifan-rao",
+          title: 'Yifan Rao',
+          description: "postdoctoral researcher",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_yifanrao/";
             },},{id: "projects-youssef-elasser",
           title: 'Youssef Elasser',
           description: "graduate student",
