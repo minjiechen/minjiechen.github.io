@@ -73,8 +73,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-mian-liao-konstantinous-manos-davit-grigoryan-and-shukai-wang-won-outstanding-presentations-awards-at-apec2025-sparkles-smile",
-          title: 'Mian Liao, Konstantinous Manos, Davit Grigoryan, and Shukai Wang won outstanding presentations awards...',
+    },{id: "news-mian-liao-konstantinous-manos-davit-grigoryan-and-shukai-wang-won-outstanding-presentation-awards-at-apec2025-sparkles-smile",
+          title: 'Mian Liao, Konstantinous Manos, Davit Grigoryan, and Shukai Wang won outstanding presentation awards...',
           description: "",
           section: "News",},{id: "news-haoran-li-and-shukai-wang-won-the-7th-tpel-prize-paper-for-ppel-sparkles-smile",
           title: 'Haoran Li and Shukai Wang won the 7th TPEL prize paper for PPEL!...',
