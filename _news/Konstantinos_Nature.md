@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Konstantinous Manos]("https://ece.princeton.edu/people/konstantinos-manos") published PPEL's first paper on [Nature]("https://www.nature.com/articles/s41586-025-08851-0").
+<a href="https://ece.princeton.edu/people/konstantinos-manos">Konstantinous Manos</a> published PPEL's first paper on <a href="https://www.nature.com/articles/s41586-025-08851-0">Nature</a>.
