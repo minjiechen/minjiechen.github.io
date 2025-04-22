@@ -73,18 +73,19 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-daniel-zhou-received-the-best-student-presentation-award-at-the-bell-labs-100-year-anniversary",
-          title: 'Daniel Zhou received the best student presentation award at the Bell Labs 100...',
+    },{id: "news-mian-liao-konstantinous-manos-davit-grigoryan-and-shukai-wang-won-outstanding-presentations-awards-at-apec2025-sparkles-smile",
+          title: 'Mian Liao, Konstantinous Manos, Davit Grigoryan, and Shukai Wang won outstanding presentations awards...',
           description: "",
-          section: "News",},{id: "news-ppel-member-received-one-more-tpel-prize-paper-sparkles-smile",
-          title: 'PPEL member received one more TPEL prize paper! :sparkles: :smile:',
+          section: "News",},{id: "news-haoran-li-and-shukai-wang-won-the-7th-tpel-prize-paper-for-ppel-sparkles-smile",
+          title: 'Haoran Li and Shukai Wang won the 7th TPEL prize paper for PPEL!...',
           description: "",
-          section: "News",},{id: "news-ppel-39-s-first-paper-on-nature",
-          title: 'PPEL&amp;#39;s first paper on Nature',
+          section: "News",},{id: "news-daniel-zhou-won-the-best-student-presentation-award-at-the-bell-labs-100-year-anniversary",
+          title: 'Daniel Zhou won the best student presentation award at the Bell Labs 100...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-daniel-h-zhou",
+          section: "News",},{id: "news-konstantinous-manos-published-ppel-s-first-paper-on-nature",
+          title: 'Konstantinous Manos published PPEL’s first paper on Nature.',
+          description: "",
+          section: "News",},{id: "projects-daniel-h-zhou",
           title: 'Daniel H. Zhou',
           description: "graduate student",
           section: "Projects",handler: () => {
