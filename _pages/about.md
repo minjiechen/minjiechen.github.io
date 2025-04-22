@@ -31,7 +31,7 @@ images:
 
 <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a> <br /> Associate Professor <br /> <a href="https://ece.princeton.edu/">Electrical and Computer Engineering</a> <br /> <a href="https://acee.princeton.edu/">Andlinger Center for Energy and the Environment</a> <br /> <a href="https://www.princeton.edu/">Princeton University</a>, Princeton NJ, USA
 
-Princeton develops fundamental methods in power electronics for important and emerging applications. We create new knowledge and push the boundaries in all fields related to power electronics, including:
+Princeton Power Electronics Lab (PPEL) develops fundamental methods in power electronics for important and emerging applications. We create new knowledge and push the boundaries in all fields related to power electronics, including:
 
 - Power electronics <a href="#">theories</a>
 - Power electronics <a href="#">materials</a>
