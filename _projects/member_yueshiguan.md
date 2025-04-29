@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yueshi Guan
+title: Yueshi Guan 🇨🇳
 description: visiting student
 img: assets/img/members/yueshi_guan.jpg
 importance: 2

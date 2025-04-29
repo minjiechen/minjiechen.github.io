@@ -2,11 +2,11 @@
 layout: page
 title: research
 permalink: /research/
-description: past and ongoing projects in the group
+description: past and ongoing projects
 nav: true
 nav_order: 3
 display_categories: [ongoing, past]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
