@@ -105,6 +105,11 @@ ninja.data = [{
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_gyeonggukang/";
+            },},{id: "projects-hanyu-liu",
+          title: 'Hanyu Liu',
+          description: "visiting student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_hanyuliu/";
             },},{id: "projects-haoran-li",
           title: 'Haoran Li',
           description: "graduate student",
@@ -125,6 +130,11 @@ ninja.data = [{
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_jaeilbaek/";
+            },},{id: "projects-jing-yuan",
+          title: 'Jing Yuan',
+          description: "visiting student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_jingyuan/";
             },},{id: "projects-mian-liao",
           title: 'Mian Liao',
           description: "graduate student",
@@ -155,6 +165,11 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_tanujsen/";
+            },},{id: "projects-yang-wu",
+          title: 'Yang Wu',
+          description: "visiting student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_yangwu/";
             },},{id: "projects-yenan-chen",
           title: 'Yenan Chen',
           description: "postdoc researcher",
@@ -170,6 +185,11 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_youssefelasser/";
+            },},{id: "projects-yueshi-guan",
+          title: 'Yueshi Guan',
+          description: "visiting student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_yueshiguan/";
             },},{id: "projects-yufei-li",
           title: 'Yufei Li',
           description: "graduate student",
