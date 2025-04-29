@@ -101,92 +101,92 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_eliasveilleux/";
             },},{id: "projects-geyong-gu-kang",
-          title: 'Geyong-Gu Kang',
+          title: 'Geyong-Gu Kang 🇰🇷',
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_gyeonggukang/";
             },},{id: "projects-hanyu-liu",
-          title: 'Hanyu Liu',
+          title: 'Hanyu Liu 🇨🇳',
           description: "visiting student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_hanyuliu/";
             },},{id: "projects-haoran-li",
-          title: 'Haoran Li',
+          title: 'Haoran Li 🇨🇳',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_haoranli/";
             },},{id: "projects-hsin-cheng",
-          title: 'Hsin Cheng',
+          title: 'Hsin Cheng 🇹🇼',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_hsincheng/";
             },},{id: "projects-hyukjae-kwon",
-          title: 'Hyukjae Kwon',
+          title: 'Hyukjae Kwon 🇰🇷',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_hyukjaekwon/";
             },},{id: "projects-jaeil-baek",
-          title: 'Jaeil Baek',
+          title: 'Jaeil Baek  🇰🇷',
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_jaeilbaek/";
             },},{id: "projects-jing-yuan",
-          title: 'Jing Yuan',
+          title: 'Jing Yuan 🇩🇰',
           description: "visiting student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_jingyuan/";
             },},{id: "projects-konstantinos-manos",
-          title: 'Konstantinos Manos',
+          title: 'Konstantinos Manos 🇬🇷',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_konstantinosmanos/";
             },},{id: "projects-mian-liao",
-          title: 'Mian Liao',
+          title: 'Mian Liao 🇨🇳',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_mianliao/";
             },},{id: "projects-ming-liu",
-          title: 'Ming Liu',
+          title: 'Ming Liu 🇨🇳',
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_mingliu/";
             },},{id: "projects-ping-wang",
-          title: 'Ping Wang',
+          title: 'Ping Wang 🇨🇳',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_pingwang/";
             },},{id: "projects-shukai-wang",
-          title: 'Shukai Wang',
+          title: 'Shukai Wang 🇨🇳',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_shukaiwang/";
             },},{id: "projects-steven-zeng",
-          title: 'Steven Zeng',
+          title: 'Steven Zeng 🇲🇴',
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_stevenzeng/";
             },},{id: "projects-tanuj-sen",
-          title: 'Tanuj Sen',
+          title: 'Tanuj Sen 🇮🇳',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_tanujsen/";
             },},{id: "projects-yang-wu",
-          title: 'Yang Wu',
+          title: 'Yang Wu 🇳🇱',
           description: "visiting student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yangwu/";
             },},{id: "projects-yenan-chen",
-          title: 'Yenan Chen',
+          title: 'Yenan Chen 🇨🇳',
           description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yenanchen/";
             },},{id: "projects-yifan-rao",
-          title: 'Yifan Rao',
+          title: 'Yifan Rao 🇨🇳',
           description: "postdoctoral researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yifanrao/";
             },},{id: "projects-youssef-elasser",
-          title: 'Youssef Elasser',
+          title: 'Youssef Elasser 🇺🇸',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_youssefelasser/";
@@ -196,7 +196,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yueshiguan/";
             },},{id: "projects-yufei-li",
-          title: 'Yufei Li',
+          title: 'Yufei Li 🇨🇳',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yufeili/";
