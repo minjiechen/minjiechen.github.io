@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "past and ongoing projects in the group",
+          description: "past and ongoing projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -191,7 +191,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_youssefelasser/";
             },},{id: "projects-yueshi-guan",
-          title: 'Yueshi Guan',
+          title: 'Yueshi Guan 🇨🇳',
           description: "visiting student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yueshiguan/";
@@ -200,46 +200,31 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yufeili/";
-            },},{id: "projects-differential-power-processing",
-          title: 'Differential Power Processing',
-          description: "Ping Wang, Mian Liao",
+            },},{id: "projects-computing",
+          title: 'Computing',
+          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_dpp/";
-            },},{id: "projects-eviper",
-          title: 'eViper',
-          description: "Hsin Cheng, Elias Veilleux",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_eviper/";
-            },},{id: "projects-ultra-fast-power-electronics",
-          title: 'Ultra Fast Power Electronics',
-          description: "Daniel Zhou, Ming Liu",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_fast/";
-            },},{id: "projects-lego-vrm",
-          title: 'LEGO VRM',
-          description: "Jaeil Baek, Youssef Elasser, Haoran Li",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_lego/";
-            },},{id: "projects-magnet",
-          title: 'MagNet',
-          description: "Diego Serrano, Haoran Li, Shukai Wang, Hyukjae Kwon",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_magnet/";
-            },},{id: "projects-metabot",
-          title: 'Metabot',
-          description: "Konstantinous Manos",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_metabot/";
-            },},{id: "projects-energy-router",
-          title: 'Energy Router',
-          description: "Yenan Chen, Ping Wang, Ming Liu",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project_mimo/";
+              window.location.href = "/projects/project_computing/";
             },},{id: "projects-taichi-grid",
           title: 'Taichi Grid',
           description: "Tanuj Sen, Mian Liao",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_taichigrid/";
+              window.location.href = "/projects/project_grid/";
+            },},{id: "projects-magnet",
+          title: 'MagNet',
+          description: "Diego Serrano, Haoran Li, Shukai Wang, Hyukjae Kwon",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_magnets/";
+            },},{id: "projects-radio-frequency",
+          title: 'Radio-Frequency',
+          description: "Daniel Zhou, Ming Liu, Tanuj Sen",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_rf/";
+            },},{id: "projects-robotics",
+          title: 'Robotics',
+          description: "Konstantinous Manos, Hsin Cheng, Elias Veilleux",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_robotics/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
