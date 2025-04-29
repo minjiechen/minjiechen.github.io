@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yufei Li 🇨🇳
-description: graduate student
+description: postdoc researcher
 img: assets/img/members/yufei_li.jpg
 importance: 1
 category: alumni
