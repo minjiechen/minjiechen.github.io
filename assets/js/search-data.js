@@ -135,6 +135,11 @@ ninja.data = [{
           description: "visiting student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_jingyuan/";
+            },},{id: "projects-konstantinos-manos",
+          title: 'Konstantinos Manos',
+          description: "graduate student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_konstantinosmanos/";
             },},{id: "projects-mian-liao",
           title: 'Mian Liao',
           description: "graduate student",
