@@ -95,6 +95,11 @@ ninja.data = [{
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_davitgrigoryan/";
+            },},{id: "projects-diego-serrano",
+          title: 'Diego Serrano 🇪🇸',
+          description: "postdoc researcher",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/member_diegoserrano/";
             },},{id: "projects-elias-veilleux",
           title: 'Elias Veilleux 🇺🇸',
           description: "graduate student",
@@ -197,7 +202,7 @@ ninja.data = [{
               window.location.href = "/projects/member_yueshiguan/";
             },},{id: "projects-yufei-li",
           title: 'Yufei Li 🇨🇳',
-          description: "graduate student",
+          description: "postdoc researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_yufeili/";
             },},{id: "projects-computing",
