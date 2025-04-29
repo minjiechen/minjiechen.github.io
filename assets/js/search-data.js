@@ -86,17 +86,17 @@ ninja.data = [{
           title: 'Konstantinous Manos published PPEL’s first paper on Nature.',
           description: "",
           section: "News",},{id: "projects-daniel-h-zhou",
-          title: 'Daniel H. Zhou',
+          title: 'Daniel H. Zhou 🇨🇦',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_danielzhou/";
             },},{id: "projects-davit-grigoryan",
-          title: 'Davit Grigoryan',
+          title: 'Davit Grigoryan 🇦🇲',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_davitgrigoryan/";
             },},{id: "projects-elias-veilleux",
-          title: 'Elias Veilleux',
+          title: 'Elias Veilleux 🇺🇸',
           description: "graduate student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/member_eliasveilleux/";
