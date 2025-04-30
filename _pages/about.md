@@ -28,11 +28,6 @@ latest_posts:
 images:
   venobox: true
   slider: true
-
-image_sliders:
-  - slider1
-  - slider2
-  - slider3
 ---
 
 <a href="https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en">Prof. Minjie Chen</a> <br /> <a href="https://ece.princeton.edu/people/minjie-chen">Associate Professor</a> <br /> <a href="https://ece.princeton.edu/">Electrical and Computer Engineering</a> <br /> <a href="https://acee.princeton.edu/">Andlinger Center for Energy and the Environment</a> <br /> <a href="https://www.princeton.edu/">Princeton University</a>, Princeton NJ, USA
@@ -44,5 +39,3 @@ Princeton Power Electronics Lab (PPEL) develops fundamental knowledge in power e
 - Power electronics <a href="#">applications</a>
 - Power electronics <a href="#">design methods</a>
 - Power electronics <a href="#">artificial intelligence</a>
-
-{% include slider.html selector="slider2" %}
