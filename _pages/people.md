@@ -2,7 +2,7 @@
 layout: page  
 title: people
 permalink: /people/
-description: current and alumni members of the group
+description: current and alumni members
 nav: true
 nav_order: 2
 display_categories: [current, alumni]

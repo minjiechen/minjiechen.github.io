@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Radio-Frequency
+title: Radio Frequency
 description: Daniel Zhou, Ming Liu, Tanuj Sen
-img:
+img: assets/img/7.jpg
 importance: 1
 category: ongoing
 ---
