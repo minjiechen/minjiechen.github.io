@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grid
+title: Taichi Grid
 description: Tanuj Sen, Mian Liao
 img: assets/img/7.jpg
 redirect: https://unsplash.com
