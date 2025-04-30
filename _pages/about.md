@@ -27,6 +27,7 @@ latest_posts:
 
 images:
   venobox: true
+  slider: true
 ---
 
 <a href="https://ece.princeton.edu/people/minjie-chen">Prof. Minjie Chen</a> <br /> Associate Professor <br /> <a href="https://ece.princeton.edu/">Electrical and Computer Engineering</a> <br /> <a href="https://acee.princeton.edu/">Andlinger Center for Energy and the Environment</a> <br /> <a href="https://www.princeton.edu/">Princeton University</a>, Princeton NJ, USA
