@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 display_categories: [ongoing, past]
 horizontal: true
+
+images:
+  venobox: true
+  slider: true
 ---
 
 <!-- pages/projects.md -->
@@ -42,7 +46,6 @@ horizontal: true
   <!-- Generate cards for each project -->
 
 {% if page.horizontal %}
-
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
@@ -59,3 +62,13 @@ horizontal: true
   {% endif %}
 {% endif %}
 </div>
+
+<br>
+<h1 id="gallery">gallery</h1>
+<swiper-container keyboard="true" navigation="true" swiper-scrollbar="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/gallery/coverpage.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/gallery/macdpp.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/gallery/pol.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/gallery/research.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/gallery/swissknife.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
