@@ -1,9 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"TPEL":
+  url: https://www.ieee-pels.org/publications/transactions-on-power-electronics/
+  color: "#dc143c"
+
+"Nature":
+  url: https://www.nature.com/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"TRO":
+  url: https://www.ieee-ras.org/publications/t-ro/
   color: "#009f36"
+  
+"JESTPE":
+  url: https://www.ieee-pels.org/publications/journal-of-emerging-and-selected-topics-in-power-electronics/
+  color: "#ffa500"
+  
+"OJPE":
+  url: https://www.ieee-pels.org/publications/open-journal-of-power-electronics/
+  color: "#800080"
+
+"TIA":
+  url: https://ias.ieee.org/publications/ieee-transactions-on-industry-applications/
+  color: "#0000ff"
+  
+"TNNL":
+  url: https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/
+  color: "#000080"
+  
+"PEM":
+  url: https://www.ieee-pels.org/pels-magazine/
+  color: "#f00070"
