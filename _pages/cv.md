@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/minjie_cv.pdf
 title: cv
 nav: true
 nav_order: 7
