@@ -1,14 +1,14 @@
 "TPEL":
   url: https://www.ieee-pels.org/publications/transactions-on-power-electronics/
-  color: "#dc143c"
+  color: "#B85042"
 
 "Nature":
   url: https://www.nature.com/
-  color: "#00369f"
+  color: "#E7E8D1"
 
 "TRO":
   url: https://www.ieee-ras.org/publications/t-ro/
-  color: "#009f36"
+  color: "#A7BEAE"
   
 "JESTPE":
   url: https://www.ieee-pels.org/publications/journal-of-emerging-and-selected-topics-in-power-electronics/
@@ -16,16 +16,28 @@
   
 "OJPE":
   url: https://www.ieee-pels.org/publications/open-journal-of-power-electronics/
-  color: "#800080"
+  color: "#A1BE95"
 
 "TIA":
   url: https://ias.ieee.org/publications/ieee-transactions-on-industry-applications/
-  color: "#0000ff"
+  color: "#F98866"
   
 "TNNL":
   url: https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/
-  color: "#000080"
+  color: "#FFF2D7"
   
-"PEM":
+"PMAG":
   url: https://www.ieee-pels.org/pels-magazine/
-  color: "#f00070"
+  color: "#FB6542"
+
+"MRS":
+  url: https://link.springer.com/journal/43580
+  color: "#375E97"
+
+"AEM":
+  url: https://advanced.onlinelibrary.wiley.com/journal/16146840
+  color: "#31473A"
+
+"EMAG":
+  url: https://ieee-pes.org/publication-item/electrification-magazine/
+  color: "#FFBB00"
