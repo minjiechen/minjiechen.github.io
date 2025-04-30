@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: --- empowering electricity with intelligence ---
+subtitle: --- empowering energy with intelligence ---
 
 profile:
   align: right
