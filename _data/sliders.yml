@@ -2,14 +2,17 @@
   bullets: false
   captions: true
   images:
-    - src: /img/1.jpg
+    - src: /img/gallery/coverpage.jpg
       alt: Minimum required attributes
-    - data-src: /img/2.jpg
+    - data-src: /img/gallery/macdpp.jpg
       alt: Use data-src for on-demand loading
-    - data-src: /img/3.jpg
+    - data-src: /img/gallery/pol.jpg
       data-src-2x: /img/3@2x.jpg
       alt: Use data-src-2x for HiDPI devices
-    - src: /img/4.jpg
+    - src: /img/gallery/research.jpg
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+    - src: /img/gallery/swissknife.jpg
       alt: Links work too
       href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
@@ -28,17 +31,19 @@
   bullets: true
   captions: true
   images:
-    - src: /img/1.jpg
-      title: Balloons!
-      alt: This slider has caption titles
-    - data-src: /img/2.jpg
-      title: This slider uses the fade effect
-      alt: Instead of the default slide effect
-    - data-src: /img/3.jpg
+    - src: /img/gallery/coverpage.jpg
+      alt: Minimum required attributes
+    - data-src: /img/gallery/macdpp.jpg
+      alt: Use data-src for on-demand loading
+    - data-src: /img/gallery/pol.jpg
       data-src-2x: /img/3@2x.jpg
-    - src: /img/4.jpg
-      title: Last image had no caption!
-      alt: Also, this image has no link
+      alt: Use data-src-2x for HiDPI devices
+    - src: /img/gallery/research.jpg
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+    - src: /img/gallery/swissknife.jpg
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
     height: "'auto'"
     effect: "'fade'"
