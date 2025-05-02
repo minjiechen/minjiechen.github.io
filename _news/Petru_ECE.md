@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-15
+date: 2022-05-24
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/daniel-zhou">Daniel Zhou</a> won the best student presentation award at the <a href="https://www.nokia.com/about-us/newsroom/articles/nokia-bell-labs-celebrates-100-years-of-innovation-and-looks-ahead-to-another-century-of-discovery/">Bell Labs 100 Year Anniversary</a>.
+PPEL's undergrad <a href="https://www.linkedin.com/in/petru-cotrut-061a9617b/">Petru Cotrut</a> won the <a href="https://ece.princeton.edu/news/first-person-class-day-ceremony-3-years-honors-resilient-class-2022">Hisashi Kobayashi Prize</a> from <a href="https://ece.princeton.edu/">Princeton ECE</a>.

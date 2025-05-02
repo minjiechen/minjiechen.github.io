@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-15
+date: 2024-05-28
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/daniel-zhou">Daniel Zhou</a> won the best student presentation award at the <a href="https://www.nokia.com/about-us/newsroom/articles/nokia-bell-labs-celebrates-100-years-of-innovation-and-looks-ahead-to-another-century-of-discovery/">Bell Labs 100 Year Anniversary</a>.
+PPEL's undergrad <a href="https://www.linkedin.com/in/simonedaniel/">Daniel Simone</a> won the <a href="https://ece.princeton.edu/news/class-day-professors-encourage-resilience-face-unexpected">Bradley Dickinson Award</a> for System Design, awarded for outstanding accomplishments in the design and implementation of complex electronic systems from <a href="https://ece.princeton.edu/">Princeton ECE</a>.

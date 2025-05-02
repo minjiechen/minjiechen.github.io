@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-15
+date: 2023-10-01
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/daniel-zhou">Daniel Zhou</a> won the best student presentation award at the <a href="https://www.nokia.com/about-us/newsroom/articles/nokia-bell-labs-celebrates-100-years-of-innovation-and-looks-ahead-to-another-century-of-discovery/">Bell Labs 100 Year Anniversary</a>.
+<a href="https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en">Hsin Cheng</a> received the <a href="https://2023.ieee-iros.org/iros-2023-award-winners/">IROS Best Paper Finalist on Robot Mechanisms and Design</a> with his paper <a href="https://ieeexplore.ieee.org/document/10342402">eViper: A Scalable Platform for Untethered Modular Soft Robots</a>.

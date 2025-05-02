@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/haoran-li">Prof. Chen</a> was invited to participate and present at the <a href="https://www.naefrontiers.org/16102.aspx">2025 Japan-America Frontiers of Engineering Symposium</a>. :sparkles: :smile:
+<a href="https://ece.princeton.edu/people/minjie-chen">Prof. Chen</a> was invited to participate and present at the <a href="https://www.naefrontiers.org/16102.aspx">2025 Japan-America Frontiers of Engineering Symposium</a>. :sparkles: :smile:

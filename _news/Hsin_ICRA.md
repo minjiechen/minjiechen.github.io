@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-15
+date: 2022-05-15
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/daniel-zhou">Daniel Zhou</a> won the best student presentation award at the <a href="https://www.nokia.com/about-us/newsroom/articles/nokia-bell-labs-celebrates-100-years-of-innovation-and-looks-ahead-to-another-century-of-discovery/">Bell Labs 100 Year Anniversary</a>.
+<a href="https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en">Hsin Cheng</a> received the Best Poster Award at the <a href="https://bioinspiredbiohybrid.wordpress.com/">ICRA 2022 Bio-inspired and Biohybrid (Cyborg) Systems workshop</a> with his paper <a href="https://dl.acm.org/doi/10.1109/TRO.2024.3353035">Bioinspired Inchworm Crawling and Jumping of Piezoelectric Soft Robots</a>.
