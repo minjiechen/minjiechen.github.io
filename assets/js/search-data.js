@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-talks",
           title: "talks",
-          description: "full video list in YouTube",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
