@@ -8,7 +8,7 @@
 
 "TRO":
   url: https://www.ieee-ras.org/publications/t-ro/
-  color: "#A7BEAE"
+  color: "#FE4365"
   
 "JESTPE":
   url: https://www.ieee-pels.org/publications/journal-of-emerging-and-selected-topics-in-power-electronics/
@@ -24,19 +24,19 @@
   
 "TNNL":
   url: https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/
-  color: "#FFF2D7"
+  color: "#FC9D9A"
   
 "PMAG":
   url: https://www.ieee-pels.org/pels-magazine/
-  color: "#FB6542"
+  color: "#A7226E"
 
 "MRS":
   url: https://link.springer.com/journal/43580
-  color: "#375E97"
+  color: "#2F9599"
 
 "AEM":
   url: https://advanced.onlinelibrary.wiley.com/journal/16146840
-  color: "#31473A"
+  color: "#C06C84"
 
 "EMAG":
   url: https://ieee-pes.org/publication-item/electrification-magazine/
