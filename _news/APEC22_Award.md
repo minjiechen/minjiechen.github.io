@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-31
+date: 2022-03-20
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/haoran-li">Mian Liao</a>, <a href="https://ece.princeton.edu/people/konstantinos-manos">Konstantinous Manos</a>, <a href="https://ece.princeton.edu/people/davit-grigoryan">Davit Grigoryan</a>, and <a href="https://ece.princeton.edu/people/shukai-wang">Shukai Wang</a> won outstanding presentation awards at <a href="https://apec-conf.org/welcome-to-apec-2025/">APEC2025</a>! :sparkles: :smile:
+<a href="https://scholar.google.com/citations?hl=en&user=ruSwnUoAAAAJ">Ping Wang</a> and <a href="https://scholar.google.com/citations?hl=en&user=YpbgNM8AAAAJ">Hsin Cheng</a> won outstanding presentation awards at <a href="https://ieeexplore.ieee.org/xpl/conhome/9773364/proceeding">APEC2022</a>! :sparkles: :smile:

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-15
+date: 2020-06-01
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/daniel-zhou">Daniel Zhou</a> won the best student presentation award at the <a href="https://www.nokia.com/about-us/newsroom/articles/nokia-bell-labs-celebrates-100-years-of-innovation-and-looks-ahead-to-another-century-of-discovery/">Bell Labs 100 Year Anniversary</a>.
+PPEL undergrad <a href="https://www.linkedin.com/in/alexcju/">Alex Ju</a> won the <a href="https://ece.princeton.edu/news/department-honors-graduates-virtual-class-day-ceremony">John Ogden Bigelow, Jr. Prize in Electrical Engineering</a> as ECE graduating Class of 2020.

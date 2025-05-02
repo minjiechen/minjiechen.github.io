@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-15
+date: 2025-06-01
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/haoran-li">Haoran Li</a> and <a href="https://ece.princeton.edu/people/shukai-wang">Shukai Wang</a> won the 7th <a href="https://www.ieee-pels.org/awards/transactions-on-power-electronics-prize-paper-award/">TPEL prize paper</a> for PPEL! :sparkles: :smile:
+<a href="https://ece.princeton.edu/people/haoran-li">Prof. Chen</a> was invited to participate and present at the <a href="https://www.naefrontiers.org/16102.aspx">2025 Japan-America Frontiers of Engineering Symposium</a>. :sparkles: :smile:

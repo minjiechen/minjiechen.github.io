@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-15
+date: 2022-04-15
 inline: true
 related_posts: false
 ---
 
-<a href="https://ece.princeton.edu/people/haoran-li">Haoran Li</a> and <a href="https://ece.princeton.edu/people/shukai-wang">Shukai Wang</a> won the 7th <a href="https://www.ieee-pels.org/awards/transactions-on-power-electronics-prize-paper-award/">TPEL prize paper</a> for PPEL! :sparkles: :smile:
+<a href="https://ece.princeton.edu/people/haoran-li">Prof. Chen</a> received the <a href="https://ece.princeton.edu/news/power-electronics-expert-minjie-chen-has-received-junior-faculty-award-excellence-research-and">E. Lawrence Keyes, Jr./Emerson Electric Co. Faculty Advancement Award</a> from Princeton <a href="https://engineering.princeton.edu/">School of Engineering and Applied Science</a>. :sparkles: :smile:
