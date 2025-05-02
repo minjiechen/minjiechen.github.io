@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
-Full video list in <a href="https://www.youtube.com/@princetonpowerelectronics168">YouTube</a>.
+Full video list on <a href="https://www.youtube.com/@princetonpowerelectronics168">YouTube</a>.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -14,6 +14,7 @@ Full video list in <a href="https://www.youtube.com/@princetonpowerelectronics16
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <iframe width="450" height="315" src="https://www.youtube.com/embed/-mqcg7IoVoU?si=q5BK4WizJijWuwAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 </div>
 
 <div class="row mt-3">
