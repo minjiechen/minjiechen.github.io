@@ -181,7 +181,27 @@ ninja.data = [{
           section: "News",},{id: "news-prof-chen-will-deliver-a-keynote-speech-on-interdisciplinary-power-electronics-research-at-compel-2025",
           title: 'Prof. Chen will deliver a Keynote Speech on Interdisciplinary Power Electronics Research at...',
           description: "",
-          section: "News",},{id: "projects-daniel-h-zhou",
+          section: "News",},{id: "projects-advanced-power-electronics",
+          title: 'Advanced Power Electronics',
+          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/course_advanced/";
+            },},{id: "projects-renewable-energy-and-smart-grids",
+          title: 'Renewable Energy and Smart Grids',
+          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/course_electricgrid/";
+            },},{id: "projects-principles-of-power-systems",
+          title: 'Principles of Power Systems',
+          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/course_powersystems/";
+            },},{id: "projects-principles-of-power-electronics",
+          title: 'Principles of Power Electronics',
+          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/course_principles/";
+            },},{id: "projects-daniel-h-zhou",
           title: 'Daniel H. Zhou 🇨🇦',
           description: "graduate student",
           section: "Projects",handler: () => {
