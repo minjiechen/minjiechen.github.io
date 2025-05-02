@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "publications in reversed chronological order",
+          description: "full publication list in Google Scholar",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-talks",
           title: "talks",
-          description: "talks by categories in reversed chronological order",
+          description: "full video list in YouTube",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
