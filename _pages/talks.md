@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 permalink: /talks/
 title: talks
-description: talks by categories in reversed chronological order
+description: full video list in <a href="https://www.youtube.com/@princetonpowerelectronics168">YouTube</a>
 nav: true
 nav_order: 5
 ---
