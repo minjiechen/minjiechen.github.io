@@ -2,10 +2,11 @@
 layout: page
 permalink: /talks/
 title: talks
-description: full video list in <a href="https://www.youtube.com/@princetonpowerelectronics168">YouTube</a>
+description: 
 nav: true
 nav_order: 5
 ---
+Full video list in <a href="https://www.youtube.com/@princetonpowerelectronics168">YouTube</a>.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
