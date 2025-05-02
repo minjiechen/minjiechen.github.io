@@ -5,7 +5,6 @@ title: talks
 description: talks by categories in reversed chronological order
 nav: true
 nav_order: 5
-tags: formatting videos
 ---
 
 <div class="row mt-3">
@@ -13,6 +12,41 @@ tags: formatting videos
         <iframe width="450" height="315" src="https://www.youtube.com/embed/Y5xRtJjNCh0?si=FK52VGAQ8vZvc40o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="450" height="315" src="https://player.vimeo.com/video/1077650169?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ragtime robots"></iframe>
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/-mqcg7IoVoU?si=q5BK4WizJijWuwAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/OLIuTDn-UIs?si=fG71r2EdBhqMMVru" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/Q_nJV8klBtk?si=TbOfU8Z9LixyYhOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/2YttaR5rs1k?si=My4oa1MF9GUyJJHD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/5t4wYWwmXc8?si=rKxFZgUPa0WB4AKa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/v67_Jtqn55o?si=ZvXzPFi5xayGede6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/MXnorkRUf3M?si=zgM84AAlt2ZyIOsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/7gETboElLHY?si=mU8tkvOItvk3CB0K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="450" height="315" src="https://www.youtube.com/embed/dZ_kheENOXI?si=acd9y0RU68PyHwRK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
