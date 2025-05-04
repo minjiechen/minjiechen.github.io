@@ -181,24 +181,24 @@ ninja.data = [{
           section: "News",},{id: "news-prof-chen-will-deliver-a-keynote-speech-on-interdisciplinary-power-electronics-research-at-compel-2025",
           title: 'Prof. Chen will deliver a Keynote Speech on Interdisciplinary Power Electronics Research at...',
           description: "",
-          section: "News",},{id: "projects-advanced-power-electronics",
-          title: 'Advanced Power Electronics',
-          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_advanced/";
-            },},{id: "projects-renewable-energy-and-smart-grids",
-          title: 'Renewable Energy and Smart Grids',
-          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_electricgrid/";
-            },},{id: "projects-principles-of-power-systems",
-          title: 'Principles of Power Systems',
-          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_powersystems/";
-            },},{id: "projects-principles-of-power-electronics",
-          title: 'Principles of Power Electronics',
-          description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_principles/";
             },},{id: "projects-daniel-h-zhou",
@@ -326,21 +326,26 @@ ninja.data = [{
           description: "Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_computing/";
-            },},{id: "projects-grid",
-          title: 'Grid',
+            },},{id: "projects-future-grid",
+          title: 'Future Grid',
           description: "Tanuj Sen, Mian Liao",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_grid/";
+            },},{id: "projects-high-frequency",
+          title: 'High Frequency',
+          description: "Daniel Zhou, Ming Liu, Tanuj Sen",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_hf/";
             },},{id: "projects-magnet",
           title: 'MagNet',
           description: "Diego Serrano, Haoran Li, Shukai Wang, Hyukjae Kwon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_magnets/";
-            },},{id: "projects-radio-frequency",
-          title: 'Radio Frequency',
-          description: "Daniel Zhou, Ming Liu, Tanuj Sen",
+            },},{id: "projects-power-and-ai",
+          title: 'Power and AI',
+          description: "Yenan Chen, Jaeil Baek, Ping Wang, Youssef Elasser, Daniel Zhou, Shukai Wang, Haoran Li, Hyukjae Kwon",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_rf/";
+              window.location.href = "/projects/project_powerai/";
             },},{id: "projects-robotics",
           title: 'Robotics',
           description: "Konstantinous Manos, Hsin Cheng, Elias Veilleux",
