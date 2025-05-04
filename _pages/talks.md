@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
-Full video list on <a href="https://www.youtube.com/@princetonpowerelectronics168">YouTube</a>.
+Full video list on <a href="https://www.youtube.com/@princetonpowerelectronics168">YouTube</a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
