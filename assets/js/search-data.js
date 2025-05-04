@@ -181,24 +181,24 @@ ninja.data = [{
           section: "News",},{id: "news-prof-chen-will-deliver-a-keynote-speech-on-interdisciplinary-power-electronics-research-at-compel-2025",
           title: 'Prof. Chen will deliver a Keynote Speech on Interdisciplinary Power Electronics Research at...',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-ece581-advanced-power-electronics",
+          title: 'ECE581 Advanced Power Electronics',
+          description: "an advanced power electronics course for graduate students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_advanced/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-ene273-renewable-energy-and-smart-grids",
+          title: 'ENE273 Renewable Energy and Smart Grids',
+          description: "An introductory course for sophomore students in all majors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_electricgrid/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-ene373-electrical-energy-from-electronics-to-grid",
+          title: 'ENE373 Electrical Energy from Electronics to Grid',
+          description: "An overview course on power systems for junior student in all majors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_powersystems/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-ece481-principles-of-power-electronics",
+          title: 'ECE481 Principles of Power Electronics',
+          description: "An introductory level course on power electronics for senior students in electrical engineering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/course_principles/";
             },},{id: "projects-daniel-h-zhou",
