@@ -2,7 +2,7 @@
 layout: page
 title: Robotics
 description: Konstantinous Manos, Hsin Cheng, Elias Veilleux
-img: assets/img/4.jpg
+img: assets/img/gallery/metabot.jpg
 importance: 1
 category: ongoing
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: MagNet
 description: Diego Serrano, Haoran Li, Shukai Wang, Hyukjae Kwon
-img: assets/img/3.jpg
+img: assets/img/gallery/magnet.jpg
 importance: 1
 category: ongoing
 giscus_comments: true

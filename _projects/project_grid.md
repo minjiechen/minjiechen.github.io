@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Grid
+title: Future Grid
 description: Tanuj Sen, Mian Liao
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/gallery/futuregrid.jpg
 importance: 1
 category: ongoing
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Principles of Power Systems
-description: Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang
+title: ENE373: Electrical Energy from Electronics to Grid
+description: An overview course on power systems for junior student in all majors
 img: assets/img/12.jpg
 importance: 1
 category: acee

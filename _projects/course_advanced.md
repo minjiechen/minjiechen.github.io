@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Advanced Power Electronics
-description: Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang
+title: ECE581: Advanced Power Electronics
+description: An advanced course on power electronics for graduate students
 img: assets/img/12.jpg
 importance: 1
 category: ece

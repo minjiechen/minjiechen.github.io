@@ -2,7 +2,7 @@
 layout: page
 title: Computing
 description: Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang
-img: assets/img/12.jpg
+img: assets/img/gallery/vrm.jpg
 importance: 1
 category: ongoing
 related_publications: true

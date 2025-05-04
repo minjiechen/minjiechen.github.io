@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Principles of Power Electronics
-description: Jaeil Baek, Youssef Elasser, Haoran Li, Ping Wang
+title: ECE481: Principles of Power Electronics
+description: An introductory level course on power electronics for senior students in electrical engineering
 img: assets/img/12.jpg
 importance: 1
 category: ece
