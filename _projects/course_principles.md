@@ -5,7 +5,7 @@ description: An introductory level course on power electronics for senior studen
 img: assets/img/12.jpg
 importance: 1
 category: ece
-related_publications: true
+redirect: https://registrar.princeton.edu/course-offerings/course-details?courseid=014456&term=1212
 ---
 
 Every project has a beautiful feature showcase page.

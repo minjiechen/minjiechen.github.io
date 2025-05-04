@@ -5,7 +5,7 @@ description: An introductory course for sophomore students in all majors
 img: assets/img/12.jpg
 importance: 1
 category: acee
-related_publications: true
+redirect: https://registrar.princeton.edu/course-offerings/course-details?courseid=014275&term=1204
 ---
 
 Every project has a beautiful feature showcase page.
