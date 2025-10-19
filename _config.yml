@@ -25,8 +25,9 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Projects:
-    - MagNet: "https://beautifuljekyll.com"
-    - LEGO: "https://www.markdowntutorial.com/"
+    - MagNet Project: "https://github.com/PrincetonUniversity/Magnet"
+    - MagNet Challenge 1: "https://github.com/minjiechen/magnetchallenge-1"
+    - MagNet Challenge 2: "https://github.com/minjiechen/magnetchallenge-2"
 
 ################
 # --- Logo --- #
