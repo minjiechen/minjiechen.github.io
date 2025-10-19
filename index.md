@@ -5,6 +5,10 @@ subtitle: Smaller, Smarter, More Efficient and AI
 ---
 
 ## <img src="/assets/img/group/group2025.jpg" width="800px">
+## <img src="/assets/img/gallary/gallary.jpg" width="800px">
+## <img src="/assets/img/sponsors/sponsors.jpg" width="800px">
+
+
 
 ## <img src="../img/news.png" height="50px"> News
 - <img src="../img/fireworks.png" height="30px"> Nirmal Roy is the final PhD student to successfully defend his thesis [Exploring the effects of interactive interfaces on user search behaviour](https://research.tudelft.nl/en/publications/exploring-the-effects-of-interactive-interfaces-on-user-search-be). Thus, as of June 2024 every member of my former lab at TU Delft has graduated. 
