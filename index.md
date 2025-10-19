@@ -22,6 +22,5 @@ subtitle: smaller, smarter, more efficient and AI
 
 - 2025/03: [Prof. Chen] delivered a keynote speech at Magnetics Workshop'25 on [Precision Power Magnetics Engineering:A Key Step toward High Performance Power Electronics](/assets/data/magnet-keynote.pdf).
 
-
 ## Sponsors
 <img src="/assets/img/sponsors/sponsors.jpg" width="800px">
