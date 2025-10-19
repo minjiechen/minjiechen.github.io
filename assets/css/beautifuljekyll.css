@@ -19,7 +19,7 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  --body-font: 'Helvetica Neue', 'Helvetica Neue', sans-serif;
+  --body-font: 'Ubuntu', 'Ubuntu', sans-serif;
   --header-font: 'Helvetica Neue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
 }
