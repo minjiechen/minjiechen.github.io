@@ -4,9 +4,8 @@ title: Research Team
 subtitle: power electronics engineers from all over the world
 ---
 
-== Principle Investigator
+# Principle Investigator
 
-~~~
 {}{img_left}{files/minjie_new.jpg}{Portrait of Minjie Chen}{300px}{}{}
 Minjie Chen \n
 Associate Professor \n
@@ -23,9 +22,8 @@ You can find my [https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en Go
 Here is a brief [files/powerlabposter.pdf OVERVIEW] of the research in our group.
 
 Recent [highlights.html HIGHLIGHTS] of the research in our group.
-~~~
 
-== Current Members
+# Current Members
 
 ~~~
 {}{img_left}{files/kang.jpg}{Gyeong-Gu Kang}{100px}{}{}
