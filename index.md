@@ -18,9 +18,11 @@ subtitle: smaller, smarter, more efficient and AI
 
 - 2025/06: [Shukai Wang](https://scholar.google.com/citations?user=bITUZKkAAAAJ&hl=en) and [Hyukjae Kwon](https://scholar.google.com/citations?user=uTettKIAAAAJ&hl=en) won COMPEL'25 Best Paper Award with their paper [Unified Time Domain Foundation Models for Hysteretic Passive Components](https://ieeexplore.ieee.org/abstract/document/11121278)! This is the second COMPEL Best Paper Award received by our group.
 
-- 2025/06: [Prof. Chen] delivered a keynote speech at COMPEL'25 on [Systematically Managing Complexity in Power Electronics Modeling and Design](/assets/data/compel25-keynote.pdf).
+- 2025/06: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at COMPEL'25 on [Systematically Managing Complexity in Power Electronics Modeling and Design](/assets/data/compel25-keynote.pdf).
 
-- 2025/03: [Prof. Chen] delivered a keynote speech at Magnetics Workshop'25 on [Precision Power Magnetics Engineering:A Key Step toward High Performance Power Electronics](/assets/data/magnet-keynote.pdf).
+- 2025/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at the Magnetics Workshop'25 on [Precision Power Magnetics Engineering:A Key Step toward High Performance Power Electronics](/assets/data/magnet-keynote.pdf).
+
+
 
 ## Sponsors
 <img src="/assets/img/sponsors/sponsors.jpg" width="800px">
