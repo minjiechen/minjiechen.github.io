@@ -20,7 +20,7 @@ layout: null
 
   /* common CSS variables */
   --body-font: 'Ubuntu', 'Ubuntu', sans-serif;
-  --header-font: 'Helvetica Neue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --header-font: 'Helvetica Neue', 'Helvetica Neue', Helvetica, Helvetica, sans-serif;
   --mid-col: #808080;
 }
 
@@ -204,9 +204,8 @@ img {
 }
 
 .navbar-custom .navbar-nav .nav-item {
-  text-transform: uppercase;
-  font-size: 0.8125rem;
-  letter-spacing: 0.0625rem;
+  text-transform: none;
+  font-size: 1rem;
 }
 
 .navbar-custom .navbar-nav .nav-link {
