@@ -4,13 +4,16 @@ title: Princeton Power Electronics
 subtitle: smaller, smarter, more efficient and AI
 ---
 
-## <img src="/assets/img/group/group2025.jpg" width="800px">
+<img src="/assets/img/group/group2025.jpg" width="800px">
 
-## <img src="/assets/img/gallery/gallery.jpg" width="800px">
+<img src="/assets/img/gallery/gallery.jpg" width="800px">
 
-## <img src="/assets/img/sponsors/sponsors.jpg" width="800px">
+## Sponsors
+<img src="/assets/img/sponsors/sponsors.jpg" width="800px">
 
-## <img src="/assets/img/icons/news.png" height="50px"> News
-- Nirmal Roy is the final PhD student to successfully defend his thesis [Exploring the effects of interactive interfaces on user search behaviour](https://research.tudelft.nl/en/publications/exploring-the-effects-of-interactive-interfaces-on-user-search-be). Thus, as of June 2024 every member of my former lab at TU Delft has graduated. 
-- We are nearing the end of my former TU Delft lab. Another PhD is in the books: Arthur Barbosa Câmara did an amazing job and defended his thesis [Designing Search-as-Learning Systems](https://doi.org/10.4233/uuid:0fe3a6bb-1bc1-40e2-86b0-ec3d3aef9c77).
-- Information retrieval researchers discussing the future of IR evaluation at Dagstuhl turned into a [best paper award](https://arxiv.org/abs/2304.09161) at ICTIR 2023! [Photo](https://twitter.com/CharlotteHase/status/1683290714145447936) as proof!
+## News
+- Princeton Power Electronics mourn the loss of Haoran Li, a founding member of the group and a core contributor to the Princeton MagNet Project. Our thoughts are with Haoran, his family, and all his friends within and beyond the international power electronics community. 
+
+- Haoran Li defended his PhD thesis - Data Driven and Hybrid Methods for Power Magnetics Modeling and Design. 
+
+- Shukai Wang and Hyukjae Kwon won COMPEL Best Paper Award! This is the second COMPEL Best Paper Award received by our group.
