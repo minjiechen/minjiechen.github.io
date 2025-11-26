@@ -25,26 +25,12 @@ Postdoc Research Associate <br />
 Power Architecture, Power Management Integrated Circuits <br />
 From: KAIST <br />
 
-{}{img_left}{files/kang.jpg}{Gyeong-Gu Kang}{100px}{}{}
-Gyeong-Gu Kang \n
-Postdoc Researcher \n
-[gk3021@princeton.edu gk3021@princeton.edu] \n
-Power Architecture, Power Management Integrated Circuits \n
-From: KAIST
-
-{}{img_left}{files/haoran_portrait.jpg}{Haoran Li}{100px}{}{}
-Haoran Li \n
-Postdoc Research Associate \n
-[haoranli@princeton.edu haoranli@princeton.edu] \n
-Machine Learning and Magnetics Modeling \n
-From: Tsinghua University
-
-{}{img_left}{files/daniel_portrait.jpg}{Daniel Zhou}{100px}{}{}
-Daniel Zhou \n
-Graduate Student \n
-[dz8@princeton.edu dz8@princeton.edu] \n
-Advanced Control and Novel Magnetic Structures \n
-From: University of Waterloo
+![zhou-pic](assets/img/members/daniel_zhou.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Dr. Daniel Zhou <br />
+Postdoc Research Associate <br />
+[dz8@princeton.edu dz8@princeton.edu] <br />
+Advanced Control and Novel Magnetic Structures <br />
+From: University of Waterloo <br />
 
 {}{img_left}{files/mian_portrait.jpg}{Mian Liao}{100px}{}{}
 Mian Liao \n
