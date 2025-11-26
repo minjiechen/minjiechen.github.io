@@ -4,15 +4,15 @@ title: Research Team
 subtitle: we think and we build together
 ---
 
-## Prof. Minjie Chen
 ![minjie-pic](assets/img/minjie/chen.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
-Associate Professor
-[Electrical and Computer Engineering](https://ece.princeton.edu/)
-[Andlinger Center for Energy and the Environment](https://acee.princeton.edu/)
-[Princeton University](https://www.princeton.edu/)
-ACEE 217, 86 Olden Street, Princeton NJ, 08540
-minjie@princeton.edu
-+1 609-258-7656
+## Prof. Minjie Chen
+Associate Professor \n
+[Electrical and Computer Engineering](https://ece.princeton.edu/) \n
+[Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) \n
+[Princeton University](https://www.princeton.edu/) \n
+ACEE 217, 86 Olden Street, Princeton NJ, 08540 \n
+minjie@princeton.edu \n
++1 609-258-7656 \n
 
 ## Current Students
 
