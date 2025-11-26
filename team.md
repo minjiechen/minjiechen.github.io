@@ -1,10 +1,12 @@
 ---
-layout: post
-title: Team Members
-subtitle: There's lots to learn!
+layout: page
+title: Research Team
+subtitle: minds and hands
 ---
 
 == Principle Investigator
+
+
 
 | ![Crepe](assets/img/minjie/minjie.jpg) | Minjie Chen \n
 Associate Professor \n
