@@ -1,30 +1,14 @@
 ---
 layout: page
 title: Research Team
-subtitle: minds and hands
+subtitle: we build things together!
 ---
 
-== Principle Investigator
-
-
-
-| ![Crepe](assets/img/minjie/minjie.jpg) | Minjie Chen \n
-Associate Professor \n
-217 Andlinger Center \n
-609-258-7656 \n
-[minjie@princeton.edu] \n |
-
-
-{}{img_left}{files/minjie_new.jpg}{Portrait of Minjie Chen}{300px}{}{}
-Minjie Chen \n
-Associate Professor \n
-217 Andlinger Center \n
-609-258-7656 \n
-[minjie@princeton.edu] \n
-
-[https://ece.princeton.edu/ Department of Electrical and Computer Engineering] \n
-[http://acee.princeton.edu/ Andlinger Center for Energy and the Environment] \n
-[http://www.princeton.edu/main/ Princeton University] \n
+![profile-pic](assets/img/minjie/minjie.jpg){:style="float: left;margin-right: 7px;:class="img-responsive"}
+### Associate Professor
+#### [Electrical and Computer Engineering](https://ece.princeton.edu/)
+#### [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/)
+#### [Princeton University](https://www.princeton.edu/)
 
 You can find my [https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en Google Scholar Page] \& [files/minjie_cv.pdf CV] here.
 
