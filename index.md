@@ -1,30 +1,28 @@
 ---
 layout: page
-use-site-title: true
+title: Princeton Power Electronics
+subtitle: smaller, smarter, more efficient and AI
 ---
 
-![profile-pic](img/profile_pic_AAS-smaller.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
-### Associate Dean Learning & Teaching
-#### [College of Science and Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
-#### [James Cook University](https://www.jcu.edu.au)
+<img src="/assets/img/group/group2025.jpg" width="800px">
+<img src="/assets/img/gallery/gallery.jpg" width="800px">
 
-### Honorary Professor
-#### [Environmental Futures](https://www.uow.edu.au/science-medicine-health/research/environmental-futures/)<br />
-#### [University of Wollongong](https://www.uow.edu.au/)
+## News
 
-Room 328, Building 142 (Science Place)
-<br>Bebegu Yumba campus
-<br>Douglas, QLD 4811, Australia
-<br>P: +61 7 4781 4287
-<br>E: jenny.fisher [at] jcu.edu.au
+- 2025/10: [Tanuj Sen](https://scholar.google.com/citations?hl=en&user=ayF8QoYAAAAJ) and [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) presented their work on Cyclo-Active-Bridge converter modeling and design at [ECCE'25](https://www.ieee-ecce.org/2025/).
 
-### Research Overview
-My research centres on investigating the sources, chemical evolution, and transport pathways of atmospheric pollution. I use a global chemical transport model combined with observational data sets (ground-based, aircraft, and satellite) to increase our fundamental understanding of the impacts of human activity and natural processes on atmospheric composition in diverse environments. [[CV]](pdfs/CV_web.pdf) [[ORCiD]](http://orcid.org/0000-0002-2921-1691)
+- 2025/09: [Princeton Power Electronics](https://minjiechen.github.io) mourn the loss of [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), a founding member of the group and a key contributor to the [Princeton MagNet Project](https://github.com/PrincetonUniversity/Magnet). Our thoughts are with Haoran, his family, and all his friends within and beyond the international power electronics community.
 
-### Teaching Overview
-I teach earth systems science and introductory programming to undergraduate students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
+- 2025/06: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at 3DPEIM'25 on [Data-Driven Methods and MagNet Challenge for Power Magnetics Modeling](/assets/data/3dpeim25-keynote.pdf).
 
-### News
-- Proud supervisor month! Former student Dr Sandra Königseder's 1st author paper was [published](https://link.springer.com/article/10.1007/s00704-025-05612-x) and current PhD student Stephen MacFarlane's 1st author paper was also [published](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD043110)!
-- As of January 2025, I have started a new position as Associate Dean Learning and Teaching (and Professor) in the College of Science and Engineering at James Cook University (JCU).
-- From January to December 2024, I spent my sabbatical as an Australian Science Policy Fellow, hosted by the Australian Government Department of Industry, Science and Resources.
+- 2025/07: [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en) defended his PhD thesis - [Data-driven and Hybrid Methods for Power Magnetics Design](/assets/data/haoranli-thesis.pdf).
+
+- 2025/06: [Shukai Wang](https://scholar.google.com/citations?user=bITUZKkAAAAJ&hl=en) and [Hyukjae Kwon](https://scholar.google.com/citations?user=uTettKIAAAAJ&hl=en) won COMPEL'25 Best Paper Award with their paper [Unified Time Domain Foundation Models for Hysteretic Passive Components](https://ieeexplore.ieee.org/abstract/document/11121278)! This is the second COMPEL Best Paper Award received by our group.
+
+- 2025/06: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at COMPEL'25 on [Systematically Managing Complexity in Power Electronics Modeling and Design](/assets/data/compel25-keynote.pdf).
+
+- 2025/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at the Magnetics Workshop'25 on [Precision Power Magnetics Engineering:A Key Step toward High Performance Power Electronics](/assets/data/magnet-keynote.pdf).
+
+
+## Sponsors
+<img src="/assets/img/sponsors/sponsors.jpg" width="800px">
