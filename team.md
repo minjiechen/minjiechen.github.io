@@ -3,7 +3,7 @@ layout: page
 use-site-title: true
 ---
 
-![profile-pic](assets/img/minjie/minjie.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![profile-pic](assets/img/minjie/minjie.jpg){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ### Associate Professor
 #### [Electrical and Computer Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
 #### [Andlinger Center for Energy and the Environment](https://www.jcu.edu.au)
