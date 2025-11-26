@@ -6,6 +6,13 @@ subtitle: There's lots to learn!
 
 == Principle Investigator
 
+| ![Crepe](assets/img/minjie/minjie.jpg) | Minjie Chen \n
+Associate Professor \n
+217 Andlinger Center \n
+609-258-7656 \n
+[minjie@princeton.edu] \n |
+
+
 {}{img_left}{files/minjie_new.jpg}{Portrait of Minjie Chen}{300px}{}{}
 Minjie Chen \n
 Associate Professor \n
