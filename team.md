@@ -4,17 +4,26 @@ title: Research Team
 subtitle: we think and we build together
 ---
 
-![minjie-pic](assets/img/minjie/chen.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+## Principle Investigator
+
+![chen-pic](assets/img/minjie/chen.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 Prof. Minjie Chen <br />
 Associate Professor <br />
 [Electrical and Computer Engineering](https://ece.princeton.edu/) <br />
 [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) <br />
 [Princeton University](https://www.princeton.edu/) <br />
 ACEE 217, 86 Olden Street, Princeton NJ, 08540 <br />
-minjie@princeton.edu <br />
+[minjie@princeton.edu minjie@princeton.edu] <br />
 +1 609-258-7656 <br />
 
 ## Current Students
+
+![kang-pic](assets/img/members/gyeonggu_kang.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Dr. Gyeong-Gu Kang <br />
+Postdoc Research Associate <br />
+[gk3021@princeton.edu gk3021@princeton.edu] <br />
+Power Architecture, Power Management Integrated Circuits <br />
+From: KAIST <br />
 
 {}{img_left}{files/kang.jpg}{Gyeong-Gu Kang}{100px}{}{}
 Gyeong-Gu Kang \n
