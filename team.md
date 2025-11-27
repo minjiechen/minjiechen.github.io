@@ -22,7 +22,9 @@ ACEE 217, 86 Olden Street, Princeton NJ, 08540 <br />
 Dr. Gyeong-Gu Kang <br />
 Postdoc Research Associate <br />
 [gk3021@princeton.edu](gk3021@princeton.edu) <br />
-Power Architecture, Power Management Integrated Circuits <br />
+Power Architecture <br />
+Power Management Integrated Circuits <br />
+Advanced Control of Power Electronics <br />
 From: KAIST <br />
 
 ![rao-pic](assets/img/members/yifan_rao.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
@@ -31,20 +33,24 @@ Postdoc Research Associate <br />
 [yifan.rao@princeton.edu](yifan.rao@princeton.edu) <br />
 Advanced Materials <br />
 Meta Structures <br />
+Robotic Systems <br />
 From: UT Austin <br />
 
 ![zhou-pic](assets/img/members/daniel_zhou.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 Dr. Daniel Zhou <br />
 Postdoc Research Associate <br />
 [dz8@princeton.edu](dz8@princeton.edu) <br />
-Advanced Control and Novel Magnetic Structures <br />
+Advanced Control <br />
+Novel Magnetic Structures <br />
+Utra-fast Power Electronics <br />
 From: University of Waterloo <br />
 
 ![liao-pic](assets/img/members/mian_liao.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 Mian Liao <br />
 Graduate Student <br />
 [mianl@princeton.edu](dz8@princeton.edu) <br />
-Machine Learning and Control of Power Electronics <br />
+Machine Learning in Power Electronics <br />
+Wireless Power Transfer <br />
 Grid Interface Power Electronics <br />
 From: Virginia Tech <br />
 
@@ -61,7 +67,8 @@ From: ETH Zurich \& BITS Pilani <br />
 Hsin Cheng <br />
 Graduate Student <br />
 [hsin@princeton.edu](hsin@princeton.edu) <br />
-Power Electronics Topologies and Digital Power Architecture <br />
+Power Electronics Topologies <br />
+Robotics Power Architecture <br />
 Soft Robotics <br />
 From: National Taiwan University <br />
 
