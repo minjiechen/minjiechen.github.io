@@ -24,7 +24,6 @@ Postdoc Research Associate <br />
 [gk3021@princeton.edu](gk3021@princeton.edu) <br />
 Power Architecture <br />
 Power Management Integrated Circuits <br />
-Advanced Control of Power Electronics <br />
 From: KAIST <br />
 
 ![rao-pic](assets/img/members/yifan_rao.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
@@ -32,7 +31,6 @@ Dr. Yifan Rao <br />
 Postdoc Research Associate <br />
 [yifan.rao@princeton.edu](yifan.rao@princeton.edu) <br />
 Advanced Materials <br />
-Meta Structures <br />
 Robotic Systems <br />
 From: UT Austin <br />
 
@@ -40,8 +38,7 @@ From: UT Austin <br />
 Dr. Daniel Zhou <br />
 Postdoc Research Associate <br />
 [dz8@princeton.edu](dz8@princeton.edu) <br />
-Advanced Control <br />
-Novel Magnetic Structures <br />
+Advanced Control and Magnetics <br />
 Utra-fast Power Electronics <br />
 From: University of Waterloo <br />
 
@@ -50,7 +47,6 @@ Mian Liao <br />
 Graduate Student <br />
 [mianl@princeton.edu](dz8@princeton.edu) <br />
 Machine Learning in Power Electronics <br />
-Wireless Power Transfer <br />
 Grid Interface Power Electronics <br />
 From: Virginia Tech <br />
 
@@ -58,8 +54,7 @@ From: Virginia Tech <br />
 Tanuj Sen <br />
 Graduate Student <br />
 [tsen@princeton.edu](tsen@princeton.edu) <br />
-High Power Radio Frequency Power Electronics <br />
-Grid Interface Power Electronics <br />
+Grid Interface and RF Power Electronics <br />
 Sustainable Power Electronics <br />
 From: ETH Zurich \& BITS Pilani <br />
 
@@ -67,7 +62,6 @@ From: ETH Zurich \& BITS Pilani <br />
 Hsin Cheng <br />
 Graduate Student <br />
 [hsin@princeton.edu](hsin@princeton.edu) <br />
-Power Electronics Topologies <br />
 Robotics Power Architecture <br />
 Soft Robotics <br />
 From: National Taiwan University <br />
@@ -76,8 +70,7 @@ From: National Taiwan University <br />
 Shukai Wang <br />
 Graduate Student <br />
 [sw0123@princeton.edu](sw0123@princeton.edu) <br />
-Data Driven Methods for Power Electronics <br />
-Power Magnetics <br />
+Data Driven Methods and Power Magnetics <br />
 Pulsed Power Electronics <br />
 From: Michigan State University <br />
 
@@ -93,7 +86,7 @@ From: National Technical University of Athens <br />
 Davit Grigoryan <br />
 Graduate Student <br />
 [dg1210@princeton.edu](dg1210@princeton.edu) <br />
-Advanced Characterization of Power Materials <br />
+Power Materials <br />
 Grid Interface and RF Power Electronics <br />
 From: University of Manchester <br />
 
@@ -101,8 +94,8 @@ From: University of Manchester <br />
 Elias Veilleux <br />
 Graduate Student <br />
 [ev4742@princeton.edu](ev4742@princeton.edu) <br />
-Data Driven Methods for Power Electronics <br />
-Soft Robotics and Power Electronics <br />
+Data Driven Methods <br />
+Robotics and Power Electronics <br />
 From: Bates College <br />
 
 ![kwon-pic](assets/img/members/hyukjae_kwon.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
