@@ -13,7 +13,7 @@ Associate Professor <br />
 [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) <br />
 [Princeton University](https://www.princeton.edu/) <br />
 ACEE 217, 86 Olden Street, Princeton NJ, 08540 <br />
-[minjie@princeton.edu minjie@princeton.edu] <br />
+[minjie@princeton.edu](minjie@princeton.edu) <br />
 +1 609-258-7656 <br />
 
 ## Current Students
@@ -21,71 +21,81 @@ ACEE 217, 86 Olden Street, Princeton NJ, 08540 <br />
 ![kang-pic](assets/img/members/gyeonggu_kang.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 Dr. Gyeong-Gu Kang <br />
 Postdoc Research Associate <br />
-[gk3021@princeton.edu gk3021@princeton.edu] <br />
+[gk3021@princeton.edu](gk3021@princeton.edu) <br />
 Power Architecture, Power Management Integrated Circuits <br />
 From: KAIST <br />
 
 ![zhou-pic](assets/img/members/daniel_zhou.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 Dr. Daniel Zhou <br />
 Postdoc Research Associate <br />
-[dz8@princeton.edu dz8@princeton.edu] <br />
+[dz8@princeton.edu](dz8@princeton.edu) <br />
 Advanced Control and Novel Magnetic Structures <br />
 From: University of Waterloo <br />
 
-{}{img_left}{files/mian_portrait.jpg}{Mian Liao}{100px}{}{}
-Mian Liao \n
-Graduate Student \n
-[mianl@princeton.edu mianl@princeton.edu] \n
-Machine Learning and Control of Power Electronics \n
-From: Virginia Tech
+![liao-pic](assets/img/members/mian_portrait.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Mian Liao <br />
+Graduate Student <br />
+[mianl@princeton.edu](dz8@princeton.edu) <br />
+Machine Learning and Control of Power Electronics <br />
+Grid Interface Power Electronics <br />
+From: Virginia Tech <br />
 
-{}{img_left}{files/tanuj_portrait.jpg}{Tanuj Sen}{100px}{}{}
-Tanuj Sen \n
-Graduate Student \n
-[tsen@princeton.edu  tsen@princeton.edu] \n
-High Power Radio Frequency Power Electronics \n
-From: ETH Zurich \& BITS Pilani
+![sen-pic](assets/img/members/tanuj_portrait.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Tanuj Sen <br />
+Graduate Student <br />
+[tsen@princeton.edu](tsen@princeton.edu) <br />
+High Power Radio Frequency Power Electronics <br />
+Grid Interface Power Electronics <br />
+Sustainable Power Electronics <br />
+From: ETH Zurich \& BITS Pilani <br />
 
-{}{img_left}{files/hsin_portrait.jpg}{Hsin Cheng}{100px}{}{}
-Hsin Cheng \n
-Graduate Student \n
-[hsin@princeton.edu hsin@princeton.edu] \n
-Power Electronics Topologies and Digital Power Architecture \n
-From: National Taiwan University
+![cheng-pic](assets/img/members/hsin_portrait.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Hsin Cheng <br />
+Graduate Student <br />
+[hsin@princeton.edu](hsin@princeton.edu) <br />
+Power Electronics Topologies and Digital Power Architecture <br />
+Soft Robotics <br />
+From: National Taiwan University <br />
 
-{}{img_left}{files/shukai_portrait.jpg}{Shukai Wang}{100px}{}{}
-Shukai Wang \n
-Graduate Student \n
-[sw0123@princeton.edu sw0123@princeton.edu] \n
-Data Driven Methods for Power Electronics \n
-From: Michigan State University
+![wang-pic](assets/img/members/shukai_portrait.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Shukai Wang <br />
+Graduate Student <br />
+[sw0123@princeton.edu](sw0123@princeton.edu) <br />
+Data Driven Methods for Power Electronics <br />
+Power Magnetics <br />
+Pulsed Power Electronics <br />
+From: Michigan State University <br />
 
-{}{img_left}{files/manos.jpg}{Konstantinos Manos}{100px}{}{}
-Konstantinos Manos \n
-Graduate Student \n
-[km4382@princeton.edu km4382@princeton.edu] \n
-Motor Drive and Power Electronics \n
-From: National Technical University of Athens
+![manos-pic](assets/img/members/manos.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Konstantinos Manos <br />
+Graduate Student <br />
+[km4382@princeton.edu](km4382@princeton.edu) <br />
+Motor Drive and Power Electronics <br />
+Robotics and Smart Structures <br />
+From: National Technical University of Athens <br />
 
-{}{img_left}{files/davit.jpg}{Davit Grigoryan}{100px}{}{}
-Davit Grigoryan \n
-Graduate Student \n
-[dg1210@princeton.edu dg1210@princeton.edu] \n
-Advanced Characterization of Power Materials \n
-From: University of Manchester
+![davit-pic](assets/img/members/davit.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Davit Grigoryan <br />
+Graduate Student <br />
+[dg1210@princeton.edu](dg1210@princeton.edu) <br />
+Advanced Characterization of Power Materials <br />
+Grid Interface and RF Power Electronics <br />
+From: University of Manchester <br />
 
-{}{img_left}{files/elias.jpg}{Elias Veilleux}{100px}{}{}
-Elias Veilleux \n
-Graduate Student \n
-[ev4742@princeton.edu ev4742@princeton.edu] \n
-Data Driven Methods for Power Electronics \n
-From: Bates College
+![elias-pic](assets/img/members/elias.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Elias Veilleux <br />
+Graduate Student <br />
+[ev4742@princeton.edu](ev4742@princeton.edu) <br />
+Data Driven Methods for Power Electronics <br />
+Soft Robotics and Power Electronics <br />
+From: Bates College <br />
 
-{}{img_left}{files/hyukjae.jpg}{Hyukjae Kwon}{100px}{}{}
-Hyukjae Kwon \n
-Graduate Student \n
-[hk1715@princeton.edu hk1715@princeton.edu.edu] \n
-High Frequency Power Electronics \n
-From: Seoul National University
+![kwon-pic](assets/img/members/hyukjae.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+Hyukjae Kwon <br />
+Graduate Student <br />
+[hk1715@princeton.edu](hk1715@princeton.edu) <br />
+High Frequency Power Electronics <br />
+Power Magnetics Modeling <br />
+From: Seoul National University <br />
 
 ## Alumni
