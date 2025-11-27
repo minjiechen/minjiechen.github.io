@@ -110,36 +110,36 @@ From: Seoul National University <br />
 
 [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Graduate Student, Princeton ’25 <br />
 Start Job: Postdoctoral Researcher, Princeton University <br />
-Thesis: [Data-driven and Hybrid Methods for Power Magnetics Design](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z)<br />
+Thesis: [Data-driven and Hybrid Methods for Power Magnetics Design](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z) <br />
 
-[Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Graduate Student, Princeton ’24<br />
-Start Job: Senior Scientist, Nvidia Research<br />
-Thesis: [Hybrid Switched-Capacitor Circuits and Magnetics Co-Design for Vertical Power Delivery](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r)<br />
+[Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Graduate Student, Princeton ’24 <br />
+Start Job: Senior Scientist, Nvidia Research <br />
+Thesis: [Hybrid Switched-Capacitor Circuits and Magnetics Co-Design for Vertical Power Delivery](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r) <br />
 
-[Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Graduate Student, Princeton ’23<br />
-Start Job: Assistant Professor, HKUST<br />
-Thesis: [Granular Power Conversion with Distributed Switching Cells and Magnetics Integration](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c)<br />
+[Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Graduate Student, Princeton ’23 <br />
+Start Job: Assistant Professor, HKUST <br />
+Thesis: [Granular Power Conversion with Distributed Switching Cells and Magnetics Integration](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c) <br />
 
-[Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’23<br />
-Start Job: Associate Professor, Xi'an Jiaotong University<br />
+[Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’23 <br />
+Start Job: Associate Professor, Xi'an Jiaotong University <br />
 
-[Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Postdoc Research Associate, Princeton ’22<br />
-Start Job: Senior Engineer, Wolfspeed<br />
+[Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Postdoc Research Associate, Princeton ’22 <br />
+Start Job: Senior Engineer, Wolfspeed <br />
 
-[Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Postdoc Research Associate, Princeton ’22<br />
-Start Job: Analog Design Engineer, Intel<br />
+[Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Postdoc Research Associate, Princeton ’22 <br />
+Start Job: Analog Design Engineer, Intel <br />
 
-[Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Postdoc Research Associate, Princeton ’21<br />
-Start Job: Professor, Zhejiang University<br />
+[Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Postdoc Research Associate, Princeton ’21 <br />
+Start Job: Professor, Zhejiang University <br />
 
-[Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’20<br />
-Start Job: Associate Professor, Shanghai Jiaotong University<br />
+[Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’20 <br />
+Start Job: Associate Professor, Shanghai Jiaotong University <br />
 
-[Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Visiting Graduate Student, Princeton ’19<br />
-Start Job: System Engineer, Schneider Electric<br />
+[Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Visiting Graduate Student, Princeton ’19 <br />
+Start Job: System Engineer, Schneider Electric <br />
 
-[Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), Visiting Graduate Student, Princeton ’18<br />
-Start Job: Associate Professor, Harbin Institute of Technology<br />
+[Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), Visiting Graduate Student, Princeton ’18 <br />
+Start Job: Associate Professor, Harbin Institute of Technology <br />
 
 ## Friends
 
