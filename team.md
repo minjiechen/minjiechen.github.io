@@ -122,24 +122,34 @@ Thesis: [Granular Power Conversion with Distributed Switching Cells and Magnetic
 
 [Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’23 <br />
 Start Job: Associate Professor, Xi'an Jiaotong University <br />
+Paper: [Machine Learning at the Grid Edge: Data-driven Impedance Models for Model-Free Inverters](https://ieeexplore.ieee.org/abstract/document/10529635/) <br />
 
 [Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Postdoc Research Associate, Princeton ’22 <br />
 Start Job: Senior Engineer, Wolfspeed <br />
+Paper: [Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics](https://ieeexplore.ieee.org/abstract/document/10169101) <br />
 
 [Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Postdoc Research Associate, Princeton ’22 <br />
 Start Job: Analog Design Engineer, Intel <br />
+Paper: [Vertical Stacked LEGO-PoL CPU Voltage Regulator](https://ieeexplore.ieee.org/abstract/document/9650554/) <br />
 
 [Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Postdoc Research Associate, Princeton ’21 <br />
 Start Job: Professor, Zhejiang University <br />
+Paper: [Multicell Reconfigurable Multi-Input Multi-Output Energy Router Architecture](https://ieeexplore.ieee.org/abstract/document/9097920)
 
 [Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’20 <br />
 Start Job: Associate Professor, Shanghai Jiaotong University <br />
+Paper: [Dual-Band Wireless Power Transfer With Reactance Steering Network and Reconfigurable Receivers](https://ieeexplore.ieee.org/abstract/document/8701672) <br />
 
-[Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Visiting Graduate Student, Princeton ’19 <br />
-Start Job: System Engineer, Schneider Electric <br />
+## Visitors
 
-[Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), Visiting Graduate Student, Princeton ’18 <br />
-Start Job: Associate Professor, Harbin Institute of Technology <br />
+[Hans Wouters](https://scholar.google.com/citations?user=OnxP6MYAAAAJ&hl=en), Visiting Graduate Student from KU Leuven, Princeton ’25
 
-## Friends
+[Hanyu Liu](https://ieeexplore.ieee.org/author/37088542632), Visiting Graduate Student from Tsinghua U., Princeton ’24
+
+[Yang Wu](https://scholar.google.com/citations?user=7kgAUr4AAAAJ&hl=en), Visiting Graduate Student from TU Delft, Princeton ’23
+
+[Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Visiting Graduate Student from Aalborg U., Princeton ’19
+
+[Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), Visiting Graduate Student from HIT, Princeton ’18
+
 
