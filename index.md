@@ -5,6 +5,8 @@ subtitle: smaller, smarter, more efficient and AI
 ---
 
 <img src="/assets/img/group/group2025.jpg" width="800px">
+
+## Gallery
 <img src="/assets/img/gallery/gallery.jpg" width="800px">
 
 ## News
