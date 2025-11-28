@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Princeton Power Electronics
+title: Princeton Power Electronics Research Group
 
 # Your name to show in the footer
 author: Minjie Chen
@@ -35,10 +35,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/logos/pulogo.png"
+avatar: "/assets/img/logos/pulogo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-# round-avatar: true
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -141,12 +141,12 @@ navbar-var-length: true
 
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#F58220"
 hover-col: "#0085A1"
 navbar-col: "#F58220"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#F58220"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
