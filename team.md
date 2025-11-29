@@ -108,14 +108,14 @@ From: Seoul National University <br />
 
 ## Alumni
 
-- [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton <br />
-- [Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia <br />
-- [Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Assistant Professor, HKUST <br />
-- [Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Professor, Xi'an Jiaotong University <br />
-- [Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Senior Engineer, Wolfspeed <br />
-- [Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Assistant Professor, KAIST <br />
-- [Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Professor, Zhejiang University <br />
-- [Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Associate Professor, Shanghai Jiaotong University <br />
+- [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton [Thesis](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z)
+- [Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia [Thesis](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r)
+- [Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Assistant Professor, HKUST [Thesis](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c)
+- [Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Professor, Xi'an Jiaotong University [Paper](https://ieeexplore.ieee.org/abstract/document/10529635/)
+- [Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Senior Engineer, Wolfspeed [Paper](https://ieeexplore.ieee.org/abstract/document/10169101)
+- [Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Assistant Professor, KAIST [Paper](https://ieeexplore.ieee.org/abstract/document/9650554/)
+- [Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Professor, Zhejiang University [Paper](https://ieeexplore.ieee.org/abstract/document/9097920)
+- [Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Associate Professor, Shanghai Jiaotong University [Paper](https://ieeexplore.ieee.org/abstract/document/8701672)
 
 ## Visitors
 
