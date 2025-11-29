@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: no best but only better
+subtitle: there is no best but only better
 ---
 
 ## Journal Publications
