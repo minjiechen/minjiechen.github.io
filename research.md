@@ -61,12 +61,9 @@ subtitle: there is no best but only better
 - M. Chen and H. Vincent Poor, [High-Frequency Power Electronics at the Grid Edge: A Bottom-Up Approach Toward the Smart Grid](https://ieeexplore.ieee.org/document/9185061), IEEE Electrification Magazine, vol. 8, no. 3, pp. 6-17, Sept. 2020.
 - M. Liu and M. Chen, [Dual-Band Wireless Power Transfer with Reactance Steering Network and Reconfigurable Receivers](https://ieeexplore.ieee.org/document/8701672), IEEE Transactions on Power Electronics, vol. 35, no. 1, pp. 496-507, Jan. 2020.
 
-### 2019
+### 2019-
 
 - M. Chen, S. Chakraborty, and D. J. Perreault, [Multitrack Power Factor Correction Architecture](https://ieeexplore.ieee.org/document/8385184), IEEE Transactions on Power Electronics, vol. 34, no. 3, pp. 2454-2466, March, 2019.
-
-### 2018-
-
 - K. K. Berggren, Q.-Y. Zhao, N. Abebe, M. Chen, P. Ravindran, A. McCaughan, and J. C. Bardin, [A Superconducting Nanowire can be Modeled by Using SPICE](http://iopscience.iop.org/article/10.1088/1361-6668/aab149/meta), Superconductor Science and Technology, vol. 31, no. 5, 2018.
 - M. Chen, K. K. Afridi, C. Sombuddha and D. J. Perreault, [Multitrack Power Conversion Architecture](http://ieeexplore.ieee.org/document/7401099/), IEEE Transactions on Power Electronics, vol. 32, no. 1, pp. 325-340, Jan. 2017.
 - Y. Ni, S. Pervaiz, M. Chen and K. K. Afridi, [Energy Density Enhancement of Stacked Switched Capacitor Energy Buffers Through Capacitance Ratio Optimization](http://ieeexplore.ieee.org/document/7600434/), IEEE Transactions on Power Electronics, vol. 32, no. 8, pp. 6363-6380, Aug. 2017.
