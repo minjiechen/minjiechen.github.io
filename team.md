@@ -56,7 +56,7 @@ Graduate Student <br />
 [tsen@princeton.edu](mailto:tsen@princeton.edu) <br />
 Grid Interface and RF Power Electronics <br />
 Sustainable Power Electronics <br />
-From: ETH Zurich \& BITS Pilani <br />
+From: ETH Zurich <br />
 
 ![cheng-pic](assets/img/members/hsin_cheng.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Hsin Cheng](https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en) <br />
@@ -115,7 +115,7 @@ From: Seoul National University <br />
 - [Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Senior Engineer, Wolfspeed, [Paper](https://ieeexplore.ieee.org/abstract/document/10169101)
 - [Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Assistant Professor, KAIST, [Paper](https://ieeexplore.ieee.org/abstract/document/9650554/)
 - [Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Professor, Zhejiang University, [Paper](https://ieeexplore.ieee.org/abstract/document/9097920)
-- [Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Associate Professor, Shanghai Jiaotong University, [Paper](https://ieeexplore.ieee.org/abstract/document/8701672)
+- [Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Professor, Shanghai Jiaotong University, [Paper](https://ieeexplore.ieee.org/abstract/document/8701672)
 
 ## Visitors
 
