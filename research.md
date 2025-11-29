@@ -6,6 +6,8 @@ subtitle: there is no best but only better
 
 ## Journal Publications
 
+### 2025
+
 - T. Sen, M. Liao, Y. Elasser, and M. Chen, [Radio Frequency Power Combining with Reactance Steering Network for Fusion Plasma Heating](https://ieeexplore.ieee.org/document/11058571), IEEE Transactions on Power Electronics, 2025.
 - T. Zhao, X. Dang, K. Manos, S. Zang, J. Mandal, M. Chen, and G. H. Paulino, [Modular Chiral Origami Metamaterials](https://www.nature.com/articles/s41586-025-08851-0), Nature, 640, 931–940 (2025).
 - M. Chen, H. Cui, F. Blaabjerg, L. Lorenz, R. Hellinger, T. Gray, O. Fink, and K. Hermanns, [Power for AI and AI for Power: The Infinite Entanglement Between Artificial Intelligence and Power Electronics Systems](https://ieeexplore.ieee.org/document/10906734), IEEE Power Electronics Magazine, vol. 12, no. 1, pp. 37-43, March 2025.
@@ -13,6 +15,9 @@ subtitle: there is no best but only better
 - D. H. Zhou and M. Chen, [Balancing Flying Capacitor Multilevel Converters with Coupled Inductors: Multiresonant Dynamics](https://ieeexplore.ieee.org/document/10829783), IEEE Transactions on Power Electronics, vol. 40, no. 5, pp. 6578-6592, May 2025.
 - M. Liao, H. Li, P. Wang, T. Sen, Y. Chen and M. Chen, [UAV Fleet Charging on Telecom Towers With Differential Capacitive Wireless Power Transfer](https://ieeexplore.ieee.org/document/10812032), IEEE Transactions on Power Electronics, vol. 40, no. 4, pp. 6370-6384, April 2025.
 - Y. Wu, H. Wu, L. Cheng, J. Zhou, Z. Zhou, M. Chen, X. Wang, [Impedance Profile Prediction for Grid-Connected VSCs with Data-Driven Feature Extraction](https://ieeexplore.ieee.org/document/10748372), IEEE Transactions on Power Electronics, vol. 40, no. 2, pp. 3043-3061, Feb. 2025.
+
+### 2024
+
 - D. H. Zhou, J. Celikovic, D. Maksimovic, and M. Chen, [Balancing Multiphase FCML Converters with Coupled Inductors: Modeling, Analysis, Limitations](https://ieeexplore.ieee.org/document/10508487), IEEE Transactions on Power Electronics, vol. 39, no. 8, pp. 9268-9291, Aug. 2024.
 - Y. Li, Y. Liao, M. Chen, X. Wang, L. Nordström, P. Mittal, and H. V. Poor, [Machine Learning at the Grid-Edge: Data-Driven Impedance Models for Model-Free Smart Inverters](https://ieeexplore.ieee.org/document/10529635), IEEE Transactions on Power Electronics, vol. 39, no. 8, pp. 10465-10481, Aug. 2024.
 - S. Wang, H. Li, D. Serrano; T. Guillod, J. Li, C. R. Sullivan, and M. Chen, [A Simplified Dc-Bias Injection Method for Characterizing Power Magnetics using a Voltage Mirror Transformer](https://ieeexplore.ieee.org/document/10460202), IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 6608-6612, June 2024.
@@ -20,6 +25,9 @@ subtitle: there is no best but only better
 - Z. Zheng, P. Kumar, Y. Chen, H. Cheng, S. Wagner, M. Chen, N. Verma, J. C. Sturm, [Piezoelectric Soft Robot Inchworm Motion by Tuning Ground Friction through Robot Shape: Quasi-Static Modeling and Experimental Validation](https://ieeexplore.ieee.org/document/10388475), IEEE Transactions on Robotics, vol. 40, pp. 2339-2356, 2024.
 - Y. Liao, Y. Li, M. Chen, L. Nordström, X. Wang, P. Mittal, and H. V. Poor, [Neural Network Design for Impedance Modeling of Power Electronic Systems Based on Latent Features](https://ieeexplore.ieee.org/document/10021300), IEEE Trans. on Neural Networks and Learning Systems, vol. 35, no. 5, pp. 5968-5980, May 2024.
 - Y. Elasser, J. Baek, K. Radhakrishnan, H. Gan, J. Douglas, H. K. Krishnamurthy, X. Li, S. Jiang, V. De, C. R. Sullivan, M. Chen, [Mini-LEGO CPU Voltage Regulator](https://ieeexplore.ieee.org/document/10329461), IEEE Transactions on Power Electronics, vol. 39, no. 3, pp. 3391-3410, March 2024.
+
+### 2023
+
 - Y. Elasser, H. Li, P. Wang, J. Baek, K. Radhakrishnan, S. Jiang, H. Gan, X. Zhang, D. Giuliano, and M. Chen, [Circuits and Magnetics co-Design for Ultra-thin Vertical Power Delivery: A Snapshot Review](https://link.springer.com/article/10.1557/s43580-023-00724-w), MRS Advances, Dec. 2023.
 - H. Li, D. Serrano, S. Wang, and M. Chen, [MagNet-AI: Neural Network as Datasheet for Magnetics Modeling and Material Recommendation](https://ieeexplore.ieee.org/document/10232911), IEEE Trans. on Power Electronics, vol. 38, no. 12, pp. 15854-15869, Dec. 2023.
 - H. Li, D. Serrano, S. Wang, T. H. Guillod, M. Luo, V. Bansal, N. Jha, Y. Chen, C. R. Sullivan, M. Chen, [How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics](https://ieeexplore.ieee.org/document/10232863), IEEE Trans. on Power Electron., vol. 38, no. 12, pp. 15829-15853, Dec. 2023.
@@ -29,21 +37,36 @@ subtitle: there is no best but only better
 - J. Baek, Y. Elasser, and M. Chen, [MIPS: Multiphase Integrated Planar Symmetric Coupled Inductor for Ultra-Thin VRM](https://ieeexplore.ieee.org/document/10015041), IEEE Transactions on Power Electronics, 2023.
 - Y. Liao, Y. Li, M. Chen, L. Nordström, X. Wang, P. Mittal, and H. V. Poor, [Neural Network Design for Impedance Modeling of Power Electronic Systems Based on Latent Features](https://ieeexplore.ieee.org/document/10021300), IEEE Transactions on Neural Networks and Learning Systems, 2023.
 - M. Liao, H. Li, P. Wang, T. Sen, Y. Chen and M. Chen, [Machine Learning Methods for Feedforward Power Flow Control of Multi-Active-Bridge Converters](https://ieeexplore.ieee.org/document/9925067), IEEE Transactions on Power Electronics, 2023.
+
+### 2022
+
 - P. Wang, D. Zhou, Y. Elasser, J. Baek and M. Chen, [Matrix Coupled All-in-One Magnetics for PWM Power Conversion](https://ieeexplore.ieee.org/document/9842313), IEEE Transactions on Power Electronics, 2022.
 - T. Liu, X. Zhao, P. Wang, Q. C. Burlingame, J. Hu, K. Roh, Z. Xu, B. P. Rand, M. Chen, and Y.-L. Loo, [Highly Transparent, Scalable, and Stable Perovskite Solar Cells with Minimal Aesthetic Compromise](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202200402), Advanced Energy Materials, 2022, 2200402.
 - J. Baek, Y. Elasser, K. Radhakrishnan, H. Gan, J. Douglas, H. K. Krishnamurthy, X. Li, S. Jiang, C. R. Sullivan, and M. Chen, [Vertical Stacked LEGO-PoL CPU Voltage Regulator](https://ieeexplore.ieee.org/document/9650554), in IEEE Transactions on Power Electronics, 2022.
 - Y. Chen, P. Wang, H. Cheng, G. Szczeszynski, S. Allen, D. M. Giuliano, and M. Chen, [Virtual Intermediate Bus CPU Voltage Regulator](https://ieeexplore.ieee.org/document/9625738), IEEE Trans. on Power Electronics, 2022.
 - P. Wang and M. Chen, [Analysis and Design of Series Voltage Compensator for Differential Power Processing](https://ieeexplore.ieee.org/document/9551290), IEEE Journal of Selected and Emerging Topics of Power Electronics, 2022.
-- D. Zhou, Y. Elasser, J. Baek and M. Chen, [Reluctance based Dynamic Models for Multiphase Coupled Inductor Buck Converters](https://ieeexplore.ieee.org/document/9514480), IEEE Transactions on Power Electronics, vol. 37, no. 2, pp.1334-1351, Feb. 2022.
+- D. H. Zhou, Y. Elasser, J. Baek and M. Chen, [Reluctance based Dynamic Models for Multiphase Coupled Inductor Buck Converters](https://ieeexplore.ieee.org/document/9514480), IEEE Transactions on Power Electronics, vol. 37, no. 2, pp.1334-1351, Feb. 2022.
 - P. Wang, R. C. N. Pilawa-Podgurski, P. Krein and M. Chen, [Stochastic Power Loss Analysis of Differential Power Processing](https://ieeexplore.ieee.org/document/9496195), IEEE Transactions on Power Electronics, vol. 37, no. 1, pp. 81-99, Jan. 2022.
+
+### 2021
+
 - M. Chen and C. R. Sullivan, [Unified Models for Coupled Inductors Applied to Multiphase PWM Converters](https://ieeexplore.ieee.org/document/9449968), IEEE Transactions on Power Electronics, vol. 36, no. 12, pp. 14155-14174, Dec. 2021.
 - P. Wang, Y. Chen, J. Yuan, R. C. N. Pilawa-Podgurski and M. Chen, [Differential Power Processing for Ultra-Efficient Data Storage](https://ieeexplore.ieee.org/document/9187407), IEEE Transactions on Power Electronics, vol. 36, no. 4, pp. 4269-4286, April 2021.
 - Y. Chen, M. Chen and D. Xu, [A 3-kW Two-Stage Transformerless PV Inverter With Resonant DC Link and ZVS-PWM Operation](https://ieeexplore.ieee.org/document/9289017), IEEE Transactions on Industry Applications, vol. 57, no. 2, pp. 1495-1506, March-April 2021.
 - M. Liu, Y. Chen, Y. Elasser and M. Chen, [Dual Frequency Hierarchical Multilayer Battery Balancer Architecture](https://ieeexplore.ieee.org/document/9165203), IEEE Transactions on Power Electronics, vol. 36, no. 3, pp. 3099-3110, March 2021.
+
+### 2020
+
 - Y. Chen, P. Wang, Y. Elasser and M. Chen, [Multicell Reconfigurable Multi-Input Multi-Output Energy Router Architecture](https://ieeexplore.ieee.org/document/9097920), IEEE Transactions on Power Electronics, vol. 35, no. 12, pp. 13210-13224, Dec. 2020.
 - M. Chen and H. Vincent Poor, [High-Frequency Power Electronics at the Grid Edge: A Bottom-Up Approach Toward the Smart Grid](https://ieeexplore.ieee.org/document/9185061), IEEE Electrification Magazine, vol. 8, no. 3, pp. 6-17, Sept. 2020.
 - M. Liu and M. Chen, [Dual-Band Wireless Power Transfer with Reactance Steering Network and Reconfigurable Receivers](https://ieeexplore.ieee.org/document/8701672), IEEE Transactions on Power Electronics, vol. 35, no. 1, pp. 496-507, Jan. 2020.
+
+### 2019
+
 - M. Chen, S. Chakraborty, and D. J. Perreault, [Multitrack Power Factor Correction Architecture](https://ieeexplore.ieee.org/document/8385184), IEEE Transactions on Power Electronics, vol. 34, no. 3, pp. 2454-2466, March, 2019.
+
+### 2018-
+
 - K. K. Berggren, Q.-Y. Zhao, N. Abebe, M. Chen, P. Ravindran, A. McCaughan, and J. C. Bardin, [A Superconducting Nanowire can be Modeled by Using SPICE](http://iopscience.iop.org/article/10.1088/1361-6668/aab149/meta), Superconductor Science and Technology, vol. 31, no. 5, 2018.
 - M. Chen, K. K. Afridi, C. Sombuddha and D. J. Perreault, [Multitrack Power Conversion Architecture](http://ieeexplore.ieee.org/document/7401099/), IEEE Transactions on Power Electronics, vol. 32, no. 1, pp. 325-340, Jan. 2017.
 - Y. Ni, S. Pervaiz, M. Chen and K. K. Afridi, [Energy Density Enhancement of Stacked Switched Capacitor Energy Buffers Through Capacitance Ratio Optimization](http://ieeexplore.ieee.org/document/7600434/), IEEE Transactions on Power Electronics, vol. 32, no. 8, pp. 6363-6380, Aug. 2017.
