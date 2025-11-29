@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Team
+title: Team
 subtitle: we think and we build together
 ---
 
