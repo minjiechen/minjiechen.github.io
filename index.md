@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Princeton Power Electronics
+title: Power Electronics
 subtitle: smaller, smarter, more efficient and AI
 ---
 
