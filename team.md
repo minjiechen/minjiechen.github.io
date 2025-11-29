@@ -108,29 +108,14 @@ From: Seoul National University <br />
 
 ## Alumni
 
-[Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton <br />
-Thesis: [Data-driven and Hybrid Methods for Power Magnetics Design](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z) <br />
-
-[Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia <br />
-Thesis: [Hybrid Switched-Capacitor Circuits and Magnetics Co-Design for Vertical Power Delivery](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r) <br />
-
-[Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Assistant Professor, HKUST <br />
-Thesis: [Granular Power Conversion with Distributed Switching Cells and Magnetics Integration](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c) <br />
-
-[Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Professor, Xi'an Jiaotong University <br />
-Paper: [Machine Learning at the Grid Edge: Data-driven Impedance Models for Model-Free Inverters](https://ieeexplore.ieee.org/abstract/document/10529635/) <br />
-
-[Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Senior Engineer, Wolfspeed <br />
-Paper: [Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics](https://ieeexplore.ieee.org/abstract/document/10169101) <br />
-
-[Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Assistant Professor, KAIST <br />
-Paper: [Vertical Stacked LEGO-PoL CPU Voltage Regulator](https://ieeexplore.ieee.org/abstract/document/9650554/) <br />
-
-[Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Professor, Zhejiang University <br />
-Paper: [Multicell Reconfigurable Multi-Input Multi-Output Energy Router Architecture](https://ieeexplore.ieee.org/abstract/document/9097920)<br />
-
-[Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Associate Professor, Shanghai Jiaotong University <br />
-Paper: [Dual-Band Wireless Power Transfer With Reactance Steering Network and Reconfigurable Receivers](https://ieeexplore.ieee.org/abstract/document/8701672) <br />
+- [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton <br />
+- [Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia <br />
+- [Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Assistant Professor, HKUST <br />
+- [Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Professor, Xi'an Jiaotong University <br />
+- [Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Senior Engineer, Wolfspeed <br />
+- [Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Assistant Professor, KAIST <br />
+- [Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Professor, Zhejiang University <br />
+- [Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Associate Professor, Shanghai Jiaotong University <br />
 
 ## Visitors
 
