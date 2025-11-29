@@ -108,44 +108,36 @@ From: Seoul National University <br />
 
 ## Alumni
 
-[Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Graduate Student, Princeton’25 <br />
-Start Job: Postdoctoral Researcher, Princeton University <br />
+[Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton <br />
 Thesis: [Data-driven and Hybrid Methods for Power Magnetics Design](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z) <br />
 
-[Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Graduate Student, Princeton’24 <br />
-Start Job: Senior Scientist, Nvidia Research <br />
+[Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia <br />
 Thesis: [Hybrid Switched-Capacitor Circuits and Magnetics Co-Design for Vertical Power Delivery](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r) <br />
 
-[Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Graduate Student, Princeton’23 <br />
-Start Job: Assistant Professor, HKUST <br />
+[Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Assistant Professor, HKUST <br />
 Thesis: [Granular Power Conversion with Distributed Switching Cells and Magnetics Integration](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c) <br />
 
-[Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Postdoc Research Associate, Princeton’23 <br />
-Start Job: Associate Professor, Xi'an Jiaotong University <br />
+[Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Professor, Xi'an Jiaotong University <br />
 Paper: [Machine Learning at the Grid Edge: Data-driven Impedance Models for Model-Free Inverters](https://ieeexplore.ieee.org/abstract/document/10529635/) <br />
 
-[Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Postdoc Research Associate, Princeton’22 <br />
-Start Job: Senior Engineer, Wolfspeed <br />
+[Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Senior Engineer, Wolfspeed <br />
 Paper: [Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics](https://ieeexplore.ieee.org/abstract/document/10169101) <br />
 
-[Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Postdoc Research Associate, Princeton’22 <br />
-Start Job: Analog Design Engineer, Intel <br />
+[Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Assistant Professor, KAIST <br />
 Paper: [Vertical Stacked LEGO-PoL CPU Voltage Regulator](https://ieeexplore.ieee.org/abstract/document/9650554/) <br />
 
-[Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Postdoc Research Associate, Princeton’21 <br />
-Start Job: Professor, Zhejiang University <br />
-Paper: [Multicell Reconfigurable Multi-Input Multi-Output Energy Router Architecture](https://ieeexplore.ieee.org/abstract/document/9097920)
+[Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Professor, Zhejiang University <br />
+Paper: [Multicell Reconfigurable Multi-Input Multi-Output Energy Router Architecture](https://ieeexplore.ieee.org/abstract/document/9097920)<br />
 
-[Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Postdoc Research Associate, Princeton’20 <br />
-Start Job: Associate Professor, Shanghai Jiaotong University <br />
+[Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Associate Professor, Shanghai Jiaotong University <br />
 Paper: [Dual-Band Wireless Power Transfer With Reactance Steering Network and Reconfigurable Receivers](https://ieeexplore.ieee.org/abstract/document/8701672) <br />
 
 ## Visitors
 
-- [Hans Wouters](https://scholar.google.com/citations?user=OnxP6MYAAAAJ&hl=en), Visiting Graduate Student from KU Leuven, Princeton’25
-- [Hanyu Liu](https://ieeexplore.ieee.org/author/37088542632), Visiting Graduate Student from Tsinghua U., Princeton’24
-- [Yang Wu](https://scholar.google.com/citations?user=7kgAUr4AAAAJ&hl=en), Visiting Graduate Student from TU Delft, Princeton’23
-- [Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Visiting Graduate Student from Aalborg U., Princeton’19
-- [Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), Visiting Graduate Student from HIT, Princeton’18
+- [Hans Wouters](https://scholar.google.com/citations?user=OnxP6MYAAAAJ&hl=en), KU Leuven, Princeton’25
+- [Hanyu Liu](https://ieeexplore.ieee.org/author/37088542632), Tsinghua U., Princeton’24
+- [Yang Wu](https://scholar.google.com/citations?user=7kgAUr4AAAAJ&hl=en), TU Delft, Princeton’23
+- [Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Aalborg U., Princeton’19
+- [Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), HIT, Princeton’18
 
 
