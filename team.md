@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Team
+title: Team
 subtitle: we think and we build together
 ---
 
@@ -13,7 +13,7 @@ Associate Professor <br />
 [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) <br />
 [Princeton University](https://www.princeton.edu/) <br />
 ACEE 217, 86 Olden Street, Princeton NJ, 08540 <br />
-[minjie@princeton.edu](minjie@princeton.edu) <br />
+[minjie@princeton.edu](mailto:minjie@princeton.edu) <br />
 +1 609-258-7656 <br />
 
 ## Current Students
@@ -21,7 +21,7 @@ ACEE 217, 86 Olden Street, Princeton NJ, 08540 <br />
 ![kang-pic](assets/img/members/gyeonggu_kang.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Dr. Gyeong-Gu Kang](https://scholar.google.com/citations?user=5zSfb3YAAAAJ&hl=en) <br />
 Postdoc Research Associate <br />
-[gk3021@princeton.edu](gk3021@princeton.edu) <br />
+[gk3021@princeton.edu](mailto:gk3021@princeton.edu) <br />
 Power Architecture <br />
 Power Management Integrated Circuits <br />
 From: KAIST <br />
@@ -29,7 +29,7 @@ From: KAIST <br />
 ![rao-pic](assets/img/members/yifan_rao.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Dr. Yifan Rao](https://scholar.google.com/citations?user=oJ52VF4AAAAJ&hl=en) <br />
 Postdoc Research Associate <br />
-[yifan.rao@princeton.edu](yifan.rao@princeton.edu) <br />
+[yifan.rao@princeton.edu](mailto:yifan.rao@princeton.edu) <br />
 Advanced Materials <br />
 Robotic Systems <br />
 From: UT Austin <br />
@@ -37,7 +37,7 @@ From: UT Austin <br />
 ![zhou-pic](assets/img/members/daniel_zhou.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Dr. Daniel Zhou](https://scholar.google.com/citations?user=HdpEOSoAAAAJ&hl=en) <br />
 Postdoc Research Associate <br />
-[dz8@princeton.edu](dz8@princeton.edu) <br />
+[dz8@princeton.edu](mailto:dz8@princeton.edu) <br />
 Advanced Control and Magnetics <br />
 Utra-fast Power Electronics <br />
 From: University of Waterloo <br />
@@ -45,7 +45,7 @@ From: University of Waterloo <br />
 ![liao-pic](assets/img/members/mian_liao.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) <br />
 Graduate Student <br />
-[mianl@princeton.edu](dz8@princeton.edu) <br />
+[mianl@princeton.edu](mailto:mianl@princeton.edu) <br />
 Machine Learning in Power Electronics <br />
 Grid Interface Power Electronics <br />
 From: Virginia Tech <br />
@@ -53,15 +53,15 @@ From: Virginia Tech <br />
 ![sen-pic](assets/img/members/tanuj_sen.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Tanuj Sen](https://scholar.google.com/citations?user=ayF8QoYAAAAJ&hl=en) <br />
 Graduate Student <br />
-[tsen@princeton.edu](tsen@princeton.edu) <br />
+[tsen@princeton.edu](mailto:tsen@princeton.edu) <br />
 Grid Interface and RF Power Electronics <br />
 Sustainable Power Electronics <br />
-From: ETH Zurich \& BITS Pilani <br />
+From: ETH Zurich <br />
 
 ![cheng-pic](assets/img/members/hsin_cheng.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Hsin Cheng](https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en) <br />
 Graduate Student <br />
-[hsin@princeton.edu](hsin@princeton.edu) <br />
+[hsin@princeton.edu](mailto:hsin@princeton.edu) <br />
 Robotics Power Architecture <br />
 Soft Robotics <br />
 From: National Taiwan University <br />
@@ -69,7 +69,7 @@ From: National Taiwan University <br />
 ![wang-pic](assets/img/members/shukai_wang.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Shukai Wang](https://scholar.google.com/citations?user=bITUZKkAAAAJ&hl=en) <br />
 Graduate Student <br />
-[sw0123@princeton.edu](sw0123@princeton.edu) <br />
+[sw0123@princeton.edu](mailto:sw0123@princeton.edu) <br />
 Data Driven Methods and Power Magnetics <br />
 Pulsed Power Electronics <br />
 From: Michigan State University <br />
@@ -77,7 +77,7 @@ From: Michigan State University <br />
 ![manos-pic](assets/img/members/konstantinos_manos.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Konstantinos Manos](https://scholar.google.com/citations?user=y_FThwgAAAAJ&hl=en) <br />
 Graduate Student <br />
-[km4382@princeton.edu](km4382@princeton.edu) <br />
+[km4382@princeton.edu](mailto:km4382@princeton.edu) <br />
 Motor Drive and Power Electronics <br />
 Robotics and Smart Structures <br />
 From: National Technical University of Athens <br />
@@ -85,7 +85,7 @@ From: National Technical University of Athens <br />
 ![davit-pic](assets/img/members/davit_grigoryan.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Davit Grigoryan](https://scholar.google.com/citations?user=twna1dwAAAAJ&hl=en) <br />
 Graduate Student <br />
-[dg1210@princeton.edu](dg1210@princeton.edu) <br />
+[dg1210@princeton.edu](mailto:dg1210@princeton.edu) <br />
 Power Materials <br />
 Grid Interface and RF Power Electronics <br />
 From: University of Manchester <br />
@@ -93,7 +93,7 @@ From: University of Manchester <br />
 ![elias-pic](assets/img/members/elias_veilleux.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Elias Veilleux]() <br />
 Graduate Student <br />
-[ev4742@princeton.edu](ev4742@princeton.edu) <br />
+[ev4742@princeton.edu](mailto:ev4742@princeton.edu) <br />
 Data Driven Methods <br />
 Robotics and Power Electronics <br />
 From: Bates College <br />
@@ -101,56 +101,29 @@ From: Bates College <br />
 ![kwon-pic](assets/img/members/hyukjae_kwon.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Hyukjae Kwon](https://scholar.google.com/citations?user=uTettKIAAAAJ&hl=en) <br />
 Graduate Student <br />
-[hk1715@princeton.edu](hk1715@princeton.edu) <br />
+[hk1715@princeton.edu](mailto:hk1715@princeton.edu) <br />
 High Frequency Power Electronics <br />
 Power Magnetics Modeling <br />
 From: Seoul National University <br />
 
 ## Alumni
 
-[Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Graduate Student, Princeton ’25 <br />
-Start Job: Postdoctoral Researcher, Princeton University <br />
-Thesis: [Data-driven and Hybrid Methods for Power Magnetics Design](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z) <br />
-
-[Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Graduate Student, Princeton ’24 <br />
-Start Job: Research Scientist, Nvidia Research <br />
-Thesis: [Hybrid Switched-Capacitor Circuits and Magnetics Co-Design for Vertical Power Delivery](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r) <br />
-
-[Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Graduate Student, Princeton ’23 <br />
-Start Job: Assistant Professor, HKUST <br />
-Thesis: [Granular Power Conversion with Distributed Switching Cells and Magnetics Integration](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c) <br />
-
-[Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’23 <br />
-Start Job: Associate Professor, Xi'an Jiaotong University <br />
-Paper: [Machine Learning at the Grid Edge: Data-driven Impedance Models for Model-Free Inverters](https://ieeexplore.ieee.org/abstract/document/10529635/) <br />
-
-[Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Postdoc Research Associate, Princeton ’22 <br />
-Start Job: Senior Engineer, Wolfspeed <br />
-Paper: [Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics](https://ieeexplore.ieee.org/abstract/document/10169101) <br />
-
-[Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Postdoc Research Associate, Princeton ’22 <br />
-Start Job: Analog Design Engineer, Intel <br />
-Paper: [Vertical Stacked LEGO-PoL CPU Voltage Regulator](https://ieeexplore.ieee.org/abstract/document/9650554/) <br />
-
-[Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Postdoc Research Associate, Princeton ’21 <br />
-Start Job: Professor, Zhejiang University <br />
-Paper: [Multicell Reconfigurable Multi-Input Multi-Output Energy Router Architecture](https://ieeexplore.ieee.org/abstract/document/9097920)
-
-[Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Postdoc Research Associate, Princeton ’20 <br />
-Start Job: Associate Professor, Shanghai Jiaotong University <br />
-Paper: [Dual-Band Wireless Power Transfer With Reactance Steering Network and Reconfigurable Receivers](https://ieeexplore.ieee.org/abstract/document/8701672) <br />
+- [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z)
+- [Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r)
+- [Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Assistant Professor, HKUST, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c)
+- [Wenliang Zeng](https://scholar.google.com/citations?user=Bz8EENAAAAAJ&hl=zh-CN), Assistant Professor, University of Macau, [Postdoc Paper](https://ieeexplore.ieee.org/abstract/document/11121243)
+- [Yufei Li](https://scholar.google.com/citations?user=wuYiLJYAAAAJ&hl=en), Professor, Xi'an Jiaotong University, [Postdoc Paper](https://ieeexplore.ieee.org/abstract/document/10529635/)
+- [Diego Serrano](https://scholar.google.com/citations?user=9d3MiNwAAAAJ&hl=es), Senior Engineer, Wolfspeed, [Postdoc Paper](https://ieeexplore.ieee.org/abstract/document/10169101)
+- [Jaeil Baek](https://scholar.google.com/citations?user=gkX2K-gAAAAJ&hl=en), Assistant Professor, KAIST, [Postdoc Paper](https://ieeexplore.ieee.org/abstract/document/9650554/)
+- [Yenan Chen](https://scholar.google.com/citations?user=emCURHIAAAAJ&hl=zh-CN), Professor, Zhejiang University, [Postdoc Paper](https://ieeexplore.ieee.org/abstract/document/9097920)
+- [Ming Liu](https://scholar.google.com/citations?user=h5UzZUYAAAAJ&hl=en), Professor, Shanghai Jiaotong University, [Postdoc Paper](https://ieeexplore.ieee.org/abstract/document/8701672)
 
 ## Visitors
 
-[Hans Wouters](https://scholar.google.com/citations?user=OnxP6MYAAAAJ&hl=en), Visiting Graduate Student from KU Leuven, Princeton ’25
+- [Hans Wouters](https://scholar.google.com/citations?user=OnxP6MYAAAAJ&hl=en), KU Leuven, Princeton’25
+- [Hanyu Liu](https://ieeexplore.ieee.org/author/37088542632), Tsinghua U., Princeton’24
+- [Yang Wu](https://scholar.google.com/citations?user=7kgAUr4AAAAJ&hl=en), TU Delft, Princeton’23
+- [Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Aalborg U., Princeton’19
+- [Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), HIT, Princeton’18
 
-[Hanyu Liu](https://ieeexplore.ieee.org/author/37088542632), Visiting Graduate Student from Tsinghua U., Princeton ’24
-
-[Yang Wu](https://scholar.google.com/citations?user=7kgAUr4AAAAJ&hl=en), Visiting Graduate Student from TU Delft, Princeton ’23
-
-[Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Visiting Graduate Student from Aalborg U., Princeton ’19
-
-[Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), Visiting Graduate Student from HIT, Princeton ’18
-
-## Friends
 
