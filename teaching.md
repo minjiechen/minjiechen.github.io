@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: spread knowledge with love and curiousity
+subtitle: knowledge roots in curiousity
 ---
 
 ### [ENE 273 Renewable Energy and Smart Grids](https://ece.princeton.edu/courses/renewable-energy-and-smart-grids)
