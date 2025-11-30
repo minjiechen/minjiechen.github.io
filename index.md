@@ -20,15 +20,21 @@ subtitle: smaller, smarter, more efficient and AI
 
 - 2025/06: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at 3DPEIM'25 on [Data-Driven Methods and MagNet Challenge for Power Magnetics Modeling](/assets/data/3dpeim25-keynote.pdf).
 
-- 2025/07: [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en) defended his PhD thesis - [Data-driven and Hybrid Methods for Power Magnetics Design](/assets/data/haoranli-thesis.pdf).
+- 2025/07: [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en) defended his PhD thesis - [Data-driven and Hybrid Methods for Power Magnetics Design](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z).
+
+<img src="/assets/img/news/haoran1.jpg" height="250px">
+<img src="/assets/img/news/haoran2.jpg" height="250px">
 
 - 2025/06: [Shukai Wang](https://scholar.google.com/citations?user=bITUZKkAAAAJ&hl=en) and [Hyukjae Kwon](https://scholar.google.com/citations?user=uTettKIAAAAJ&hl=en) won COMPEL'25 Best Paper Award with their paper [Unified Time Domain Foundation Models for Hysteretic Passive Components](https://ieeexplore.ieee.org/abstract/document/11121278)! This is the second COMPEL Best Paper Award received by our group.
 
-- 2025/06: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at COMPEL'25 on [Systematically Managing Complexity in Power Electronics Modeling and Design](/assets/data/compel25-keynote.pdf).
+<img src="/assets/img/news/compel1.jpg" height="250px">
+<img src="/assets/img/news/compel2.jpg" height="250px">
 
-- 2025/03: [Daniel Zhou](), [Konstantinos Manos](), [Davit Grigoryan]() received APEC Outstanding Presentation Award.
+- 2025/06: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) presented a keynote speech at COMPEL'25 on [Systematically Managing Complexity in Power Electronics Modeling and Design](/assets/data/compel25-keynote.pdf).
 
-- 2025/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at the Magnetics Workshop'25 on [Precision Power Magnetics Engineering:A Key Step toward High Performance Power Electronics](/assets/data/magnet-keynote.pdf).
+- 2025/03: [Daniel Zhou](https://scholar.google.com/citations?user=HdpEOSoAAAAJ&hl=en), [Konstantinos Manos](https://scholar.google.com/citations?user=y_FThwgAAAAJ&hl=en), [Davit Grigoryan](https://scholar.google.com/citations?user=twna1dwAAAAJ&hl=en) each received an IEEE APEC Outstanding Presentation Award at APEC'25.
+
+- 2025/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) presented a keynote speech at the Magnetics Workshop'25 on [Precision Power Magnetics Engineering: A Key Step toward High Performance Power Electronics](/assets/data/magnet-keynote.pdf).
 
 
 ## Sponsors
