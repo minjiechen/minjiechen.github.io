@@ -431,7 +431,7 @@ From: Seoul National University <br />
 <div style="float: left; width: 48%;">
     <figure>
         <img src="/assets/img/group/group44.jpg" alt="Description of image 2">
-        <figcaption>SEAS Award 2022.</figcaption>
+        <figcaption>Innovation Forum 2019.</figcaption>
     </figure>
 </div>
 <div style="clear: both;"></div>
@@ -439,13 +439,13 @@ From: Seoul National University <br />
 <div style="float: left; width: 48%; margin-right: 2%;">
     <figure>
         <img src="/assets/img/group/group45.jpg" alt="Description of image 1">
-        <figcaption>Beach Party 2025.</figcaption>
+        <figcaption>CPSS Visit 2025.</figcaption>
     </figure>
 </div>
 <div style="float: left; width: 48%;">
     <figure>
         <img src="/assets/img/group/group46.jpg" alt="Description of image 2">
-        <figcaption>ETH Visit 2023.</figcaption>
+        <figcaption>MagNet Challenge 1 2023.</figcaption>
     </figure>
 </div>
 <div style="clear: both;"></div>
@@ -453,13 +453,13 @@ From: Seoul National University <br />
 <div style="float: left; width: 48%; margin-right: 2%;">
     <figure>
         <img src="/assets/img/group/group47.jpg" alt="Description of image 1">
-        <figcaption>Philippe Visit 2025.</figcaption>
+        <figcaption>TSMC Lunch 2025.</figcaption>
     </figure>
 </div>
 <div style="float: left; width: 48%;">
     <figure>
         <img src="/assets/img/group/group48.jpg" alt="Description of image 2">
-        <figcaption>SEAS Award 2022.</figcaption>
+        <figcaption>CPSS Visit 2025.</figcaption>
     </figure>
 </div>
 <div style="clear: both;"></div>
