@@ -34,7 +34,7 @@ subtitle: smaller, smarter, more efficient and AI
 
 - 2025/03: [Daniel Zhou](https://scholar.google.com/citations?user=HdpEOSoAAAAJ&hl=en), [Konstantinos Manos](https://scholar.google.com/citations?user=y_FThwgAAAAJ&hl=en), [Davit Grigoryan](https://scholar.google.com/citations?user=twna1dwAAAAJ&hl=en) each received an IEEE APEC Outstanding Presentation Award at APEC'25.
 
-- 2025/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) presented a keynote speech at the Magnetics Workshop'25 on [Precision Power Magnetics Engineering: A Key Step toward High Performance Power Electronics](/assets/data/magnet-keynote.pdf).
+- 2025/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) presented a keynote speech at the Magnetics Workshop'25 on [Precision Power Magnetics Engineering: A Key Step toward High Performance Power Electronics](/assets/data/magnet25-keynote.pdf).
 
 
 ## Sponsors
