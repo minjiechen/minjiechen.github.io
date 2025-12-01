@@ -126,84 +126,312 @@ From: Seoul National University <br />
 - [Jing Yuan](https://scholar.google.com/citations?user=a1kBZ8kAAAAJ&hl=en), Aalborg U., Princeton’19
 - [Yueshi Guan](https://scholar.google.com/citations?user=Csq-f_AAAAAJ&hl=en), HIT, Princeton’18
 
-## Friendship
+## Moments
 
 <div style="float: left; width: 48%; margin-right: 2%;">
     <figure>
         <img src="/assets/img/group/group1.jpg" alt="Description of image 1">
-        <figcaption>Caption for figure 1.</figcaption>
+        <figcaption>Farewell to Diego Serrano.</figcaption>
     </figure>
 </div>
 <div style="float: left; width: 48%;">
     <figure>
         <img src="/assets/img/group/group2.jpg" alt="Description of image 2">
-        <figcaption>Caption for figure 2.</figcaption>
+        <figcaption>Farewell to Jaeil Baek.</figcaption>
     </figure>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/assets/img/group/group1.jpg" width="380px">
-<img src="/assets/img/group/group2.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group3.jpg" alt="Description of image 1">
+        <figcaption>Beach Party 2024.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group4.jpg" alt="Description of image 2">
+        <figcaption>ECCE 2022.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group3.jpg" width="380px">
-<img src="/assets/img/group/group4.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group5.jpg" alt="Description of image 1">
+        <figcaption>Beach Party 2023.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group6.jpg" alt="Description of image 2">
+        <figcaption>Diego Party 2023.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group5.jpg" width="380px">
-<img src="/assets/img/group/group6.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group7.jpg" alt="Description of image 1">
+        <figcaption>Boston Drive 2024.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group8.jpg" alt="Description of image 2">
+        <figcaption>Thanksgiving 2024.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group7.jpg" width="380px">
-<img src="/assets/img/group/group8.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group9.jpg" alt="Description of image 1">
+        <figcaption>Christmas 2024.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group10.jpg" alt="Description of image 2">
+        <figcaption>Thanksgiving 2024.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group9.jpg" width="380px">
-<img src="/assets/img/group/group10.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group11.jpg" alt="Description of image 1">
+        <figcaption>Soccer Game 2024.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group12.jpg" alt="Description of image 2">
+        <figcaption>APEC 2024.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group11.jpg" width="380px">
-<img src="/assets/img/group/group12.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group13.jpg" alt="Description of image 1">
+        <figcaption>JGK Visit 2024.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group14.jpg" alt="Description of image 2">
+        <figcaption>Group Meeting 2024.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group13.jpg" width="380px">
-<img src="/assets/img/group/group14.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group15.jpg" alt="Description of image 1">
+        <figcaption>Ping Wang Graduate 2023.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group16.jpg" alt="Description of image 2">
+        <figcaption>ECCE 2022.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group15.jpg" width="380px">
-<img src="/assets/img/group/group16.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group17.jpg" alt="Description of image 1">
+        <figcaption>APEC 2023.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group18.jpg" alt="Description of image 2">
+        <figcaption>Data Center 2019.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group17.jpg" width="380px">
-<img src="/assets/img/group/group18.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group19.jpg" alt="Description of image 1">
+        <figcaption>NTU Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group20.jpg" alt="Description of image 2">
+        <figcaption>MagNet China 2025.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group19.jpg" width="380px">
-<img src="/assets/img/group/group20.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group21.jpg" alt="Description of image 1">
+        <figcaption>PEAS 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group22.jpg" alt="Description of image 2">
+        <figcaption>IEEJ Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group21.jpg" width="380px">
-<img src="/assets/img/group/group22.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group23.jpg" alt="Description of image 1">
+        <figcaption>AdCom Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group24.jpg" alt="Description of image 2">
+        <figcaption>Hans Wouters Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group23.jpg" width="380px">
-<img src="/assets/img/group/group24.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group25.jpg" alt="Description of image 1">
+        <figcaption>MKS Trip 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group26.jpg" alt="Description of image 2">
+        <figcaption>CPSS Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group25.jpg" width="380px">
-<img src="/assets/img/group/group26.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group27.jpg" alt="Description of image 1">
+        <figcaption>Thanksgiving 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group28.jpg" alt="Description of image 2">
+        <figcaption>OSU Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group27.jpg" width="380px">
-<img src="/assets/img/group/group28.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group29.jpg" alt="Description of image 1">
+        <figcaption>MagNet China 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group30.jpg" alt="Description of image 2">
+        <figcaption>NTU-CPSS Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group29.jpg" width="380px">
-<img src="/assets/img/group/group30.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group31.jpg" alt="Description of image 1">
+        <figcaption>Beach Party 2022.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group32.jpg" alt="Description of image 2">
+        <figcaption>ECCE 2019.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group31.jpg" width="380px">
-<img src="/assets/img/group/group32.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group33.jpg" alt="Description of image 1">
+        <figcaption>Group Dinner 2018.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group34.jpg" alt="Description of image 2">
+        <figcaption>Innovation Forum 2019.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group33.jpg" width="380px">
-<img src="/assets/img/group/group34.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group35.jpg" alt="Description of image 1">
+        <figcaption>MIT Trip 2022.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group36.jpg" alt="Description of image 2">
+        <figcaption>ECCE 2022.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group35.jpg" width="380px">
-<img src="/assets/img/group/group36.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group37.jpg" alt="Description of image 1">
+        <figcaption>APEC 2022.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group38.jpg" alt="Description of image 2">
+        <figcaption>OCP 2019.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group37.jpg" width="380px">
-<img src="/assets/img/group/group38.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group39.jpg" alt="Description of image 1">
+        <figcaption>Intel Trip 2022.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group40.jpg" alt="Description of image 2">
+        <figcaption>Graduation 2022.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group39.jpg" width="380px">
-<img src="/assets/img/group/group40.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group41.jpg" alt="Description of image 1">
+        <figcaption>Beach Party 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group42.jpg" alt="Description of image 2">
+        <figcaption>ETH Visit 2023.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
 
-<img src="/assets/img/group/group41.jpg" width="380px">
-<img src="/assets/img/group/group42.jpg" width="380px">
-
-<img src="/assets/img/group/group43.jpg" width="380px">
-<img src="/assets/img/group/group44.jpg" width="380px">
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group43.jpg" alt="Description of image 1">
+        <figcaption>Philippe Visit 2025.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group44.jpg" alt="Description of image 2">
+        <figcaption>SEAS Award 2022.</figcaption>
+    </figure>
+</div>
+<div style="clear: both;"></div>
