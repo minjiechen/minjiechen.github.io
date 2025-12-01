@@ -4,7 +4,7 @@ title: Princeton Power Electronics
 subtitle: smaller, smarter, more efficient and AI
 ---
 
-<img src="/assets/home.jpg" width="800px">
+<img src="/home.jpg" width="800px">
 
 ## Gallery
 <img src="/assets/img/gallery/gallery.jpg" width="800px">
