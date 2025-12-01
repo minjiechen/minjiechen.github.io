@@ -128,6 +128,19 @@ From: Seoul National University <br />
 
 ## Friendship
 
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/group/group1.jpg" alt="Description of image 1">
+        <figcaption>Caption for figure 1.</figcaption>
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/group/group2.jpg" alt="Description of image 2">
+        <figcaption>Caption for figure 2.</figcaption>
+    </figure>
+</div>
+
 <img src="/assets/img/group/group1.jpg" width="380px">
 <img src="/assets/img/group/group2.jpg" width="380px">
 
