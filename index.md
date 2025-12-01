@@ -11,7 +11,7 @@ subtitle: smaller, smarter, more efficient and AI
 
 ## News
 
-- 2025/10: [Tanuj Sen](https://scholar.google.com/citations?hl=en&user=ayF8QoYAAAAJ) and [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) presented their work on Cyclo-Active-Bridge converter modeling and design at [ECCE'25](https://www.ieee-ecce.org/2025/), and win the Best Student Demonstration Award in Design Methodologies.
+- 2025/10: [Tanuj Sen](https://scholar.google.com/citations?hl=en&user=ayF8QoYAAAAJ) and [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) presented their work on Cyclo-Active-Bridge converter modeling and design at [ECCE'25](https://www.ieee-ecce.org/2025/), and won the Best Student Demonstration Award in Design Methodologies.
 
 <img src="/assets/img/news/ecce2025a.jpg" height="250px">
 <img src="/assets/img/news/ecce2025b.jpg" height="250px">
