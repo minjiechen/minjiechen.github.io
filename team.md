@@ -108,6 +108,7 @@ From: Seoul National University <br />
 
 ## Alumni
 
+- [Daniel ZHou](https://scholar.google.com/citations?user=HdpEOSoAAAAJ&hl=en), Lecturer, Princeton, [PhD Thesis](/assets/data/danielzhou-thesis.pdf)
 - [Haoran Li](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z)
 - [Youssef Elasser](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r)
 - [Ping Wang](https://scholar.google.com/citations?user=ruSwnUoAAAAJ&hl=en), Assistant Professor, HKUST, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01sn00b202c)
