@@ -132,13 +132,13 @@ From: Seoul National University <br />
 <div style="float: left; width: 48%; margin-right: 2%;">
     <figure>
         <img src="/assets/img/group/group1.jpg" alt="Description of image 1">
-        <figcaption>Farewell to Diego Serrano.</figcaption>
+        <figcaption>Diego Serrano 2023.</figcaption>
     </figure>
 </div>
 <div style="float: left; width: 48%;">
     <figure>
         <img src="/assets/img/group/group2.jpg" alt="Description of image 2">
-        <figcaption>Farewell to Jaeil Baek.</figcaption>
+        <figcaption>Jaeil Baek 2022.</figcaption>
     </figure>
 </div>
 <div style="clear: both;"></div>
