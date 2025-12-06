@@ -11,16 +11,30 @@ subtitle: smaller, smarter, more efficient and AI
 
 ## News
 
-- 2025/10: [Tanuj Sen](https://scholar.google.com/citations?hl=en&user=ayF8QoYAAAAJ) and [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) presented their work on Cyclo-Active-Bridge converter modeling and design at [ECCE'25](https://www.ieee-ecce.org/2025/), and won the Best Student Demonstration Award in Design Methodologies.
+- 2025/12: [Daniel Zhou](https://scholar.google.com/citations?user=HdpEOSoAAAAJ&hl=en) defended his PhD thesis [Scalable Power Electronics Architecture with Multiplex Switching and Coupled Magnetics](/assets/data/danielzhou-thesis.pdf).
 
 <div style="float: left; width: 48%; margin-right: 2%;">
     <figure>
-        <img src="/assets/img/news/ecce2025a.jpg" alt="Description of image 1">
+        <img src="/assets/img/news/zhou1.jpg" alt="zhouchen">
     </figure>
 </div>
 <div style="float: left; width: 48%;">
     <figure>
-        <img src="/assets/img/news/ecce2025b.jpg" alt="Description of image 2">
+        <img src="/assets/img/news/zhou2.jpg" alt="zhoutalk">
+    </figure>
+</div>
+<div style="clear: both;"></div>
+
+- 2025/10: [Tanuj Sen](https://scholar.google.com/citations?hl=en&user=ayF8QoYAAAAJ) and [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) presented their work on Cyclo-Active-Bridge converter modeling and design at [ECCE'25](https://www.ieee-ecce.org/2025/), and won the Best Student Demonstration Award in Design Methodologies.
+
+<div style="float: left; width: 48%; margin-right: 2%;">
+    <figure>
+        <img src="/assets/img/news/ecce2025a.jpg" alt="awardphoto">
+    </figure>
+</div>
+<div style="float: left; width: 48%;">
+    <figure>
+        <img src="/assets/img/news/ecce2025b.jpg" alt="tanujmianchen">
     </figure>
 </div>
 <div style="clear: both;"></div>
@@ -33,12 +47,12 @@ subtitle: smaller, smarter, more efficient and AI
 
 <div style="float: left; width: 48%; margin-right: 2%;">
     <figure>
-        <img src="/assets/img/news/haoran1.jpg" alt="Description of image 1">
+        <img src="/assets/img/news/haoran1.jpg" alt="haoranfpo">
     </figure>
 </div>
 <div style="float: left; width: 48%;">
     <figure>
-        <img src="/assets/img/news/haoran2.jpg" alt="Description of image 2">
+        <img src="/assets/img/news/haoran2.jpg" alt="haoranlunch">
     </figure>
 </div>
 <div style="clear: both;"></div>
@@ -47,12 +61,12 @@ subtitle: smaller, smarter, more efficient and AI
 
 <div style="float: left; width: 48%; margin-right: 2%;">
     <figure>
-        <img src="/assets/img/news/compel1.jpg" alt="Description of image 1">
+        <img src="/assets/img/news/compel1.jpg" alt="shukaicostinett">
     </figure>
 </div>
 <div style="float: left; width: 48%;">
     <figure>
-        <img src="/assets/img/news/compel2.jpg" alt="Description of image 2">
+        <img src="/assets/img/news/compel2.jpg" alt="shukaiaward">
     </figure>
 </div>
 <div style="clear: both;"></div>
