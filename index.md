@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Princeton Power Electronics
-subtitle: smaller, smarter, more efficient and AI
+subtitle: smaller, smarter, faster, more efficient, and AI
 ---
 
 <img src="/home.jpg" width="800px">
