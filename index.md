@@ -25,6 +25,8 @@ subtitle: smaller, smarter, faster, more efficient, and AI
 </div>
 <div style="clear: both;"></div>
 
+- 2025/11: [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) received the first place prize at the AI Challenge of the IEEE Design Methodology Conference hosted by the University of Arkansas.
+
 - 2025/10: [Tanuj Sen](https://scholar.google.com/citations?hl=en&user=ayF8QoYAAAAJ) and [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) presented their work on Cyclo-Active-Bridge converter modeling and design at [ECCE'25](https://www.ieee-ecce.org/2025/), and won the Best Student Demonstration Award in Design Methodologies.
 
 <div style="float: left; width: 48%; margin-right: 2%;">
