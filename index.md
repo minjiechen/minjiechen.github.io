@@ -39,9 +39,17 @@ subtitle: smaller, smarter, faster, more efficient, and AI
 
 - 2026/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at APEC 2026 on MagNet Challenge and Artificial Intelligence. 
 
-<div style="margin: 15px 0;">
-    <iframe src="/assets/data/apec26-keynote.pdf" width="100%" height="500px" style="border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="margin: 15px 0; position: relative; padding-bottom: 60%; height: 0; min-height: 480px;">
+    <iframe src="https://docs.google.com/viewer?url=https://minjiechen.github.io/assets/data/apec26-keynote.pdf&embedded=true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" allowfullscreen>
         <p>Your browser does not support PDFs. <a href="/assets/data/apec26-keynote.pdf">Download the PDF</a>.</p>
+    </iframe>
+</div>
+
+- 2026/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en)'s work at TSMC on the roadmap toward integrated voltage regulators (IVRs) published at APEC 2026.
+
+<div style="margin: 15px 0; position: relative; padding-bottom: 60%; height: 0; min-height: 480px;">
+    <iframe src="https://docs.google.com/viewer?url=https://minjiechen.github.io/assets/data/tsmc-ivr.pdf&embedded=true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" allowfullscreen>
+        <p>Your browser does not support PDFs. <a href="/assets/data/tsmc-ivr.pdf">Download the PDF</a>.</p>
     </iframe>
 </div>
 
