@@ -18,7 +18,7 @@ ACEE 217, 86 Olden Street, Princeton NJ, 08540 <br />
 
 ## Current Students
 
-![kang-pic](assets/img/members/gyeonggu_kang.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![kang-pic](assets/img/members/gyeonggu_kang.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Dr. Gyeong-Gu Kang](https://scholar.google.com/citations?user=5zSfb3YAAAAJ&hl=en) <br />
 Postdoc Research Associate <br />
 [gk3021@princeton.edu](mailto:gk3021@princeton.edu) <br />
@@ -26,7 +26,7 @@ Power Architecture <br />
 Power Management Integrated Circuits <br />
 From: KAIST <br />
 
-![rao-pic](assets/img/members/yifan_rao.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![rao-pic](assets/img/members/yifan_rao.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Dr. Yifan Rao](https://scholar.google.com/citations?user=oJ52VF4AAAAJ&hl=en) <br />
 Postdoc Research Associate <br />
 [yifan.rao@princeton.edu](mailto:yifan.rao@princeton.edu) <br />
@@ -34,7 +34,7 @@ Advanced Materials <br />
 Robotic Systems <br />
 From: UT Austin <br />
 
-![zhou-pic](assets/img/members/daniel_zhou.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![zhou-pic](assets/img/members/daniel_zhou.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Dr. Daniel Zhou](https://scholar.google.com/citations?user=HdpEOSoAAAAJ&hl=en) <br />
 Postdoc Research Associate <br />
 [dz8@princeton.edu](mailto:dz8@princeton.edu) <br />
@@ -42,7 +42,7 @@ Advanced Control and Magnetics <br />
 Utra-fast Power Electronics <br />
 From: University of Waterloo <br />
 
-![liao-pic](assets/img/members/mian_liao.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![liao-pic](assets/img/members/mian_liao.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Mian Liao](https://scholar.google.com/citations?user=k6W4g7AAAAAJ&hl=en) <br />
 Graduate Student <br />
 [mianl@princeton.edu](mailto:mianl@princeton.edu) <br />
@@ -50,7 +50,7 @@ Machine Learning in Power Electronics <br />
 Grid Interface Power Electronics <br />
 From: Virginia Tech <br />
 
-![sen-pic](assets/img/members/tanuj_sen.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![sen-pic](assets/img/members/tanuj_sen.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Tanuj Sen](https://scholar.google.com/citations?user=ayF8QoYAAAAJ&hl=en) <br />
 Graduate Student <br />
 [tsen@princeton.edu](mailto:tsen@princeton.edu) <br />
@@ -58,7 +58,7 @@ Grid Interface and RF Power Electronics <br />
 Sustainable Power Electronics <br />
 From: ETH Zurich <br />
 
-![wang-pic](assets/img/members/shukai_wang.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![wang-pic](assets/img/members/shukai_wang.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Shukai Wang](https://scholar.google.com/citations?user=bITUZKkAAAAJ&hl=en) <br />
 Graduate Student <br />
 [sw0123@princeton.edu](mailto:sw0123@princeton.edu) <br />
@@ -66,7 +66,7 @@ Data Driven Methods and Power Magnetics <br />
 Pulsed Power Electronics <br />
 From: Michigan State University <br />
 
-![manos-pic](assets/img/members/konstantinos_manos.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![manos-pic](assets/img/members/konstantinos_manos.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Konstantinos Manos](https://scholar.google.com/citations?user=y_FThwgAAAAJ&hl=en) <br />
 Graduate Student <br />
 [km4382@princeton.edu](mailto:km4382@princeton.edu) <br />
@@ -74,7 +74,7 @@ Motor Drive and Power Electronics <br />
 Robotics and Smart Structures <br />
 From: National Technical University of Athens <br />
 
-![davit-pic](assets/img/members/davit_grigoryan.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![davit-pic](assets/img/members/davit_grigoryan.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Davit Grigoryan](https://scholar.google.com/citations?user=twna1dwAAAAJ&hl=en) <br />
 Graduate Student <br />
 [dg1210@princeton.edu](mailto:dg1210@princeton.edu) <br />
@@ -82,7 +82,7 @@ Power Materials <br />
 Grid Interface and RF Power Electronics <br />
 From: University of Manchester <br />
 
-![elias-pic](assets/img/members/elias_veilleux.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![elias-pic](assets/img/members/elias_veilleux.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Elias Veilleux]() <br />
 Graduate Student <br />
 [ev4742@princeton.edu](mailto:ev4742@princeton.edu) <br />
@@ -90,7 +90,7 @@ Data Driven Methods <br />
 Robotics and Power Electronics <br />
 From: Bates College <br />
 
-![kwon-pic](assets/img/members/hyukjae_kwon.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![kwon-pic](assets/img/members/hyukjae_kwon.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Hyukjae Kwon](https://scholar.google.com/citations?user=uTettKIAAAAJ&hl=en) <br />
 Graduate Student <br />
 [hk1715@princeton.edu](mailto:hk1715@princeton.edu) <br />
@@ -98,7 +98,7 @@ High Frequency Power Electronics <br />
 Power Magnetics Modeling <br />
 From: Seoul National University <br />
 
-![simone-pic](assets/img/members/daniel_simone.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![simone-pic](assets/img/members/daniel_simone.jpg){:style="float: left;width: 20%; margin-right: 20px;:class="img-responsive"}
 [Daniel Simone](https://www.linkedin.com/in/simonedaniel) <br />
 Graduate Student <br />
 [dsimone@princeton.edu](mailto:dsimone@princeton.edu) <br />
@@ -106,7 +106,7 @@ High Power Density Power Electronics <br />
 Data Center Power Electronics <br />
 From: Princeton University <br />
 
-![hanfeng-pic](assets/img/members/hanfeng_cai.jpeg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+![hanfeng-pic](assets/img/members/hanfeng_cai.jpeg){:style="float: left; width: 20%; margin-right: 20px;:class="img-responsive"}
 [Hanfeng Cai](https://scholar.google.com/citations?user=aceq06AAAAAJ&hl=en) <br />
 Graduate Student <br />
 [hcai@princeton.edu](mailto:hcai@princeton.edu) <br />
