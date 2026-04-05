@@ -14,3 +14,5 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
   
 gemspec
 
+gem 'ffi', '< 1.17.0'
+gem 'jekyll-sass-converter', '~> 2.0'

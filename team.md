@@ -58,14 +58,6 @@ Grid Interface and RF Power Electronics <br />
 Sustainable Power Electronics <br />
 From: ETH Zurich <br />
 
-![cheng-pic](assets/img/members/hsin_cheng.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
-[Hsin Cheng](https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en) <br />
-Graduate Student <br />
-[hsin@princeton.edu](mailto:hsin@princeton.edu) <br />
-Robotics Power Architecture <br />
-Soft Robotics <br />
-From: National Taiwan University <br />
-
 ![wang-pic](assets/img/members/shukai_wang.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
 [Shukai Wang](https://scholar.google.com/citations?user=bITUZKkAAAAJ&hl=en) <br />
 Graduate Student <br />
@@ -106,8 +98,24 @@ High Frequency Power Electronics <br />
 Power Magnetics Modeling <br />
 From: Seoul National University <br />
 
-## Alumni
+![simone-pic](assets/img/members/daniel_simone.jpg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+[Daniel Simone](https://www.linkedin.com/in/simonedaniel) <br />
+Graduate Student <br />
+[dsimone@princeton.edu](mailto:dsimone@princeton.edu) <br />
+High Power Density Power Electronics <br />
+Data Center Power Electronics <br />
+From: Princeton University <br />
 
+![hanfeng-pic](assets/img/members/hanfeng_cai.jpeg){:style="float: left;margin-right: 20px;:class="img-responsive"}
+[Hanfeng Cai](https://scholar.google.com/citations?user=aceq06AAAAAJ&hl=en) <br />
+Graduate Student <br />
+[hcai@princeton.edu](mailto:hcai@princeton.edu) <br />
+Power Management Integrated Circuits <br />
+Analog Circuit Design <br />
+From: University of Toronto <br />
+
+## Alumni
+- [Hsin Cheng'26](https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en), Engineer, Apple, [PhD Thesis](/assets/data/hsin-thesis.pdf)
 - [Daniel Zhou'25](https://scholar.google.com/citations?user=HdpEOSoAAAAJ&hl=en), Lecturer, Princeton, [PhD Thesis](/assets/data/danielzhou-thesis.pdf)
 - [Haoran Li'25](https://scholar.google.com/citations?user=hVH03bUAAAAJ&hl=en), Postdoctoral Researcher, Princeton, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01tq57nv50z)
 - [Youssef Elasser'24](https://scholar.google.com/citations?user=VdbaC-oAAAAJ&hl=en), Research Scientist, Nvidia, [PhD Thesis](https://dataspace.princeton.edu/handle/88435/dsp01r781wk40r)
