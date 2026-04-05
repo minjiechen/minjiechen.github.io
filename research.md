@@ -6,9 +6,14 @@ subtitle: there is no best but only better
 
 ## Journal Publications
 
+### 2026
+
+- Y. Ding, X. Wang, Y. Zhu, M. Chen, S. Li and M. G. Allen, [Through-Silicon Via Coupled Inductors for Vertical Power Delivery](https://ieeexplore.ieee.org/document/11389176/), IEEE Transactions on Power Electronics, 2026.
+
 ### 2025
 
-- T. Sen, M. Liao, Y. Elasser, and M. Chen, [Radio Frequency Power Combining with Reactance Steering Network for Fusion Plasma Heating](https://ieeexplore.ieee.org/document/11058571), IEEE Transactions on Power Electronics, 2025.
+- M. Paluszek, C. Galea, J. Mo, S. Punjabi-Vinoth, M. Chen, T. Sen, S. Narumanchi, et al., [Wide-Bandgap Semiconductor Amplifiers for Fusion Plasma Heating and Control](https://www.tandfonline.com/doi/full/10.1080/15361055.2025.2540212), Fusion Science and Technology, October 2025.
+- T. Sen, M. Liao, Y. Elasser, and M. Chen, [Radio Frequency Power Combining with Reactance Steering Network for Fusion Plasma Heating](https://ieeexplore.ieee.org/document/11058571), IEEE Transactions on Power Electronics, vol. 40, no. 10, pp. 15700-15717, Oct. 2025.
 - T. Zhao, X. Dang, K. Manos, S. Zang, J. Mandal, M. Chen, and G. H. Paulino, [Modular Chiral Origami Metamaterials](https://www.nature.com/articles/s41586-025-08851-0), Nature, 640, 931–940 (2025).
 - M. Chen, H. Cui, F. Blaabjerg, L. Lorenz, R. Hellinger, T. Gray, O. Fink, and K. Hermanns, [Power for AI and AI for Power: The Infinite Entanglement Between Artificial Intelligence and Power Electronics Systems](https://ieeexplore.ieee.org/document/10906734), IEEE Power Electronics Magazine, vol. 12, no. 1, pp. 37-43, March 2025.
 - M. Chen, C. R. Sullivan, et. al., [MagNet Challenge for Data-Driven Power Magnetics Modeling](https://ieeexplore.ieee.org/document/10699398), IEEE Open Journal of Power Electronics, vol. 6, pp. 883-898, 2025.
@@ -21,7 +26,7 @@ subtitle: there is no best but only better
 - D. H. Zhou, J. Celikovic, D. Maksimovic, and M. Chen, [Balancing Multiphase FCML Converters with Coupled Inductors: Modeling, Analysis, Limitations](https://ieeexplore.ieee.org/document/10508487), IEEE Transactions on Power Electronics, vol. 39, no. 8, pp. 9268-9291, Aug. 2024.
 - Y. Li, Y. Liao, M. Chen, X. Wang, L. Nordström, P. Mittal, and H. V. Poor, [Machine Learning at the Grid-Edge: Data-Driven Impedance Models for Model-Free Smart Inverters](https://ieeexplore.ieee.org/document/10529635), IEEE Transactions on Power Electronics, vol. 39, no. 8, pp. 10465-10481, Aug. 2024.
 - S. Wang, H. Li, D. Serrano; T. Guillod, J. Li, C. R. Sullivan, and M. Chen, [A Simplified Dc-Bias Injection Method for Characterizing Power Magnetics using a Voltage Mirror Transformer](https://ieeexplore.ieee.org/document/10460202), IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 6608-6612, June 2024.
-- T. Sen, Y. Elasser and M. Chen, [Origami Inductor: Foldable 3-D Polyhedron Multiphase Air-Coupled Inductors with Flux Cancellation and Faster Transient](), IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7312-7328, June 2024.
+- T. Sen, Y. Elasser and M. Chen, [Origami Inductor: Foldable 3-D Polyhedron Multiphase Air-Coupled Inductors with Flux Cancellation and Faster Transient](https://ieeexplore.ieee.org/document/10462531/), IEEE Transactions on Power Electronics, vol. 39, no. 6, pp. 7312-7328, June 2024.
 - Z. Zheng, P. Kumar, Y. Chen, H. Cheng, S. Wagner, M. Chen, N. Verma, J. C. Sturm, [Piezoelectric Soft Robot Inchworm Motion by Tuning Ground Friction through Robot Shape: Quasi-Static Modeling and Experimental Validation](https://ieeexplore.ieee.org/document/10388475), IEEE Transactions on Robotics, vol. 40, pp. 2339-2356, 2024.
 - Y. Liao, Y. Li, M. Chen, L. Nordström, X. Wang, P. Mittal, and H. V. Poor, [Neural Network Design for Impedance Modeling of Power Electronic Systems Based on Latent Features](https://ieeexplore.ieee.org/document/10021300), IEEE Trans. on Neural Networks and Learning Systems, vol. 35, no. 5, pp. 5968-5980, May 2024.
 - Y. Elasser, J. Baek, K. Radhakrishnan, H. Gan, J. Douglas, H. K. Krishnamurthy, X. Li, S. Jiang, V. De, C. R. Sullivan, M. Chen, [Mini-LEGO CPU Voltage Regulator](https://ieeexplore.ieee.org/document/10329461), IEEE Transactions on Power Electronics, vol. 39, no. 3, pp. 3391-3410, March 2024.
@@ -72,3 +77,40 @@ subtitle: there is no best but only better
 - M. Chen, K. K. Afridi, and D. J. Perreault, [A Multilevel Energy Buffer and Voltage Modulator for Grid-Interfaced Micro-inverters](http://ieeexplore.ieee.org/document/6807743/), IEEE Transactions on Power Electronics, 30(3): 1203-1219, Mar. 2015.
 - K. K. Afridi, M. Chen, and D. J. Perreault, [Enhanced Stacked Switched Capacitor Energy Buffer Architecture](http://ieeexplore.ieee.org/document/6567991/), IEEE Transactions on Industry Applications, 50(2): 1141-1149, Mar. 2014.
 - M. Chen, K. K. Afridi, and D. J. Perreault, [Stacked Switched Capacitor Energy Buffer Architecture](http://ieeexplore.ieee.org/document/6457459/), IEEE Transactions on Power Electronics, 28(11): 5183-5195, Nov. 2013.
+
+## Conference Publications
+
+### 2026
+
+- E. Veilleux, H. Cheng, S. Wagner, N. Verma, J. C. Sturm, and M. Chen, "SeaViper: An Efficient Thin 2D Surface-Swimming Soft Robot," IEEE International Conference on Robotics and Automation (ICRA), Vienna, Austria, 2026.
+- D. Grigoryan, H. Cui, and M. Chen, "LLG-SPICE: A Unified Model for Simulating Planar Magnetics with Material Physics Properties," IEEE Applied Power Electronics Conference (APEC), 2026.
+- Y. Ding, X. Wang, A. Yang, Y. Zhu, M. Chen, L. Gu, M. Allen, "Coaxial Through-Silicon via Micro-Transformers: Design, Fabrication, and Power Conversion Demonstration," IEEE Applied Power Electronics Conference (APEC), San Antonio, USA, 2026.
+
+### 2025
+
+- M. Liao, T. Sen and M. Chen, [A High-Frequency-Link Single-Stage Three-Phase Cyclo-Active-Bridge Inverter](https://ieeexplore.ieee.org/document/11260307/), IEEE Energy Conversion Conference Congress and Exposition (ECCE), Philadelphia, PA, USA, 2025.
+- T. Sen, M. Liao and M. Chen, [Systematic Small-Signal Modeling of a Three-Phase Cyclo-Active-Bridge Grid Interface Inverter](https://ieeexplore.ieee.org/document/11259730/), IEEE Energy Conversion Conference Congress and Exposition (ECCE), Philadelphia, PA, USA, 2025.
+- H. Cheng et al., [eViper-2D: A Thin Large-Area Soft Robotics Platform](https://ieeexplore.ieee.org/document/11128737/), IEEE International Conference on Robotics and Automation (ICRA), Atlanta, GA, USA, 2025.
+- W. Zeng et al., [Chiplet-LEGO: Delivering Multiple Voltage Rails to Chiplets with Chiplet VRMs](https://ieeexplore.ieee.org/document/11121243/), IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Knoxville, TN, USA, 2025.
+- S. Wang et al., [Unified Time Domain Foundation Models for Hysteretic Passive Components](https://ieeexplore.ieee.org/document/11121278/), IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Knoxville, TN, USA, 2025.
+- D. H. Zhou and M. Chen, [Distributed Switching and Coupled Passives for High Performance Power Electronics](https://ieeexplore.ieee.org/document/11121288/), IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Knoxville, TN, USA, 2025.
+- G.-G. Kang, M. Chen, and H.-S. Kim, [A 5V-Input, 12.5-to-45V-Output Reconfigurable Hybrid Boost Converter with an SC-Based Parallel Auxiliary Cell](https://ieeexplore.ieee.org/document/10982703/), IEEE Custom Integrated Circuits Conference (CICC), Boston, MA, USA, 2025.
+- K. Manos et al., [Wireless Actuation of Magnetic Robots with a Modular 60 mT 3-D Helmholtz Coil System](https://ieeexplore.ieee.org/document/10977109/), IEEE Applied Power Electronics Conference (APEC), Atlanta, GA, USA, 2025.
+- T. Sen, M. Liao, Y. Wu and M. Chen, [Modeling and Control of a Cyclo-Active-Bridge Inverter for Single-Stage Three-Phase Grid Interface](https://ieeexplore.ieee.org/document/10977218/), IEEE Applied Power Electronics Conference (APEC), Atlanta, GA, USA, 2025.
+- M. Liao, T. Sen, Y. Wu and M. Chen, [Analysis and Design of a Cyclo-Active-Bridge Inverter for Single-Stage Three-Phase Grid Interface](https://ieeexplore.ieee.org/document/10977301/), IEEE Applied Power Electronics Conference (APEC), Atlanta, GA, USA, 2025.
+- H. Li, W. Zeng, Y. Elasser and M. Chen, [Air-LEGO: A Magnetic-Free Ultra-Thin 24V-to-1V 120A VRM with Air-Coupled Inductors](https://ieeexplore.ieee.org/document/10977497/), IEEE Applied Power Electronics Conference (APEC), Atlanta, GA, USA, 2025.
+- D. H. Zhou, K. Manos and M. Chen, [An Ultra-Fast Very Large Scale Interleaved Li-Fi Transmitter](https://ieeexplore.ieee.org/document/10977284/), IEEE Applied Power Electronics Conference (APEC), Atlanta, GA, USA, 2025.
+- D. Grigoryan et al., [PiezoNet and Data-Driven Models for Time-Domain Characterization of Piezoelectric Resonators](https://ieeexplore.ieee.org/document/10977530/), IEEE Applied Power Electronics Conference (APEC), 2025.
+- H. Kwon et al., [MagNetX: Extending the MagNet Database for Modeling Power Magnetics in Transient](https://ieeexplore.ieee.org/document/10977252/), IEEE Applied Power Electronics Conference (APEC), 2025.
+- S. Wang et al., [MagNetX: Foundation Neural Network Models for Simulating Power Magnetics in Transient](https://ieeexplore.ieee.org/document/10977420/), IEEE Applied Power Electronics Conference (APEC), 2025.
+
+### 2024
+
+- R. Brun et al., "Quantum Cascade Lasers Powered by a Pulsed 6.78 MHz Wireless Power Transfer System," Conference on Lasers and Electro-Optics (CLEO), 2024.
+- M. Chen and D. C. Cheng, [Power Electronics Turing Test: A Path Toward Strong AI in Power Electronics](https://ieeexplore.ieee.org/document/10613961/), IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), 2024.
+- S. Wang et al., [A Pulsed 6.78 MHz Inductive Wireless Power Transfer System for Quantum Cascade Lasers](https://ieeexplore.ieee.org/document/10509236/), IEEE Applied Power Electronics Conference (APEC), 2024.
+- M. Liao et al., [Drone Charging Stations on Telecom Towers with Series-Stacked Capacitive Differential Wireless Power Transfer](https://ieeexplore.ieee.org/document/10509159/), IEEE Applied Power Electronics Conference (APEC), 2024.
+- T. Sen et al., [Power Amplifiers with Reactance Steering Network for Efficient Driving of Variable Impedance Inductively Coupled Plasma Coils](https://ieeexplore.ieee.org/document/10509276/), IEEE Applied Power Electronics Conference (APEC), 2024.
+- J. Li et al., [Investigating the Mutual Impact of Waveform, Temperature, and DC-Bias on Magnetic Core Loss Using Neural Network Models](https://ieeexplore.ieee.org/document/10509194/), IEEE Applied Power Electronics Conference (APEC), 2024.
+- D. Zhou and M. Chen, [Feedback Modelling of Passively Balanced Flying Capacitor Multilevel Converters with Coupled Inductors](https://ieeexplore.ieee.org/document/10509280/), IEEE Applied Power Electronics Conference (APEC), 2024.
+- K. Yi et al., "A Machine Learning-Assisted Multi-Objective Optimization for Power Pulsation Buffers," IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), 2024.2013.
