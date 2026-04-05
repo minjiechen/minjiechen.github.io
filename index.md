@@ -37,7 +37,26 @@ subtitle: smaller, smarter, faster, more efficient, and AI
 
 ## News
 
-- 2026/04: [Hsin Cheng](https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en) defended his PhD thesis [Energy-Aware Design Methods for Piezoelectric Mechatronic Systems](/assets/data/danielzhou-thesis.pdf).
+- 2026/03: [Prof. Chen](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) delivered a keynote speech at APEC 2026 on MagNet Challenge and Artificial Intelligence. 
+
+<div style="margin: 15px 0;">
+    <iframe src="/assets/data/apec26-keynote.pdf" width="100%" height="500px" style="border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p>Your browser does not support PDFs. <a href="/assets/data/apec26-keynote.pdf">Download the PDF</a>.</p>
+    </iframe>
+</div>
+
+- 2026/03: [Davit Grigoryan](https://scholar.google.com/citations?user=ECMrftkAAAAJ&hl=en) received the Outstanding Presentation Award at APEC 2026 with his paper. 
+
+<div style="display: flex; gap: 2%; justify-content: space-between; margin-bottom: 15px;">
+    <div style="width: 48%;">
+        <img src="/assets/img/news/davit1.jpg" alt="davit1" style="width: 100%; object-fit: cover; aspect-ratio: 4/3; border-radius: 8px;">
+    </div>
+    <div style="width: 48%;">
+        <img src="/assets/img/news/davit2.jpg" alt="davit2" style="width: 100%; object-fit: cover; aspect-ratio: 4/3; border-radius: 8px;">
+    </div>
+</div>
+
+- 2026/03: [Hsin Cheng](https://scholar.google.com/citations?user=YpbgNM8AAAAJ&hl=en) defended his PhD thesis [Energy-Aware Design Methods for Piezoelectric Mechatronic Systems](/assets/data/danielzhou-thesis.pdf).
 
 <div style="display: flex; gap: 2%; justify-content: space-between; margin-bottom: 15px;">
     <div style="width: 48%;">
