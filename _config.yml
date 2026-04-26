@@ -25,6 +25,7 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Projects:
+    - CoupMag Expert: "coupmagexpert"
     - MagNet Project: "https://github.com/PrincetonUniversity/Magnet"
     - MagNet Challenge 1: "https://github.com/minjiechen/magnetchallenge-1"
     - MagNet Challenge 2: "https://github.com/minjiechen/magnetchallenge-2"
@@ -305,4 +306,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

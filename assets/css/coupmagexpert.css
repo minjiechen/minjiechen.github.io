@@ -1,0 +1,453 @@
+.coupmag-page {
+  --coupmag-ink: #15171a;
+  --coupmag-muted: #5d6673;
+  --coupmag-line: #d8dee7;
+  --coupmag-soft: #f6f8fb;
+  --coupmag-orange: #e77500;
+  --coupmag-blue: #0f6f8f;
+  --coupmag-green: #286f4b;
+  --coupmag-gold: #8a6500;
+  --coupmag-red: #a33a2f;
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 0 0 2.5rem;
+  color: var(--coupmag-ink);
+}
+
+.coupmag-page * {
+  box-sizing: border-box;
+}
+
+.coupmag-shell,
+.coupmag-section {
+  border: 1px solid var(--coupmag-line);
+  background: #fff;
+  margin: 1.25rem 0;
+  padding: 1.25rem;
+}
+
+.coupmag-shell {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1.5rem;
+  border-top: 4px solid var(--coupmag-orange);
+}
+
+.coupmag-kicker {
+  margin: 0 0 0.35rem;
+  color: var(--coupmag-blue);
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.coupmag-shell h2,
+.coupmag-section h2,
+.coupmag-method-panel h3,
+.coupmag-panel h3 {
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 0;
+}
+
+.coupmag-shell h2 {
+  margin: 0 0 0.45rem;
+  font-size: 1.75rem;
+}
+
+.coupmag-shell p,
+.coupmag-section-heading p,
+.coupmag-panel p {
+  color: var(--coupmag-muted);
+}
+
+.coupmag-shell p {
+  max-width: 740px;
+  margin: 0;
+}
+
+.coupmag-actions {
+  display: flex;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.coupmag-button,
+.coupmag-tab {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  min-height: 2.55rem;
+  border: 1px solid var(--coupmag-line);
+  background: #fff;
+  color: var(--coupmag-ink);
+  border-radius: 6px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+
+.coupmag-button {
+  padding: 0.5rem 0.8rem;
+}
+
+.coupmag-button:hover,
+.coupmag-button:focus,
+.coupmag-tab:hover,
+.coupmag-tab:focus {
+  border-color: var(--coupmag-orange);
+  color: #8a4300;
+  outline: none;
+}
+
+.coupmag-section-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: baseline;
+  margin-bottom: 1rem;
+}
+
+.coupmag-section h2 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.coupmag-section-heading p {
+  margin: 0;
+  max-width: 640px;
+}
+
+.coupmag-grid {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.coupmag-grid-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.coupmag-field,
+.coupmag-metric,
+.coupmag-method-panel,
+.coupmag-panel {
+  border: 1px solid var(--coupmag-line);
+  background: var(--coupmag-soft);
+  border-radius: 8px;
+}
+
+.coupmag-field,
+.coupmag-metric {
+  padding: 0.85rem;
+}
+
+.coupmag-field label,
+.coupmag-field span:first-child,
+.coupmag-metric span:first-child {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--coupmag-muted);
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.coupmag-field input {
+  width: 100%;
+  min-height: 2.55rem;
+  border: 1px solid #bbc5d2;
+  border-radius: 6px;
+  padding: 0.45rem 0.6rem;
+  background: #fff;
+  color: var(--coupmag-ink);
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+}
+
+.coupmag-field input:focus {
+  border-color: var(--coupmag-blue);
+  box-shadow: 0 0 0 3px rgba(15, 111, 143, 0.14);
+  outline: none;
+}
+
+.coupmag-value,
+.coupmag-metric strong {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.coupmag-unit-label,
+.coupmag-value[data-unit]::after {
+  color: var(--coupmag-muted);
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.coupmag-unit-label {
+  margin-left: 0.3rem;
+}
+
+.coupmag-value[data-unit]::after {
+  content: " " attr(data-unit);
+}
+
+.coupmag-metric strong {
+  display: block;
+  min-height: 1.55rem;
+  overflow-wrap: anywhere;
+  color: var(--coupmag-ink);
+  font-size: 1.02rem;
+}
+
+.coupmag-status {
+  margin: 0.9rem 0 0;
+  min-height: 1.5rem;
+  color: var(--coupmag-red);
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.coupmag-method-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.95rem;
+}
+
+.coupmag-method-panel {
+  padding: 1rem;
+  background: #fff;
+}
+
+.coupmag-method-panel h3 {
+  margin: 0 0 0.9rem;
+  font-size: 1rem;
+}
+
+.coupmag-method-panel.is-dual {
+  border-top: 4px solid var(--coupmag-green);
+}
+
+.coupmag-method-panel.is-matrix {
+  border-top: 4px solid var(--coupmag-orange);
+}
+
+.coupmag-method-panel.is-transformer {
+  border-top: 4px solid var(--coupmag-gold);
+}
+
+.coupmag-method-panel .coupmag-field {
+  margin-bottom: 0.75rem;
+  background: #fff;
+}
+
+.coupmag-ratio {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.7rem;
+  border-top: 1px solid var(--coupmag-line);
+  margin-top: 0.35rem;
+  padding-top: 0.75rem;
+  color: var(--coupmag-muted);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+}
+
+.coupmag-ratio strong {
+  color: var(--coupmag-ink);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+  text-align: right;
+}
+
+.coupmag-tabbar {
+  display: flex;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.coupmag-tab {
+  min-width: 12rem;
+  padding: 0.55rem 0.75rem;
+}
+
+.coupmag-tab[aria-selected="true"] {
+  border-color: var(--coupmag-blue);
+  background: #e9f4f7;
+  color: #064d64;
+}
+
+.coupmag-panel {
+  padding: 1rem;
+  background: #fff;
+}
+
+.coupmag-panel[hidden] {
+  display: none;
+}
+
+.coupmag-panel-grid {
+  display: grid;
+  grid-template-columns: minmax(280px, 0.9fr) minmax(360px, 1.25fr);
+  gap: 1rem;
+  align-items: start;
+}
+
+.coupmag-model-media {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.coupmag-equation-block,
+.coupmag-figure {
+  border: 1px solid var(--coupmag-line);
+  background: var(--coupmag-soft);
+  border-radius: 8px;
+}
+
+.coupmag-equation-block {
+  min-height: 12rem;
+  max-height: 22rem;
+  padding: 0.85rem;
+  overflow: auto;
+}
+
+.coupmag-figure {
+  min-height: 14rem;
+  margin: 0;
+  padding: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.coupmag-figure img {
+  display: block;
+  width: 100%;
+  max-height: 17rem;
+  object-fit: contain;
+}
+
+.coupmag-output-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.coupmag-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--coupmag-line);
+  border-radius: 8px;
+}
+
+.coupmag-table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.coupmag-table caption {
+  caption-side: top;
+  padding: 0.75rem 0.85rem;
+  color: var(--coupmag-ink);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  text-align: left;
+}
+
+.coupmag-table th,
+.coupmag-table td {
+  border-top: 1px solid var(--coupmag-line);
+  padding: 0.65rem 0.85rem;
+  vertical-align: middle;
+}
+
+.coupmag-table th {
+  width: 8rem;
+  color: var(--coupmag-muted);
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.86rem;
+  text-align: left;
+}
+
+.coupmag-table td:nth-child(2) {
+  min-width: 18rem;
+}
+
+.coupmag-value {
+  min-width: 9rem;
+  color: var(--coupmag-ink);
+  text-align: right;
+  white-space: nowrap;
+}
+
+.coupmag-equation {
+  display: block;
+  overflow-x: auto;
+  padding-bottom: 0.15rem;
+}
+
+.coupmag-credit {
+  margin: 1.4rem 0 0;
+  color: var(--coupmag-muted);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.coupmag-credit a {
+  font-weight: 700;
+}
+
+@media (max-width: 1080px) {
+  .coupmag-grid-3,
+  .coupmag-method-grid,
+  .coupmag-panel-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .coupmag-panel-grid {
+    gap: 0.85rem;
+  }
+}
+
+@media (max-width: 720px) {
+  .coupmag-page {
+    padding-bottom: 1.5rem;
+  }
+
+  .coupmag-shell,
+  .coupmag-section {
+    padding: 1rem;
+  }
+
+  .coupmag-shell,
+  .coupmag-section-heading {
+    display: block;
+  }
+
+  .coupmag-shell h2 {
+    font-size: 1.45rem;
+  }
+
+  .coupmag-actions {
+    justify-content: flex-start;
+    margin-top: 1rem;
+  }
+
+  .coupmag-button,
+  .coupmag-tab {
+    width: 100%;
+  }
+
+  .coupmag-table {
+    min-width: 500px;
+  }
+}
