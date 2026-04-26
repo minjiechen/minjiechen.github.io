@@ -1,0 +1,349 @@
+.m2spice-page {
+  --m2spice-ink: #172029;
+  --m2spice-muted: #5d6874;
+  --m2spice-line: #d6dde5;
+  --m2spice-soft: #f5f7fa;
+  --m2spice-blue: #0c6f99;
+  --m2spice-blue-deep: #084d6d;
+  --m2spice-copper: #b75a2b;
+  --m2spice-green: #27704f;
+  --m2spice-red: #a23a34;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 0 2.5rem;
+  color: var(--m2spice-ink);
+}
+
+.m2spice-page * {
+  box-sizing: border-box;
+}
+
+.m2spice-shell,
+.m2spice-tool,
+.m2spice-panel {
+  border: 1px solid var(--m2spice-line);
+  background: #fff;
+}
+
+.m2spice-shell {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.25rem;
+  margin: 1.25rem 0;
+  padding: 1.25rem;
+  border-top: 4px solid var(--m2spice-copper);
+}
+
+.m2spice-shell-copy {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.95rem;
+}
+
+.m2spice-icon {
+  width: 3.75rem;
+  height: 3.75rem;
+  flex: 0 0 auto;
+  border: 1px solid var(--m2spice-line);
+  border-radius: 8px;
+}
+
+.m2spice-kicker,
+.m2spice-field label,
+.m2spice-field .m2spice-unit,
+.m2spice-status,
+.m2spice-guide figcaption {
+  font-family: "Open Sans", sans-serif;
+}
+
+.m2spice-kicker {
+  margin: 0 0 0.35rem;
+  color: var(--m2spice-blue);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.m2spice-shell h2,
+.m2spice-section-heading h2,
+.m2spice-fieldset h3,
+.m2spice-status-panel h2 {
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 0;
+}
+
+.m2spice-shell h2 {
+  margin: 0 0 0.4rem;
+  font-size: 1.75rem;
+}
+
+.m2spice-shell p {
+  max-width: 760px;
+  margin: 0;
+  color: var(--m2spice-muted);
+}
+
+.m2spice-actions,
+.m2spice-inline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  justify-content: flex-end;
+}
+
+.m2spice-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  min-height: 2.45rem;
+  border: 1px solid var(--m2spice-line);
+  border-radius: 6px;
+  padding: 0.45rem 0.75rem;
+  background: #fff;
+  color: var(--m2spice-ink);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+  transition: border-color 160ms ease, color 160ms ease, background 160ms ease;
+}
+
+.m2spice-button:hover,
+.m2spice-button:focus {
+  border-color: var(--m2spice-copper);
+  color: #8c3e1b;
+  outline: none;
+  text-decoration: none;
+}
+
+.m2spice-button.is-primary {
+  border-color: var(--m2spice-blue);
+  background: var(--m2spice-blue);
+  color: #fff;
+}
+
+.m2spice-button.is-primary:hover,
+.m2spice-button.is-primary:focus {
+  border-color: var(--m2spice-blue-deep);
+  background: var(--m2spice-blue-deep);
+  color: #fff;
+}
+
+.m2spice-tool {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 330px;
+  gap: 1.2rem;
+  margin: 1.25rem 0;
+  padding: 1.25rem;
+}
+
+.m2spice-form {
+  min-width: 0;
+}
+
+.m2spice-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.m2spice-section-heading h2,
+.m2spice-status-panel h2 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.m2spice-fieldset {
+  margin: 0 0 1rem;
+}
+
+.m2spice-fieldset h3 {
+  margin: 0 0 0.65rem;
+  color: var(--m2spice-blue-deep);
+  font-size: 1rem;
+}
+
+.m2spice-grid {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.m2spice-grid-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.m2spice-grid-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.m2spice-field {
+  min-width: 0;
+  border: 1px solid var(--m2spice-line);
+  border-radius: 8px;
+  padding: 0.8rem;
+  background: var(--m2spice-soft);
+}
+
+.m2spice-field label,
+.m2spice-field .m2spice-unit {
+  display: block;
+}
+
+.m2spice-field label {
+  margin-bottom: 0.35rem;
+  color: var(--m2spice-muted);
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.m2spice-field .m2spice-unit {
+  min-height: 1.1rem;
+  margin-top: 0.35rem;
+  color: var(--m2spice-muted);
+  font-size: 0.76rem;
+  font-weight: 700;
+}
+
+.m2spice-input,
+.m2spice-textarea {
+  width: 100%;
+  border: 1px solid #b9c4d0;
+  border-radius: 6px;
+  background: #fff;
+  color: var(--m2spice-ink);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.92rem;
+}
+
+.m2spice-input {
+  min-height: 2.5rem;
+  padding: 0.45rem 0.6rem;
+}
+
+.m2spice-input:focus,
+.m2spice-textarea:focus {
+  border-color: var(--m2spice-blue);
+  box-shadow: 0 0 0 3px rgba(12, 111, 153, 0.13);
+  outline: none;
+}
+
+.m2spice-side {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  min-width: 0;
+}
+
+.m2spice-status-panel {
+  border-left: 4px solid var(--m2spice-blue);
+  background: var(--m2spice-soft);
+  padding: 1rem;
+}
+
+.m2spice-status {
+  min-height: 4.25rem;
+  margin: 0.65rem 0 0;
+  color: var(--m2spice-muted);
+  font-size: 0.92rem;
+  font-weight: 700;
+  white-space: pre-line;
+}
+
+.m2spice-status.is-good {
+  color: var(--m2spice-green);
+}
+
+.m2spice-status.is-error {
+  color: var(--m2spice-red);
+}
+
+.m2spice-guide {
+  margin: 0;
+  border: 1px solid var(--m2spice-line);
+  background: #fff;
+  padding: 0.75rem;
+}
+
+.m2spice-guide img {
+  display: block;
+  width: 100%;
+  max-height: 440px;
+  object-fit: contain;
+  background: #fff;
+}
+
+.m2spice-guide figcaption {
+  margin-top: 0.65rem;
+  color: var(--m2spice-muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.m2spice-editor {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  gap: 1.2rem;
+}
+
+.m2spice-panel {
+  min-width: 0;
+  padding: 1.25rem;
+}
+
+.m2spice-textarea {
+  min-height: 28rem;
+  resize: vertical;
+  padding: 0.8rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 1050px) {
+  .m2spice-tool,
+  .m2spice-editor {
+    grid-template-columns: 1fr;
+  }
+
+  .m2spice-side {
+    display: grid;
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  }
+}
+
+@media (max-width: 760px) {
+  .m2spice-shell,
+  .m2spice-section-heading {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .m2spice-actions,
+  .m2spice-inline-actions {
+    justify-content: flex-start;
+  }
+
+  .m2spice-shell-copy {
+    flex-direction: column;
+  }
+
+  .m2spice-grid-2,
+  .m2spice-grid-3,
+  .m2spice-side {
+    grid-template-columns: 1fr;
+  }
+
+  .m2spice-tool,
+  .m2spice-panel,
+  .m2spice-shell {
+    padding: 1rem;
+  }
+
+  .m2spice-textarea {
+    min-height: 20rem;
+  }
+}

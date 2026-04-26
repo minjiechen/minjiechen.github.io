@@ -26,6 +26,7 @@ navbar-links:
   Teaching: "teaching"
   Projects:
     - CoupMag Expert: "coupmagexpert"
+    - M2Spice: "m2spice"
     - MagNet Project: "https://github.com/PrincetonUniversity/Magnet"
     - MagNet Challenge 1: "https://github.com/minjiechen/magnetchallenge-1"
     - MagNet Challenge 2: "https://github.com/minjiechen/magnetchallenge-2"
