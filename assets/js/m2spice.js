@@ -14,16 +14,16 @@
       { key: "s", label: "Spacing Thickness (s)", unit: "meters" },
       { key: "mus", label: "Spacing Permeabilities (mus)", unit: "H/m" },
       { key: "w", label: "Core Window Width (w)", unit: "meters" },
-      { key: "m", label: "Number of Turns on Each Layer (m)", unit: "1" }
-    ],
-    core: [
+      { key: "m", label: "Number of Turns on Each Layer (m)", unit: "1" },
       { key: "nwinding", label: "Number of Windings (nwinding)", unit: "1" },
       { key: "wstyle", label: "Connection Style of Each Winding (wstyle)", unit: "0=series, 1=parallel" },
       { key: "lindex", label: "Belongings of Each Layer to Windings (lindex)", unit: "winding index" },
+      { key: "d", label: "Effective Winding Length per Turn (d)", unit: "meters" }
+    ],
+    core: [
       { key: "gt", label: "Core Gap Length on the Top Side (gt)", unit: "meters" },
       { key: "gb", label: "Core Gap Length on the Bottom Side (gb)", unit: "meters" },
       { key: "Ac", label: "Effective Core Area (Ac)", unit: "meter^2" },
-      { key: "d", label: "Effective Winding Length per Turn (d)", unit: "meters" },
       { key: "c", label: "Thickness of the Top and Bottom Core (c)", unit: "meters" }
     ]
   };

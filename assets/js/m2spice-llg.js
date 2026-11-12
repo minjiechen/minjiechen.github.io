@@ -264,7 +264,7 @@
     const coreLe = opts.coreLe || null;
     const Z = impedances(g);
     const x = safeName(g.x);
-    const sub = core === "llg" ? `${x}_LLG` : `${x}_${core}`;
+    const sub = core === "llg" ? x : `${x}_${core}`;     // the web tool names the LLG block after the component alone
     const llgName = "LLGC_" + x;
     const { Ae, le } = llgCoreGeometry(g, Z, coreArea, coreLe);
     const pins = [];
@@ -545,7 +545,8 @@
     { key: "fit_Bpk", label: "Peak Flux Density (B_pk)", unit: "T", def: "0.2" },
     { key: "fit_waveform", label: "Flux Waveform", unit: "B(t) shape", type: "select",
       options: [["sine", "Sine"], ["triangle", "Triangle (D = 0.5)"], ["trapezoidal", "Trapezoid"]], def: "sine" },
-    { key: "fit_T", label: "Core Temperature (T)", unit: "deg C", def: "25" }
+    // shown in the Layer Stack and Windings group (LLG mode only); it still sets the extraction temperature
+    { key: "fit_T", label: "Operating Temperature (T)", unit: "deg C", def: "25", host: "[data-field-group='layers']" }
   ];
   // block option the extractor does not set (the material comes only from the fit). The Geometry Text box stays
   // the original M2Spice geometry; the LLG settings are not written into it.
@@ -559,7 +560,7 @@
 
   // material = {Ms, alpha, gamma, Hani_y, Hani_z} from the last extraction; the block always starts demagnetized,
   // M0 = (0, 1, 0) (a saturated start leaves a dc flux offset under voltage drive)
-  const ui = { ctx: null, files: null, tab: "lib", fit: null, material: null, nets: {}, pool: null, running: null, coreFLinked: true };
+  const ui = { ctx: null, files: null, tab: "asy", fitKey: null, fit: null, material: null, nets: {}, pool: null, running: null, coreFLinked: true };
 
   function q(sel) { return ui.ctx.page.querySelector(sel); }
   function qa(sel) { return Array.from(ui.ctx.page.querySelectorAll(sel)); }
@@ -614,10 +615,20 @@
     qa("[data-linear-only]").forEach((el) => { el.hidden = on; });
     const title = q("[data-netlist-title]");
     if (title) title.textContent = on ? "LTspice Block" : "SPICE Netlist";
+    ui.ctx.netlist.hidden = false;
     if (on && ui.files) showTab(ui.tab);
     else if (on) ui.ctx.netlist.value = "";
     if (!(on && ui.files)) q("[data-llg-symbol]").hidden = true;
     q("[data-llg-preview]").hidden = !(on && ui.fit);
+    showResults(on && !!ui.fit);
+  }
+
+  // the fit card + B-H loop panel next to the LTspice Block; the output row gets a third column while it shows
+  function showResults(on) {
+    const panel = q("[data-llg-results]");
+    if (!panel) return;
+    panel.hidden = !on;
+    if (panel.parentElement) panel.parentElement.classList.toggle("has-results", on);
   }
 
   function showTab(tab) {
@@ -635,17 +646,18 @@
       sym.innerHTML = show ? asySvg(f.text)
         + "<p class=\"m2spice-note\">Preview of the .asy symbol: dot = PortP (winding start). Put the .asy and .lib next to your schematic.</p>" : "";
       sym.hidden = !show;
+      ui.ctx.netlist.hidden = show;        // the symbol tab shows the drawing only; Copy/Download still give the .asy
     }
   }
 
-  function generateLLG() {
+  function generateLLG(extracted) {
     const ctx = ui.ctx;
     const res = root.M2Spice.readGeometry(ctx.readForm(), { allowErrors: true });
     const values = Object.assign({}, llgValues(), { core_area: CORE_AREA });
     if (ui.material) MATERIAL_KEYS.forEach((k) => { values[k] = String(ui.material[k]); });
     const o = readLLG(values);          // mx0/my0/mz0 not given -> the demagnetized default (0, 1, 0)
     const errors = res.errors.concat(o.errors);
-    if (!ui.material) errors.push("no core model yet: set the core operating point and press Extract Parameters.");
+    if (!ui.material) errors.push("no core model yet: press Generate to extract it.");
     ctx.syncGeometryText();
     if (errors.length) {
       ctx.setStatus(`Find ${errors.length} error${errors.length === 1 ? "" : "s"}:\n${errors.join("\n")}`, "error");
@@ -654,7 +666,31 @@
     ui.files = buildBlock(res.data, o.llg, { core: "llg", coreArea: o.coreArea, coreLe: o.coreLe, fit: ui.fit });
     showTab(ui.tab);
     ctx.setStatus(`LTspice block ${ui.files.sub} generated: ${ui.files.files.map((f) => f.name).join(", ")}.\n`
-      + "Core model from the extractor fit.\nPut the .lib and .asy next to your schematic; run .tran with uic.", "good");
+      + (extracted ? extracted + "\n" : "Core model from the last fit (core operating point unchanged).\n")
+      + "Put the .lib and .asy next to your schematic; run .tran with uic.", "good");
+  }
+
+  // Generate in LLG mode: check the inputs, extract the core model when the core operating point changed since the
+  // last fit, then build the block. A click while extracting cancels.
+  async function generateWithFit() {
+    const ctx = ui.ctx;
+    if (ui.running) { cancelExtraction(); return; }
+    const res = root.M2Spice.readGeometry(ctx.readForm(), { allowErrors: true });
+    const { op, errors: opErrors } = readOp();
+    const errors = res.errors.concat(readLLG(llgValues()).errors, opErrors);
+    if (errors.length) {
+      ctx.syncGeometryText();
+      ctx.setStatus(`Find ${errors.length} error${errors.length === 1 ? "" : "s"}:\n${errors.join("\n")}`, "error");
+      return;
+    }
+    let extracted = "";
+    if (!ui.fit || ui.fitKey !== opKey(op)) {
+      const fit = await runExtraction(op);
+      if (!fit) return;
+      extracted = `Core model extracted in ${fit.seconds.toFixed(1)} s: theta = ${fit.theta.toFixed(3)} deg, `
+        + `alpha = ${fit.alpha.toFixed(3)}, loop RRMSE = ${fit.rrmse.toFixed(4)}.`;
+    }
+    generateLLG(extracted);
   }
 
   function saveBlob(name, blob) {
@@ -774,17 +810,19 @@
     q("[data-llg-progress-text]").textContent = text || "";
   }
 
-  async function runExtraction() {
+  function opKey(op) { return JSON.stringify([op.material, op.f, op.Bpk, op.waveform, op.temp]); }
+
+  function cancelExtraction() {
+    if (!ui.running) return;
+    ui.running.cancelled = true;
+    if (ui.pool) { ui.pool.terminate(); ui.pool = null; }
+  }
+
+  // returns the fit, or null (failed or cancelled; the status says which)
+  async function runExtraction(op) {
     const ctx = ui.ctx;
-    const button = q("[data-action='llg-extract']");
-    if (ui.running) {           // second click = cancel
-      ui.running.cancelled = true;
-      if (ui.pool) { ui.pool.terminate(); ui.pool = null; }
-      return;
-    }
-    if (!X()) { ctx.setStatus("The extractor script did not load.", "error"); return; }
-    const { op, errors } = readOp();
-    if (errors.length) { ctx.setStatus(`Find ${errors.length} operating-point error${errors.length === 1 ? "" : "s"}:\n${errors.join("\n")}`, "error"); return; }
+    const button = q("[data-action='generate']");
+    if (!X()) { ctx.setStatus("The extractor script did not load.", "error"); return null; }
     const warn = X().rangeWarnings(op);
     const run = { cancelled: false };
     ui.running = run;
@@ -810,21 +848,22 @@
       });
       if (run.cancelled) throw new Error("cancelled");
       ui.fit = fit;
+      ui.fitKey = opKey(op);
       ui.material = { Ms: fit.Ms, alpha: fit.alpha, gamma: fit.gamma, Hani_y: fit.Hani_y, Hani_z: fit.Hani_z };
       ui.files = null;
       if (isLLG()) ctx.netlist.value = "";
       showFit(fit, warn);
       setProgress(null, "");
-      ctx.setStatus(`Extraction done in ${fit.seconds.toFixed(1)} s: theta = ${fit.theta.toFixed(3)} deg, alpha = ${fit.alpha.toFixed(3)}, `
-        + `loop RRMSE = ${fit.rrmse.toFixed(4)}.\nPress Generate for the LTspice block.`, "good");
+      return fit;
     } catch (e) {
       setProgress(null, "");
       const msg = String((e && e.message) || e);
       ctx.setStatus(msg === "cancelled" ? "Extraction cancelled." : "Extraction failed: " + msg, msg === "cancelled" ? "" : "error");
       if (ui.pool && msg !== "cancelled") { ui.pool.terminate(); ui.pool = null; }
+      return null;
     } finally {
       ui.running = null;
-      button.querySelector("span").textContent = "Extract Parameters";
+      button.querySelector("span").textContent = "Generate";
     }
   }
 
@@ -851,14 +890,17 @@
       + notes.map((n) => `<p class="m2spice-note is-warn">${n}</p>`).join("")
       + (warn && warn.length ? `<p class="m2spice-note is-warn">${warn.join("; ")}: the NN is extrapolating.</p>` : "");
     box.hidden = false;
+    showResults(true);
     renderPreview(fit);
   }
 
   function clearMaterial() {
     ui.material = null;
     ui.fit = null;
+    ui.fitKey = null;
     q("[data-llg-fit-result]").hidden = true;
     q("[data-llg-preview]").hidden = true;
+    showResults(false);
   }
 
   // axis helpers shared with the usage example (m2spice-plot.js)
@@ -942,7 +984,11 @@
       const opHost = q("[data-llg-group='op']");
       const blockHost = q("[data-llg-group='block']");
       if (!opHost || !blockHost) return;
-      opHost.innerHTML = OP_FIELDS.map((f) => fieldHtml(f)).join("");
+      opHost.innerHTML = OP_FIELDS.filter((f) => !f.host).map((f) => fieldHtml(f)).join("");
+      OP_FIELDS.filter((f) => f.host).forEach((f) => {
+        const host = q(f.host) || opHost;
+        host.insertAdjacentHTML("beforeend", fieldHtml(f, host === opHost ? "" : "data-llg-only hidden"));
+      });
       blockHost.insertAdjacentHTML("beforeend", BLOCK_FIELDS.map((f) => fieldHtml(f, "data-llg-only hidden")).join(""));
       resetLLGValues();
       const fInput = q("[data-field='f']");
@@ -953,20 +999,21 @@
         ui.coreFLinked = v === "" || v === analysisF();
       });
       coreF.addEventListener("change", () => { if (coreF.value.trim() === "") syncCoreF(); });
+      // the tooltip sits at a pixel offset in the plot, so a resize would leave it outside a narrower plot
+      root.addEventListener("resize", () => qa("[data-llg-plot] .m2spice-tooltip").forEach((t) => { t.hidden = true; }));
       q("[data-llg-mode]").addEventListener("change", () => {
         updateMode();
         ctx.setStatus(isLLG()
-          ? "LLG-SPICE mode: set the core operating point and press Extract Parameters, then Generate for the LTspice block."
+          ? "LLG-SPICE mode: set the core operating point and press Generate; it extracts the core model, then writes the LTspice block."
           : "Linear mode: Generate writes the M2Spice SPICE netlist.", "");
       });
       updateMode();
     },
     handleAction(action) {
-      if (action === "llg-extract") { runExtraction(); return true; }
       if (action === "llg-download-all") { downloadAll(); return true; }
       if (action === "llg-tab") return true;
       if (!isLLG()) return false;
-      if (action === "generate") { generateLLG(); return true; }
+      if (action === "generate") { generateWithFit(); return true; }
       if (action === "download-netlist") { downloadTab(); return true; }
       return false;
     },

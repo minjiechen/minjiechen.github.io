@@ -89,6 +89,10 @@
       el.classList.remove("is-invalid");
       setPath(p, f.k, v * f.s);
     });
+    if (!errors.length && !(p.phi >= 0 && p.phi <= 90)) {      // the page's range, as the slider (the solver takes +-180)
+      errors.push("Phase shift: enter 0 to 90 deg.");
+      fieldEl("phi").classList.add("is-invalid");
+    }
     if (!errors.length) DAB.validate(p).forEach((e) => errors.push(e + "."));
     return { params: p, errors };
   }
@@ -523,7 +527,7 @@
     range.addEventListener("change", () => { if (ui.hasRun) runSimulation(); });
     phi.addEventListener("input", () => {
       const v = Number(phi.value);
-      if (Number.isFinite(v)) range.value = String(Math.max(-90, Math.min(90, v)));
+      if (Number.isFinite(v)) range.value = String(Math.max(0, Math.min(90, v)));
     });
     page.addEventListener("input", (ev) => {
       const el = ev.target.closest("[data-dab-field]");

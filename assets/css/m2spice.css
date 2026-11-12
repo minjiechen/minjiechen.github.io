@@ -984,3 +984,171 @@ select.m2spice-input {
     min-height: 20rem;
   }
 }
+
+/* ---- two-column tool: Core Model | Winding Model ---- */
+.m2spice-tool.m2spice-tool-split {
+  display: block;
+  padding: 1rem 1.25rem;
+}
+
+.m2spice-columns {
+  display: grid;
+  grid-template-columns: minmax(0, 0.82fr) minmax(0, 1.18fr);
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.m2spice-column {
+  min-width: 0;
+}
+
+.m2spice-column + .m2spice-column {
+  border-left: 1px solid var(--m2spice-line);
+  padding-left: 1.25rem;
+}
+
+.m2spice-tool-split .m2spice-section-heading {
+  margin-bottom: 0.6rem;
+}
+
+.m2spice-tool-split .m2spice-fieldset {
+  margin: 0 0 0.75rem;
+}
+
+.m2spice-tool-split .m2spice-fieldset h3 {
+  margin: 0 0 0.4rem;
+  font-size: 0.95rem;
+}
+
+.m2spice-tool-split .m2spice-grid {
+  gap: 0.5rem;
+}
+
+.m2spice-tool-split .m2spice-field {
+  border-radius: 6px;
+  padding: 0.45rem 0.55rem;
+}
+
+.m2spice-tool-split .m2spice-field label {
+  margin-bottom: 0.2rem;
+  font-size: 0.74rem;
+  line-height: 1.25;
+}
+
+.m2spice-tool-split .m2spice-field .m2spice-unit {
+  min-height: 0;
+  margin-top: 0.2rem;
+  font-size: 0.7rem;
+  line-height: 1.25;
+}
+
+.m2spice-tool-split .m2spice-input {
+  min-height: 2.1rem;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.86rem;
+}
+
+.m2spice-tool-split .m2spice-extract-row {
+  margin-top: 0.25rem;
+}
+
+.m2spice-action-bar {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  margin-top: 0.5rem;
+  border-top: 1px solid var(--m2spice-line);
+  padding-top: 0.9rem;
+}
+
+.m2spice-tool-split .m2spice-action-bar .m2spice-extract-row {
+  margin-top: 0;
+}
+
+.m2spice-tool-split .m2spice-action-bar .m2spice-status-panel {
+  margin-top: 0;
+  padding: 0.6rem 0.9rem;
+}
+
+.m2spice-tool-split .m2spice-status-panel h2 {
+  font-size: 1rem;
+}
+
+.m2spice-tool-split .m2spice-status {
+  margin-top: 0.3rem;
+  font-size: 0.86rem;
+}
+
+@media (max-width: 1050px) {
+  .m2spice-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .m2spice-column + .m2spice-column {
+    order: -1;
+    border-left: 0;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  .m2spice-tool-split .m2spice-grid-2,
+  .m2spice-tool-split .m2spice-grid-3,
+  .m2spice-action-bar {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---- fit card + B-H loop next to the LTspice Block ---- */
+.m2spice-editor.has-results {
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.15fr) 320px;
+}
+
+.m2spice-results .m2spice-fit-result {
+  margin-top: 0;
+}
+
+.m2spice-results .m2spice-fit-result dl {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.4rem 0.75rem;
+}
+
+.m2spice-results .m2spice-fit-result dd {
+  font-size: 0.84rem;
+}
+
+.m2spice-results .m2spice-preview {
+  margin-top: 0.9rem;
+  border: 0;
+  padding: 0;
+}
+
+.m2spice-results .m2spice-preview h3 {
+  margin: 0;
+  color: var(--m2spice-blue-deep);
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 1050px) {
+  .m2spice-editor.has-results {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* three panels side by side (desktop only): titles on one line, buttons wrap below as a group */
+@media (min-width: 1051px) {
+  .m2spice-editor.has-results .m2spice-section-heading {
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+
+  .m2spice-editor.has-results .m2spice-section-heading h2 {
+    white-space: nowrap;
+  }
+
+  .m2spice-editor.has-results .m2spice-inline-actions {
+    flex-wrap: nowrap;
+  }
+}
