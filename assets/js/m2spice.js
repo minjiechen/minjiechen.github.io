@@ -50,7 +50,7 @@
   ];
 
   const exampleGeometry = {
-    f: "800000",
+    f: "200000",
     mur: "1000",
     nlayer: "10",
     h: "[0.071e-3,0.071e-3,0.071e-3,0.071e-3,0.071e-3,0.071e-3,0.071e-3,0.071e-3,0.071e-3,0.071e-3]",
@@ -71,6 +71,16 @@
   };
 
   const mu0 = 4 * Math.PI * 1e-7;
+
+  // Optional extensions (e.g. m2spice-llg.js) register here: init(ctx), handleAction(action, ctx) -> true when
+  // handled, afterAction(action, ctx).
+  const extensions = [];
+  let domContext = null;
+
+  function registerExtension(extension) {
+    extensions.push(extension);
+    if (domContext && extension.init) extension.init(domContext);
+  }
 
   function complex(re, im) {
     return { re, im };
@@ -538,11 +548,14 @@
     fillForm(exampleGeometry);
     syncGeometryText();
 
+    domContext = { page, readForm, fillForm, setStatus, syncGeometryText, checkGeometry, geometryText, netlist };
+
     page.addEventListener("click", (event) => {
       const button = event.target.closest("[data-action]");
       if (!button) return;
 
       const action = button.dataset.action;
+      if (extensions.some((extension) => extension.handleAction && extension.handleAction(action, domContext))) return;
       if (action === "example") loadExample();
       if (action === "clear") clearAll();
       if (action === "check") checkGeometry();
@@ -553,7 +566,10 @@
       if (action === "copy-netlist") {
         copyNetlist().catch(() => setStatus("Unable to copy the netlist in this browser.", "error"));
       }
+      extensions.forEach((extension) => extension.afterAction && extension.afterAction(action, domContext));
     });
+
+    extensions.forEach((extension) => extension.init && extension.init(domContext));
   }
 
   const api = {
@@ -562,7 +578,8 @@
     geometryToText,
     readGeometry,
     calculateImpedances,
-    generateNetlist
+    generateNetlist,
+    registerExtension
   };
 
   if (typeof module !== "undefined" && module.exports) {
