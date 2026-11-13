@@ -1,0 +1,44 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -112 -80 112 80
+TEXT 0 -62 Center 2 PM-SPICE
+ARC Normal -64 -16 -32 16 -60 12 -60 -12
+ARC Normal -64 8 -32 40 -48 40 -60 12
+ARC Normal -64 -40 -32 -8 -60 -12 -48 -40
+ARC Normal 32 -16 64 16 60 -12 60 12
+ARC Normal 32 8 64 40 60 12 48 40
+ARC Normal 32 -40 64 -8 48 -40 60 -12
+LINE Normal -8 -40 -8 40
+LINE Normal 8 -40 8 40
+LINE Normal -144 -48 -48 -48
+LINE Normal -48 -48 -48 -40
+LINE Normal -144 48 -48 48
+LINE Normal -48 48 -48 40
+CIRCLE Normal -67 -35 -61 -29
+LINE Normal 144 -48 48 -48
+LINE Normal 48 -48 48 -40
+LINE Normal 144 48 48 48
+LINE Normal 48 48 48 40
+CIRCLE Normal 61 -35 67 -29
+WINDOW 0 0 -88 Bottom 2
+WINDOW 3 0 88 Top 2
+WINDOW 39 0 112 Top 1
+WINDOW 40 0 132 Top 1
+SYMATTR Prefix X
+SYMATTR Value DAB_TX_LLG
+SYMATTR ModelFile DAB_TX_LLG.lib
+SYMATTR SpiceLine Ms=390000 alpha=3.33333 gamma=1.76e11
+SYMATTR SpiceLine2 Hani_z=1.59492 Hani_y=129.384 mx0=0 my0=1 mz0=0
+SYMATTR Description PM-SPICE MLM + LLG cores (dot = PortP). Needs .tran ... uic
+PIN -144 -48 NONE 0
+PINATTR PinName PortP1
+PINATTR SpiceOrder 1
+PIN -144 48 NONE 0
+PINATTR PinName PortN1
+PINATTR SpiceOrder 2
+PIN 144 -48 NONE 0
+PINATTR PinName PortP2
+PINATTR SpiceOrder 3
+PIN 144 48 NONE 0
+PINATTR PinName PortN2
+PINATTR SpiceOrder 4
