@@ -283,7 +283,7 @@
     const component = sanitizeComponentName(data.x);
     const now = options && options.date ? options.date : new Date();
     const dateText = typeof now === "string" ? now : now.toLocaleString();
-    const generatedBy = options && options.user ? options.user : "M2Spice web tool";
+    const generatedBy = options && options.user ? options.user : "PM-SPICE web tool";
     const lines = [];
 
     lines.push("");

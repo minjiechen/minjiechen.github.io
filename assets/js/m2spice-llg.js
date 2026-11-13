@@ -210,7 +210,7 @@
     sides.forEach(([tag, node, Ltot, Lgap]) => {
       const name = tag === "t" ? "top" : "bottom";
       if (core === "linear") {
-        L.push(`* ${name} ferrite (linear, M2Spice)`, `Lf${tag} ${node} G ${g6(Ltot)} Rser=1f`);
+        L.push(`* ${name} ferrite (linear, PM-SPICE)`, `Lf${tag} ${node} G ${g6(Ltot)} Rser=1f`);
         return;
       }
       L.push(`* ${name} ferrite: gap || plate`);
@@ -271,11 +271,11 @@
     for (let k = 1; k <= g.nwinding; k += 1) pins.push("PortP" + k, "PortN" + k);
     const turns = windingTurns(g);
     const bar = "* " + "=".repeat(94);
-    const kind = { llg: "LLG_CORE (nonlinear)", linear: "linear (M2Spice original)", split: "linear gap || linear plate" }[core];
+    const kind = { llg: "LLG_CORE (nonlinear)", linear: "linear (PM-SPICE original)", split: "linear gap || linear plate" }[core];
     const H = [
       bar,
-      `* ${sub} : M2Spice MLM of '${g.x}' with ${kind} ferrites`,
-      `* generated ${opts.date || stamp()} by ${opts.by || "the M2Spice web tool (LLG-SPICE)"}`,
+      `* ${sub} : PM-SPICE MLM of '${g.x}' with ${kind} ferrites`,
+      `* generated ${opts.date || stamp()} by ${opts.by || "the PM-SPICE web tool (LLG-SPICE)"}`,
       bar,
       `* ${g.nwinding} windings, ${g.nlayer} layers, MLM computed at f = ${g6(g.f)} Hz`
     ];
@@ -286,7 +286,7 @@
     });
     H.push(
       `* ferrites (field domain T0-G top, T${g.nlayer + 1}-G bottom):`,
-      `*   M2Spice Lft = ${g6(Z.Lft)} H, Lfb = ${g6(Z.Lfb)} H  (mur = ${g6(g.mur)})`,
+      `*   PM-SPICE Lft = ${g6(Z.Lft)} H, Lfb = ${g6(Z.Lfb)} H  (mur = ${g6(g.mur)})`,
       `*   = gap || plate: Lgap_t = ${Z.Lgap_t ? g6(Z.Lgap_t) : "none (gt=0)"}, Lgap_b = `
         + `${Z.Lgap_b ? g6(Z.Lgap_b) : "none (gb=0)"}, Lplate = mu0*mur*c*d/w = ${g6(Z.Lplate)} H`
     );
@@ -323,7 +323,7 @@
     const top = -Math.floor(hgt / 2);
     const lines = ["Version 4", "SymbolType BLOCK",
       `RECTANGLE Normal -64 ${top} 64 ${top + hgt}`,
-      `TEXT 0 ${top + 12} Center 1 ${core === "llg" ? "M2Spice+LLG" : "M2Spice"}`,
+      `TEXT 0 ${top + 12} Center 1 PM-SPICE`,
       `WINDOW 0 0 ${top - 8} Bottom 2`,
       `WINDOW 3 0 ${top + hgt + 8} Top 2`];
     const pinLines = [];
@@ -349,9 +349,9 @@
       const p1 = ["Ms", "alpha", "gamma", "Hani_z", "Hani_y"].map((p) => `${p}=${g6(llg[p])}`).join(" ");
       const p2 = ["mx0", "my0", "mz0"].map((p) => `${p}=${g6(llg[p])}`).join(" ");
       lines.push("SYMATTR SpiceLine " + p1, "SYMATTR SpiceLine2 " + p2,
-        "SYMATTR Description M2Spice MLM + LLG cores (dot = PortP). Needs .tran ... uic");
+        "SYMATTR Description PM-SPICE MLM + LLG cores (dot = PortP). Needs .tran ... uic");
     } else {
-      lines.push("SYMATTR Description M2Spice MLM, linear core");
+      lines.push("SYMATTR Description PM-SPICE MLM, linear core");
     }
     return lines.concat(pinLines).join("\n") + "\n";
   }
@@ -552,7 +552,7 @@
   // the original M2Spice geometry; the LLG settings are not written into it.
   // The plate area is always Ac from the geometry (core_area = Ac): B and saturation refer to the Ac section.
   const BLOCK_FIELDS = [
-    { key: "core_le", label: "Core Path Length (core_le)", unit: "m, datasheet le; blank = M2Spice plate inductance", def: "" }
+    { key: "core_le", label: "Core Path Length (core_le)", unit: "m, datasheet le; blank = PM-SPICE plate inductance", def: "" }
   ];
   const CORE_AREA = "Ac";
   const ALL_FIELDS = OP_FIELDS.concat(BLOCK_FIELDS);
@@ -1005,7 +1005,7 @@
         updateMode();
         ctx.setStatus(isLLG()
           ? "LLG-SPICE mode: set the core operating point and press Generate; it extracts the core model, then writes the LTspice block."
-          : "Linear mode: Generate writes the M2Spice SPICE netlist.", "");
+          : "Linear mode: Generate writes the PM-SPICE SPICE netlist.", "");
       });
       updateMode();
     },

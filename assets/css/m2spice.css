@@ -1149,6 +1149,16 @@ select.m2spice-input {
   }
 
   .m2spice-editor.has-results .m2spice-inline-actions {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 0.4rem;
+  }
+
+  /* compact, so the LTspice Block's three buttons fit on one row; they wrap (not overflow) on narrower screens */
+  .m2spice-editor.has-results .m2spice-inline-actions .m2spice-button {
+    gap: 0.35rem;
+    padding: 0.45rem 0.55rem;
+    font-size: 0.85rem;
+    white-space: nowrap;
   }
 }

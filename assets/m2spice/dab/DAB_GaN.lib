@@ -1,0 +1,41 @@
+* PM-SPICE DAB usage example: behavioural GaN power stages for the TIDA-010954 DAB (LTspice).
+* Written for this example (not a vendor model). Pins D IN S: IN is the logic input against ground (> 0 V = on), as
+* the LMG parts have the gate driver built in; the gate itself is internal.
+*   driver   IN > 0 charges the internal gate C_g to Vdrv through Rgon, IN <= 0 pulls it to Voff through Rgoff
+*   channel  symmetric: I = Isat(max(Vgs, Vgd)) tanh(Vds / Vk), Isat(v) = gm Vs ln(1 + exp((v - Vth) / Vs)), so with the
+*            gate off the FET conducts in reverse once Vsd > ~Vth (GaN third quadrant, no body diode)
+*   R_on     Ron (at the operating temperature) = channel Vk / Isat(Vdrv) + series Rd
+*   Coss     Q(v) = Qref ((v + v0)^n - v0^n) / ((Vref + v0)^n - v0^n): the datasheet fit Qref (v / Vref)^n, exact at
+*            Vref and finite at v = 0 (v0); linear below 0 V
+* Gate charge, Miller C and driver delays are not modelled; the edge rate is set by Rgon/Rgoff C_g and gm.
+
+.subckt GANFET D IN S Ron=3.753m Vth=2.15 gm=100 Vs=0.05 Vk=0.1 Vdrv=5 Voff=0 Cg=1n Rgon=2 Rgoff=0.5
++ Qref=44.05n Vref=50 nq=0.5 v0=1
+.param Ion={gm*Vs*ln(1+exp((Vdrv-Vth)/Vs))}
+.param Rch={Vk/Ion}
+.param Qden={pwr(Vref+v0,nq)-pwr(v0,nq)}
+.param C0={Qref*nq*pwr(v0,nq-1)/Qden}
+Bdrv S G I=if(V(IN)>0,(Vdrv-V(G,S))/Rgon,(Voff-V(G,S))/Rgoff)
+Cgs G S {Cg}
+Rgs G S 1Meg
+Rd D Dc {max(Ron-Rch,1u)}
+Bch Dc S I=gm*Vs*ln(1+exp((max(V(G,S),V(G,Dc))-Vth)/Vs))*tanh(V(Dc,S)/Vk)
+Coss Dc S Q=if(x>0,Qref*(pwr(x+v0,nq)-pwr(v0,nq))/Qden,C0*x)
+Rds Dc S 10Meg
+.ends GANFET
+
+* LMG2100R026 (100 V half bridge, one switch): 2.6-2.7 mOhm at 25 degC; Coss(tr) 881 pF over 0-50 V (Q 44 nC, n 0.5
+* assumed, as tida_config.QOSS_P); third quadrant ~2.0 V + 20 mOhm. Ron is passed at the operating temperature.
+.subckt GAN_P D IN S Ron=3.753m
+X1 D IN S GANFET Ron={Ron} Vth=2.15 gm=100 Vs=0.05 Vk=0.1 Vdrv=5 Voff=0 Cg=1n Rgon=2 Rgoff=0.5
++ Qref=44.05n Vref=50 nq=0.5 v0=1
+.ends GAN_P
+
+* LMG3656R025 (650 V), one AC switch = the switching FET + the on-state FET of the same four-quadrant pair, so Ron is
+* both FETs' (2 x 22 mOhm at 25 degC); Qoss 150 nC at 400 V, n 0.533 (tida_config.QOSS_S), pinned here at 59.24 nC at
+* 70 V (the bus of this example); third quadrant 1.8 V at 0.1 A, 3.4 V at 20 A (datasheet, one FET; here through both
+* FETs, so higher at high current).
+.subckt GAN_S D IN S Ron=66.88m
+X1 D IN S GANFET Ron={Ron} Vth=1.95 gm=100 Vs=0.05 Vk=0.2 Vdrv=6 Voff=0 Cg=1.5n Rgon=2 Rgoff=0.5
++ Qref=59.24n Vref=70 nq=0.533 v0=1
+.ends GAN_S

@@ -3,7 +3,8 @@
  * breakdown. The magnetics stay at the hardware preset (M2SpiceDAB.DEFAULTS: N27 transformer, N87 inductor), but
  * every operating point gets its own core parameters: after each run, (theta, alpha, Hc) of both cores are
  * re-extracted from the MagNet networks at the simulated flux (M2SpiceDAB.fitCores, on the extractor's worker pool)
- * and the point is simulated again. A newer change cancels a running extraction.
+ * and the point is simulated again. A newer change cancels a running extraction. The LTspice button zips the last run
+ * as a schematic with the LLG-SPICE blocks (m2spice-dab-ltspice.js).
  */
 (function (root) {
   "use strict";
@@ -489,7 +490,7 @@
     if (!r) { setStatus("Simulate first, then download the waveforms.", "error"); return; }
     const w = r.wave;
     const p = r.params;
-    const head = [`# M2Spice usage example: DAB ${p.V1} -> ${p.V2} V, ${p.f / 1e3} kHz, phi ${p.phi} deg, D1 ${p.D1}; two periods, t = 0 at the middle of the positive v_ab pulse`,
+    const head = [`# PM-SPICE usage example: DAB ${p.V1} -> ${p.V2} V, ${p.f / 1e3} kHz, phi ${p.phi} deg, D1 ${p.D1}; two periods, t = 0 at the middle of the positive v_ab pulse`,
       `# cores: transformer ${p.tx.material} theta ${p.tx.theta} alpha ${p.tx.alpha} Hc ${p.tx.Hc}; inductor ${p.ind.material} theta ${p.ind.theta} alpha ${p.ind.alpha} Hc ${p.ind.Hc}`,
       "t_us,v_ab_V,v_cm_V,i_p_A,i_L_A,i_m_A,v_Cb_V,H_tx_A_per_m,B_tx_T,H_L_A_per_m,B_L_T"];
     const lines = [];
@@ -497,16 +498,61 @@
       lines.push([w.t[i] * 1e6, w.vab[i], w.vcm[i], w.ip[i], w.iL[i], w.im[i], w.vCb[i], w.HT[i], w.BT[i], w.HL[i], w.BL[i]]
         .map((v) => Number(v.toPrecision(7))).join(","));
     }
-    const blob = new Blob([head.concat(lines).join("\n") + "\n"], { type: "text/csv;charset=utf-8" });
+    const name = `dab_${g6(p.V1)}V_${g6(p.V2)}V_${g6(p.f / 1e3)}kHz_phi${g6(p.phi)}.csv`;
+    saveBlob(name, new Blob([head.concat(lines).join("\n") + "\n"], { type: "text/csv;charset=utf-8" }));
+    setStatus(`${name} download started.`, "good");
+  }
+
+  function saveBlob(name, blob) {
     const url = URL.createObjectURL(blob);
     const a = doc.createElement("a");
     a.href = url;
-    a.download = `dab_${g6(p.V1)}V_${g6(p.V2)}V_${g6(p.f / 1e3)}kHz_phi${g6(p.phi)}.csv`;
+    a.download = name;
     doc.body.appendChild(a);
     a.click();
     a.remove();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
-    setStatus(`${a.download} download started.`, "good");
+  }
+
+  // ---------------------------------------------------------------- LTspice schematic
+  // an operating point and its cores as PM-SPICE-DAB.asc (m2spice-dab-ltspice.js, GaN power stages), zipped with the
+  // transformer and inductor blocks and the GaN library (assets/m2spice/dab/, the same for every operating point)
+  async function ltspiceZip(p, status) {
+    const LT = root.M2SpiceDABLTspice;
+    if (!LT || !root.M2SpiceLLG) { status("The LTspice export script did not load.", "error"); return; }
+    try {
+      if (!ui.blockFiles) {
+        ui.blockFiles = await Promise.all(LT.BLOCK_FILES.concat([LT.GAN_LIB]).map(async (name) => {
+          const res = await fetch(ASSET_BASE + "m2spice/dab/" + name);
+          if (!res.ok) throw new Error(`could not load ${name} (${res.status})`);
+          return { name, text: await res.text() };
+        }));
+      }
+      const sch = LT.buildSchematic(p, { Lind: DAB.derive(p).Lind });
+      const name = `PM-SPICE-DAB_${g6(p.V1)}V_${g6(p.V2)}V_phi${g6(p.phi)}.zip`;
+      saveBlob(name, new Blob([root.M2SpiceLLG.makeZip([sch].concat(ui.blockFiles))], { type: "application/zip" }));
+      status(`${name} download started: ${sch.name} with GaN power stages (${LT.GAN_LIB}) and the LLG-SPICE transformer and inductor blocks `
+        + `(transformer ${coreText(p.tx)}; inductor ${coreText(p.ind)}). Unzip into one folder and open ${sch.name} in LTspice; a run takes about 30 s.`, "good");
+    } catch (e) {
+      status("LTspice download failed: " + String((e && e.message) || e), "error");
+    }
+  }
+
+  // Results panel: the last run (its operating point and re-extracted cores)
+  function downloadLtspice() {
+    if (!ui.last) { setStatus("Simulate first, then download the LTspice schematic.", "error"); return; }
+    ltspiceZip(ui.last.params, setStatus);
+  }
+
+  // LTspice Block panel of the tool: the standard case (45 deg, the hardware preset and the paper's core sets)
+  if (root.M2Spice && root.M2Spice.registerExtension) {
+    root.M2Spice.registerExtension({
+      handleAction(action, ctx) {
+        if (action !== "dab-example-ltspice") return false;
+        ltspiceZip(DAB.merge({}), ctx.setStatus);
+        return true;
+      }
+    });
   }
 
   // ---------------------------------------------------------------- init
@@ -545,6 +591,7 @@
       if (a === "dab-simulate") runSimulation();
       else if (a === "dab-sweep") runSweep();
       else if (a === "dab-csv") downloadCsv();
+      else if (a === "dab-ltspice") downloadLtspice();
       else if (a === "dab-reset") {
         cancelBusy();
         reset();

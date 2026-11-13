@@ -1,17 +1,19 @@
 ---
 layout: page
-title: M2Spice
+title: PM-SPICE
+permalink: /pmspice/
 subtitle: Planar magnetics to SPICE netlist conversion tool
 full-width: true
 css:
-  - /assets/css/m2spice.css?v=20261112h
+  - /assets/css/m2spice.css?v=20261113i
 js:
-  - /assets/js/m2spice.js?v=20261112h
-  - /assets/js/m2spice-plot.js?v=20261112h
-  - /assets/js/m2spice-extract.js?v=20261112h
-  - /assets/js/m2spice-llg.js?v=20261112h
-  - /assets/js/m2spice-dab-sim.js?v=20261112h
-  - /assets/js/m2spice-dab.js?v=20261112h
+  - /assets/js/m2spice.js?v=20261113i
+  - /assets/js/m2spice-plot.js?v=20261113i
+  - /assets/js/m2spice-extract.js?v=20261113i
+  - /assets/js/m2spice-llg.js?v=20261113i
+  - /assets/js/m2spice-dab-sim.js?v=20261113i
+  - /assets/js/m2spice-dab-ltspice.js?v=20261113i
+  - /assets/js/m2spice-dab.js?v=20261113i
 ---
 
 <div class="m2spice-page" data-m2spice>
@@ -21,10 +23,10 @@ js:
       <div>
         <p class="m2spice-kicker">Princeton Power Electronics Tool</p>
         <h2 id="m2spice-title">Planar magnetics to SPICE netlist conversion</h2>
-        <p>M2Spice converts multilayer planar magnetic geometry into a SPICE-compatible equivalent circuit netlist.</p>
+        <p>PM-SPICE converts multilayer planar magnetic geometry into a SPICE-compatible equivalent circuit netlist.</p>
       </div>
     </div>
-    <div class="m2spice-actions" aria-label="M2Spice actions">
+    <div class="m2spice-actions" aria-label="PM-SPICE actions">
       <a class="m2spice-button" href="https://github.com/minjiechen/M2Spice" title="Open source repository" aria-label="Open source repository">
         <i class="fa-brands fa-github" aria-hidden="true"></i>
         <span>Source</span>
@@ -44,7 +46,7 @@ js:
     </div>
   </section>
 
-  <section class="m2spice-tool m2spice-tool-split" aria-label="M2Spice geometry input">
+  <section class="m2spice-tool m2spice-tool-split" aria-label="PM-SPICE geometry input">
     <form class="m2spice-form" data-form novalidate>
       <div class="m2spice-columns">
         <div class="m2spice-column" aria-labelledby="m2spice-core-heading">
@@ -58,7 +60,7 @@ js:
                 <label for="m2spice-core-model">Ferrite Model</label>
                 <select class="m2spice-input" id="m2spice-core-model" data-llg-mode>
                   <option value="llg" selected>LLG-SPICE nonlinear (LTspice block)</option>
-                  <option value="linear">Linear (M2Spice netlist)</option>
+                  <option value="linear">Linear (PM-SPICE netlist)</option>
                 </select>
                 <span class="m2spice-unit">LLG-SPICE replaces both ferrite plates with Landau-Lifshitz-Gilbert cores</span>
               </div>
@@ -138,7 +140,7 @@ js:
       <div class="m2spice-section-heading">
         <h2 data-netlist-title>SPICE Netlist</h2>
         <div class="m2spice-inline-actions">
-          <button class="m2spice-button" type="button" data-action="copy-netlist" title="Copy netlist" aria-label="Copy netlist">
+          <button class="m2spice-button" type="button" data-action="copy-netlist" data-linear-only title="Copy netlist" aria-label="Copy netlist">
             <i class="fa-solid fa-copy" aria-hidden="true"></i>
             <span>Copy</span>
           </button>
@@ -149,6 +151,10 @@ js:
           <button class="m2spice-button" type="button" data-action="llg-download-all" data-llg-only hidden title="Download the .lib and .asy as a zip" aria-label="Download all files as zip">
             <i class="fa-solid fa-file-zipper" aria-hidden="true"></i>
             <span>Download all</span>
+          </button>
+          <button class="m2spice-button" type="button" data-action="dab-example-ltspice" data-llg-only hidden title="Download the DAB usage example PM-SPICE-DAB (45 deg, 50 to 70 V, 150 kHz) as an LTspice schematic with GaN power stages and its LLG-SPICE transformer and inductor blocks" aria-label="Download the usage example LTspice schematic">
+            <i class="fa-solid fa-file-zipper" aria-hidden="true"></i>
+            <span>Usage Example</span>
           </button>
         </div>
       </div>
@@ -319,6 +325,10 @@ js:
         <button class="m2spice-button" type="button" data-action="dab-csv" title="Download the waveforms" aria-label="Download the waveforms as CSV">
           <i class="fa-solid fa-download" aria-hidden="true"></i>
           <span>CSV</span>
+        </button>
+        <button class="m2spice-button" type="button" data-action="dab-ltspice" title="Download this operating point as an LTspice schematic (PM-SPICE-DAB) with GaN power stages and the LLG-SPICE transformer and inductor blocks" aria-label="Download the LTspice schematic">
+          <i class="fa-solid fa-file-zipper" aria-hidden="true"></i>
+          <span>LTspice</span>
         </button>
       </div>
     </div>
